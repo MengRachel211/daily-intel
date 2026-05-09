@@ -249,13 +249,13 @@
 
 <script>
 const SECTIONS = [
-  { id:'news-0', query:'Nintendo Switch accessories gaming' },
-  { id:'news-1', query:'Steam Deck Valve gaming hardware' },
-  { id:'news-2', query:'NEX Playground Mattel gaming console' },
-  { id:'news-3', query:'Google Pixel phone accessories charger' },
-  { id:'news-4', query:'Meta Quest VR headset accessories' },
-  { id:'news-5', query:'ROG Ally gaming handheld AYANEO portable' },
-  { id:'news-6', query:'USB-C cable HDMI DisplayPort accessories market' },
+  { id:'news-0', query:'Nintendo Switch 配件 游戏' },
+  { id:'news-1', query:'Steam Deck Valve 掌机 游戏配件' },
+  { id:'news-2', query:'NEX Playground 游戏机 配件' },
+  { id:'news-3', query:'Google Pixel 手机 配件 充电' },
+  { id:'news-4', query:'Meta Quest VR 头显 配件' },
+  { id:'news-5', query:'游戏掌机 ROG Ally 掌上游戏机' },
+  { id:'news-6', query:'USB-C 线材 HDMI 快充 配件市场' },
 ];
 const MAX = 4;
 const TTL = 60 * 60 * 1000; // 1小时
@@ -346,7 +346,7 @@ async function loadSection(s, force=false){
   if(!force){ const c=getCache(s.query); if(c){ el.innerHTML=render(c); return; } }
   showLoading(el);
   try{
-    const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(s.query)}&hl=en-US&gl=US&ceid=US:en`;
+    const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(s.query)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`;
     const xml=await fetchWithProxy(rss,force);
     const items=parseXmlItems(xml);
     setCache(s.query,items);

@@ -186,10 +186,10 @@
 
 <script>
 const SECTIONS = [
-  { id:'news-0', query:'portable fan market cooling summer 2025' },
-  { id:'news-1', query:'neck fan mini portable cooling fan' },
-  { id:'news-2', query:'Amazon summer cooling deals Prime Day fan' },
-  { id:'news-3', query:'summer heatwave portable cooling heat wave' },
+  { id:'news-0', query:'便携风扇 市场 迷你风扇 趋势' },
+  { id:'news-1', query:'颈挂风扇 迷你风扇 便携制冷 爆款' },
+  { id:'news-2', query:'亚马逊 夏季 风扇 促销 跨境电商' },
+  { id:'news-3', query:'夏季酷暑 降温 便携 随身风扇' },
 ];
 const MAX = 4;
 const TTL = 60 * 60 * 1000;
@@ -279,7 +279,7 @@ async function loadSection(s, force=false){
   if(!force){ const c=getCache(s.query); if(c){ el.innerHTML=render(c); return; } }
   showLoading(el);
   try{
-    const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(s.query)}&hl=en-US&gl=US&ceid=US:en`;
+    const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(s.query)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`;
     const xml=await fetchWithProxy(rss,force);
     const items=parseXmlItems(xml);
     setCache(s.query,items);
