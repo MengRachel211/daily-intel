@@ -194,7 +194,7 @@ const SECTIONS = [
 const MAX = 4;
 const TTL = 60 * 60 * 1000;
 
-function strip(s){ return s ? s.replace(/<[^>]*>/g,'').replace(/&[a-z]+;/g,' ').trim() : ''; }
+function strip(s){ return s ? s.replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&[a-z]+;/g,' ').trim() : ''; }
 function cut(s,n){ s=strip(s); return s.length>n ? s.slice(0,n)+'…':s; }
 function fmt(d){ try{ const t=new Date(d); return t.toLocaleDateString('zh-CN',{month:'2-digit',day:'2-digit'})+' '+t.toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit'}); }catch{return d||'';} }
 function ckey(q){ return 'ae_'+encodeURIComponent(q).slice(0,30); }
@@ -212,13 +212,28 @@ function showLoading(el){
     +'<div class="skeleton"></div><div class="skeleton s"></div>';
 }
 
+function parseXmlItems(xmlStr){
+  const parser=new DOMParser();
+  const xml=parser.parseFromString(xmlStr,'text/xml');
+  const get=(el,tag)=>{const e=el.getElementsByTagName(tag);return e.length?(e[0].textContent||'').trim():'';};
+  return [...xml.querySelectorAll('item')].slice(0,MAX).map(item=>{
+    const rawTitle=get(item,'title');
+    const title=rawTitle.replace(/ [-–] [^-–]{1,60}$/,'').trim()||rawTitle;
+    const link=get(item,'link')||get(item,'guid')||'#';
+    const pubDate=get(item,'pubDate');
+    const author=get(item,'source')||get(item,'author')||'';
+    const description=get(item,'description');
+    return{title,link,pubDate,author,description};
+  });
+}
+
 function render(items){
   if(!items||!items.length) return '<div class="news-error">暂无最新资讯</div>';
   return items.slice(0,MAX).map(item=>{
     const title=strip(item.title||'无标题');
-    const desc=cut(item.description||item.content||'',110);
+    const desc=cut(item.description||'',110);
     const date=fmt(item.pubDate);
-    const src=strip(item.author||(item.source&&item.source.name)||'');
+    const src=strip(item.author||'');
     const link=item.link||'#';
     return `<div class="news-item">
       <div class="news-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>
@@ -236,15 +251,16 @@ async function loadSection(s, force=false){
   showLoading(el);
   try{
     const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(s.query)}&hl=en-US&gl=US&ceid=US:en`;
-    const url=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rss)}&count=${MAX}`;
-    const r=await fetch(url,{cache:force?'no-cache':'default'});
+    const proxy=`https://api.allorigins.win/get?url=${encodeURIComponent(rss)}`;
+    const r=await fetch(proxy,{cache:force?'no-cache':'default'});
     if(!r.ok) throw new Error('HTTP '+r.status);
     const d=await r.json();
-    if(d.status!=='ok') throw new Error('API error');
-    setCache(s.query,d.items||[]);
-    el.innerHTML=render(d.items||[]);
+    if(!d.contents) throw new Error('空响应');
+    const items=parseXmlItems(d.contents);
+    setCache(s.query,items);
+    el.innerHTML=render(items);
   }catch(e){
-    el.innerHTML=`<div class="news-error">⚠️ 获取失败，请检查网络连接后刷新<br><small style="color:#a0aec0">${e.message}</small></div>`;
+    el.innerHTML=`<div class="news-error">⚠️ 获取失败，请刷新重试<br><small style="color:#a0aec0">${e.message}</small></div>`;
   }
 }
 
