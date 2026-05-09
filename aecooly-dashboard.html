@@ -54,6 +54,7 @@
     .news-meta { display:flex; align-items:center; gap:5px; margin-top:4px; flex-wrap:wrap; }
     .news-tag { display:inline-block; padding:1px 7px; border-radius:10px; font-size:10px; font-weight:600; }
     .news-date { font-size:10px; color:var(--c-tiny); }
+    .region-tag { display:inline-block; padding:1px 6px; border-radius:8px; font-size:10px; background:#feebc8; color:#7b341e; font-weight:500; }
 
     .news-loading { padding:20px 15px; text-align:center; color:var(--c-muted); font-size:12.5px; }
     .loader { display:inline-block; width:14px; height:14px; border:2px solid #f0d9c4; border-top-color:#c05621; border-radius:50%; animation:spin 0.8s linear infinite; vertical-align:middle; margin-right:6px; }
@@ -186,10 +187,10 @@
 
 <script>
 const SECTIONS = [
-  { id:'news-0', query:'便携风扇 市场 迷你风扇 趋势' },
-  { id:'news-1', query:'颈挂风扇 迷你风扇 便携制冷 爆款' },
-  { id:'news-2', query:'亚马逊 夏季 风扇 促销 跨境电商' },
-  { id:'news-3', query:'夏季酷暑 降温 便携 随身风扇' },
+  { id:'news-0', query:'便携风扇 迷你风扇 市场趋势 跨境电商 亚马逊 portable fan market' },
+  { id:'news-1', query:'颈挂风扇 neck fan 迷你风扇 竞品 亚马逊畅销 Shopee' },
+  { id:'news-2', query:'亚马逊 Prime Day 夏季促销 风扇 Shopee Coupang 跨境运营' },
+  { id:'news-3', query:'夏季酷暑 高温 降温 便携随身风扇 宠物风扇 消费趋势 heatwave' },
 ];
 const MAX = 4;
 const TTL = 60 * 60 * 1000;
@@ -227,6 +228,27 @@ function parseXmlItems(xmlStr){
   });
 }
 
+function detectRegions(title, desc){
+  const t=(title+' '+desc).toLowerCase();
+  const map=[
+    {keys:['美国','amazon.com','united states',' us ',' usa ','north america','北美'],tag:'🇺🇸 美国'},
+    {keys:['英国','amazon.co.uk','united kingdom',' uk ','britain'],tag:'🇬🇧 英国'},
+    {keys:['德国','amazon.de','germany','deutschland'],tag:'🇩🇪 德国'},
+    {keys:['日本','amazon.co.jp','japan'],tag:'🇯🇵 日本'},
+    {keys:['加拿大','amazon.ca','canada'],tag:'🇨🇦 加拿大'},
+    {keys:['澳大利亚','amazon.com.au','australia'],tag:'🇦🇺 澳大利亚'},
+    {keys:['韩国','coupang','korea'],tag:'🇰🇷 韩国'},
+    {keys:['东南亚','shopee','lazada','singapore','新加坡','thailand','泰国','malaysia','马来西亚','philippines','菲律宾','vietnam','越南','indonesia','印尼'],tag:'🌏 东南亚'},
+    {keys:['墨西哥','巴西','mercado libre','拉美','latin america','mexico','brazil'],tag:'🌎 拉丁美洲'},
+    {keys:['中东','阿联酋','沙特','uae','saudi','middle east'],tag:'🌙 中东'},
+    {keys:['中国','国内','京东','天猫','淘宝','抖音','拼多多','taobao','tmall','jd.com','douyin'],tag:'🇨🇳 中国'},
+    {keys:['欧洲','europe','european','eu ','欧盟'],tag:'🇪🇺 欧洲'},
+    {keys:['印度','india','amazon.in'],tag:'🇮🇳 印度'},
+  ];
+  const found=map.filter(m=>m.keys.some(k=>t.includes(k))).map(m=>m.tag);
+  return found.length?found:['🌍 全球'];
+}
+
 function render(items){
   if(!items||!items.length) return '<div class="news-error">暂无最新资讯</div>';
   return items.slice(0,MAX).map(item=>{
@@ -235,11 +257,13 @@ function render(items){
     const date=fmt(item.pubDate);
     const src=strip(item.author||'');
     const link=item.link||'#';
+    const regions=detectRegions(title, strip(item.description||''));
     return `<div class="news-item">
       <div class="news-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>
       ${desc?`<div class="news-body">${desc}</div>`:''}
       <div class="news-meta">
         ${src?`<span class="news-tag">${src}</span>`:''}
+        ${regions.map(r=>`<span class="region-tag">${r}</span>`).join('')}
         <span class="news-date">${date}</span>
       </div></div>`;
   }).join('');
