@@ -186,20 +186,33 @@
 <div class="page-footer">Aecooly 每日市场情报看板 &nbsp;·&nbsp; 新闻来源：Google News &nbsp;·&nbsp; 数据仅供参考 &nbsp;·&nbsp; © 2026 Aecooly Team</div>
 
 <script>
+// ── 版块配置 ──────────────────────────────────────────────
 const SECTIONS = [
-  { id:'news-0', query:'便携风扇 迷你风扇 市场趋势 跨境电商 亚马逊 portable fan market' },
-  { id:'news-1', query:'颈挂风扇 neck fan 迷你风扇 竞品 亚马逊畅销 Shopee' },
-  { id:'news-2', query:'亚马逊 Prime Day 夏季促销 风扇 Shopee Coupang 跨境运营' },
-  { id:'news-3', query:'夏季酷暑 高温 降温 便携随身风扇 宠物风扇 消费趋势 heatwave' },
+  { id:'news-0', query:'便携风扇 迷你风扇 市场趋势 跨境电商 portable fan market 2026' },
+  { id:'news-1', query:'颈挂风扇 neck fan cooling fan Amazon Shopee 亚马逊畅销 竞品' },
+  { id:'news-2', query:'亚马逊 Prime Day 夏季促销 风扇 Shopee Coupang 跨境电商' },
+  { id:'news-3', query:'夏季 高温 heatwave 便携随身风扇 宠物风扇 cooling fan trend 消费趋势' },
 ];
 const MAX = 4;
 const TTL = 60 * 60 * 1000;
 
+// ── 工具函数 ──────────────────────────────────────────────
 function strip(s){ return s ? s.replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&[a-z]+;/g,' ').trim() : ''; }
 function cut(s,n){ s=strip(s); return s.length>n ? s.slice(0,n)+'…':s; }
 function fmt(d){ try{ const t=new Date(d); return t.toLocaleDateString('zh-CN',{month:'2-digit',day:'2-digit'})+' '+t.toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit'}); }catch{return d||'';} }
-function ckey(q){ return 'ae_'+encodeURIComponent(q).slice(0,30); }
+function ckey(q){ return 'ae_'+encodeURIComponent(q).slice(0,28); }
 
+// ── 近3个月过滤 ────────────────────────────────────────────
+function afterDate(){
+  const d=new Date(); d.setMonth(d.getMonth()-3);
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+function isRecent(dateStr){
+  if(!dateStr) return true;
+  try{ const d=new Date(dateStr),cut=new Date(); cut.setMonth(cut.getMonth()-3); return d>=cut; }catch{ return true; }
+}
+
+// ── 缓存 ──────────────────────────────────────────────────
 function getCache(q){
   try{ const r=sessionStorage.getItem(ckey(q)); if(!r) return null;
     const {ts,data}=JSON.parse(r); if(Date.now()-ts>TTL){sessionStorage.removeItem(ckey(q));return null;} return data;
@@ -213,11 +226,13 @@ function showLoading(el){
     +'<div class="skeleton"></div><div class="skeleton s"></div>';
 }
 
+// ── XML 解析 ──────────────────────────────────────────────
 function parseXmlItems(xmlStr){
   const parser=new DOMParser();
   const xml=parser.parseFromString(xmlStr,'text/xml');
+  if(xml.querySelector('parsererror')) throw new Error('XML解析失败');
   const get=(el,tag)=>{const e=el.getElementsByTagName(tag);return e.length?(e[0].textContent||'').trim():'';};
-  return [...xml.querySelectorAll('item')].slice(0,MAX).map(item=>{
+  return [...xml.querySelectorAll('item')].map(item=>{
     const rawTitle=get(item,'title');
     const title=rawTitle.replace(/ [-–] [^-–]{1,60}$/,'').trim()||rawTitle;
     const link=get(item,'link')||get(item,'guid')||'#';
@@ -228,6 +243,7 @@ function parseXmlItems(xmlStr){
   });
 }
 
+// ── 国家/地区自动识别 ──────────────────────────────────────
 function detectRegions(title, desc){
   const t=(title+' '+desc).toLowerCase();
   const map=[
@@ -238,20 +254,21 @@ function detectRegions(title, desc){
     {keys:['加拿大','amazon.ca','canada'],tag:'🇨🇦 加拿大'},
     {keys:['澳大利亚','amazon.com.au','australia'],tag:'🇦🇺 澳大利亚'},
     {keys:['韩国','coupang','korea'],tag:'🇰🇷 韩国'},
-    {keys:['东南亚','shopee','lazada','singapore','新加坡','thailand','泰国','malaysia','马来西亚','philippines','菲律宾','vietnam','越南','indonesia','印尼'],tag:'🌏 东南亚'},
+    {keys:['东南亚','shopee','lazada','新加坡','泰国','马来西亚','菲律宾','越南','印尼','singapore','thailand','malaysia','philippines','vietnam','indonesia'],tag:'🌏 东南亚'},
     {keys:['墨西哥','巴西','mercado libre','拉美','latin america','mexico','brazil'],tag:'🌎 拉丁美洲'},
     {keys:['中东','阿联酋','沙特','uae','saudi','middle east'],tag:'🌙 中东'},
     {keys:['中国','国内','京东','天猫','淘宝','抖音','拼多多','taobao','tmall','jd.com','douyin'],tag:'🇨🇳 中国'},
-    {keys:['欧洲','europe','european','eu ','欧盟'],tag:'🇪🇺 欧洲'},
+    {keys:['欧洲','europe','european','欧盟'],tag:'🇪🇺 欧洲'},
     {keys:['印度','india','amazon.in'],tag:'🇮🇳 印度'},
   ];
   const found=map.filter(m=>m.keys.some(k=>t.includes(k))).map(m=>m.tag);
   return found.length?found:['🌍 全球'];
 }
 
+// ── 渲染 ──────────────────────────────────────────────────
 function render(items){
-  if(!items||!items.length) return '<div class="news-error">暂无最新资讯</div>';
-  return items.slice(0,MAX).map(item=>{
+  if(!items||!items.length) return '<div class="news-error">近3个月暂无相关资讯</div>';
+  return items.map(item=>{
     const title=strip(item.title||'无标题');
     const desc=cut(item.description||'',110);
     const date=fmt(item.pubDate);
@@ -269,33 +286,15 @@ function render(items){
   }).join('');
 }
 
+// ── 多代理抓取 ────────────────────────────────────────────
 async function fetchWithProxy(rss, force){
-  const proxies = [
-    async ()=>{
-      const u=`https://corsproxy.io/?${encodeURIComponent(rss)}`;
-      const r=await fetch(u,{cache:force?'no-cache':'default'});
-      if(!r.ok) throw new Error('corsproxy HTTP '+r.status);
-      return r.text();
-    },
-    async ()=>{
-      const u=`https://api.allorigins.win/get?url=${encodeURIComponent(rss)}`;
-      const r=await fetch(u,{cache:force?'no-cache':'default'});
-      if(!r.ok) throw new Error('allorigins HTTP '+r.status);
-      const d=await r.json();
-      if(!d.contents) throw new Error('allorigins 空响应');
-      return d.contents;
-    },
-    async ()=>{
-      const u=`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rss)}`;
-      const r=await fetch(u,{cache:force?'no-cache':'default'});
-      if(!r.ok) throw new Error('codetabs HTTP '+r.status);
-      return r.text();
-    },
+  const proxies=[
+    async()=>{ const u=`https://corsproxy.io/?${encodeURIComponent(rss)}`; const r=await fetch(u,{cache:force?'no-cache':'default'}); if(!r.ok) throw new Error('corsproxy '+r.status); return r.text(); },
+    async()=>{ const u=`https://api.allorigins.win/get?url=${encodeURIComponent(rss)}`; const r=await fetch(u,{cache:force?'no-cache':'default'}); if(!r.ok) throw new Error('allorigins '+r.status); const d=await r.json(); if(!d.contents) throw new Error('空响应'); return d.contents; },
+    async()=>{ const u=`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rss)}`; const r=await fetch(u,{cache:force?'no-cache':'default'}); if(!r.ok) throw new Error('codetabs '+r.status); return r.text(); },
   ];
-  for(const fn of proxies){
-    try{ return await fn(); }catch(e){ console.warn(e.message); }
-  }
-  throw new Error('所有代理均不可用，请稍后重试');
+  for(const fn of proxies){ try{ return await fn(); }catch(e){ console.warn(e.message); } }
+  throw new Error('网络暂时不可用，请稍后刷新');
 }
 
 async function loadSection(s, force=false){
@@ -303,9 +302,10 @@ async function loadSection(s, force=false){
   if(!force){ const c=getCache(s.query); if(c){ el.innerHTML=render(c); return; } }
   showLoading(el);
   try{
-    const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(s.query)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`;
+    const q=`${s.query} after:${afterDate()}`;
+    const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans&num=20`;
     const xml=await fetchWithProxy(rss,force);
-    const items=parseXmlItems(xml);
+    const items=parseXmlItems(xml).filter(i=>isRecent(i.pubDate)).slice(0,MAX);
     setCache(s.query,items);
     el.innerHTML=render(items);
   }catch(e){
