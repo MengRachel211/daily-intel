@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>每日市场情报看板 — JSAUX & Aecooly</title>
+  <style>
+    :root { color-scheme: light; }
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #0f2d1a 100%);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+
+    .page-title {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .page-title h1 {
+      font-size: 26px;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.5px;
+      margin-bottom: 8px;
+    }
+    .page-title p {
+      font-size: 14px;
+      color: rgba(255,255,255,0.55);
+    }
+    .dot { display:inline-block; width:7px; height:7px; background:#48bb78; border-radius:50%; animation:pulse 2s infinite; margin-right:6px; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+
+    .cards {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: 800px;
+      width: 100%;
+    }
+
+    .brand-card {
+      flex: 1;
+      min-width: 300px;
+      max-width: 360px;
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+      transition: transform 0.2s, box-shadow 0.2s;
+      cursor: pointer;
+      text-decoration: none;
+      display: block;
+    }
+    .brand-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 16px 48px rgba(0,0,0,0.5);
+    }
+
+    .card-hero {
+      padding: 28px 24px 22px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+    }
+    .card-emoji { font-size: 38px; line-height: 1; }
+    .card-brand { font-size: 24px; font-weight: 800; color: #fff; }
+    .card-desc { font-size: 13px; color: rgba(255,255,255,0.75); line-height: 1.5; }
+
+    .card-body {
+      background: #fff;
+      padding: 16px 20px 20px;
+    }
+    .section-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      margin-bottom: 16px;
+    }
+    .section-list li {
+      font-size: 12.5px;
+      color: #4a5568;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+    }
+    .section-list li::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .enter-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 10px 0;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 700;
+      color: #fff;
+      width: 100%;
+    }
+
+    /* JSAUX 样式 */
+    .jsaux .card-hero { background: linear-gradient(135deg, #1a365d, #2b6cb0); }
+    .jsaux .section-list li::before { background: #2b6cb0; }
+    .jsaux .enter-btn { background: linear-gradient(135deg, #2b6cb0, #4299e1); }
+
+    /* Aecooly 样式 */
+    .aecooly .card-hero { background: linear-gradient(135deg, #744210, #c05621); }
+    .aecooly .section-list li::before { background: #c05621; }
+    .aecooly .enter-btn { background: linear-gradient(135deg, #c05621, #dd6b20); }
+
+    .footer {
+      margin-top: 36px;
+      text-align: center;
+      font-size: 11.5px;
+      color: rgba(255,255,255,0.35);
+    }
+  </style>
+</head>
+<body>
+
+<div class="page-title">
+  <h1>📊 每日市场情报看板</h1>
+  <p><span class="dot"></span>每日 09:00 自动更新 &nbsp;·&nbsp; 请选择你的品牌</p>
+</div>
+
+<div class="cards">
+
+  <a class="brand-card jsaux" href="jsaux-dashboard.html">
+    <div class="card-hero">
+      <div class="card-emoji">🎮</div>
+      <div class="card-brand">JSAUX</div>
+      <div class="card-desc">游戏配件 · 手机配件<br>全球多平台运营团队专属看板</div>
+    </div>
+    <div class="card-body">
+      <ul class="section-list">
+        <li>🕹️ Nintendo Switch 生态动态</li>
+        <li>🖥️ Valve / Steam 硬件新品</li>
+        <li>🎯 NEX Playground 市场情报</li>
+        <li>📱 Google Pixel 配件趋势</li>
+        <li>🥽 VR 设备（Meta Quest）</li>
+        <li>🎮 新兴游戏掌机</li>
+        <li>🔌 线材行业（USB-C · HDMI · DP）</li>
+      </ul>
+      <div class="enter-btn">进入 JSAUX 看板 →</div>
+    </div>
+  </a>
+
+  <a class="brand-card aecooly" href="aecooly-dashboard.html">
+    <div class="card-hero">
+      <div class="card-emoji">🌬️</div>
+      <div class="card-brand">Aecooly</div>
+      <div class="card-desc">便携小风扇 · 迷你制冷设备<br>全球多平台运营团队专属看板</div>
+    </div>
+    <div class="card-body">
+      <ul class="section-list">
+        <li>📊 便携风扇市场规模与趋势</li>
+        <li>🔍 主要竞品动态监控</li>
+        <li>🛒 多平台运营要点（旺季提醒）</li>
+        <li>☀️ 夏季消费趋势 & 新兴品类</li>
+      </ul>
+      <div class="enter-btn">进入 Aecooly 看板 →</div>
+    </div>
+  </a>
+
+</div>
+
+<div class="footer">内部情报看板 · 数据仅供参考 · © 2026 JSAUX & Aecooly Teams</div>
+
+</body>
+</html>
