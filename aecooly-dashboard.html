@@ -245,22 +245,47 @@ function render(items){
   }).join('');
 }
 
+async function fetchWithProxy(rss, force){
+  const proxies = [
+    async ()=>{
+      const u=`https://corsproxy.io/?${encodeURIComponent(rss)}`;
+      const r=await fetch(u,{cache:force?'no-cache':'default'});
+      if(!r.ok) throw new Error('corsproxy HTTP '+r.status);
+      return r.text();
+    },
+    async ()=>{
+      const u=`https://api.allorigins.win/get?url=${encodeURIComponent(rss)}`;
+      const r=await fetch(u,{cache:force?'no-cache':'default'});
+      if(!r.ok) throw new Error('allorigins HTTP '+r.status);
+      const d=await r.json();
+      if(!d.contents) throw new Error('allorigins 空响应');
+      return d.contents;
+    },
+    async ()=>{
+      const u=`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rss)}`;
+      const r=await fetch(u,{cache:force?'no-cache':'default'});
+      if(!r.ok) throw new Error('codetabs HTTP '+r.status);
+      return r.text();
+    },
+  ];
+  for(const fn of proxies){
+    try{ return await fn(); }catch(e){ console.warn(e.message); }
+  }
+  throw new Error('所有代理均不可用，请稍后重试');
+}
+
 async function loadSection(s, force=false){
   const el=document.getElementById(s.id); if(!el) return;
   if(!force){ const c=getCache(s.query); if(c){ el.innerHTML=render(c); return; } }
   showLoading(el);
   try{
     const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(s.query)}&hl=en-US&gl=US&ceid=US:en`;
-    const proxy=`https://api.allorigins.win/get?url=${encodeURIComponent(rss)}`;
-    const r=await fetch(proxy,{cache:force?'no-cache':'default'});
-    if(!r.ok) throw new Error('HTTP '+r.status);
-    const d=await r.json();
-    if(!d.contents) throw new Error('空响应');
-    const items=parseXmlItems(d.contents);
+    const xml=await fetchWithProxy(rss,force);
+    const items=parseXmlItems(xml);
     setCache(s.query,items);
     el.innerHTML=render(items);
   }catch(e){
-    el.innerHTML=`<div class="news-error">⚠️ 获取失败，请刷新重试<br><small style="color:#a0aec0">${e.message}</small></div>`;
+    el.innerHTML=`<div class="news-error">⚠️ ${e.message}<br><small style="color:#a0aec0">请点击「手动刷新」重试</small></div>`;
   }
 }
 
