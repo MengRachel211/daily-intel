@@ -188,41 +188,51 @@
 <script>
 // ── 版块配置 ──────────────────────────────────────────────
 const SECTIONS = [
-  { id:'news-0', query:'portable fan mini fan market trend 2026' },
-  { id:'news-1', query:'neck fan cooling fan Amazon bestseller competitor' },
-  { id:'news-2', query:'Amazon Prime Day summer cooling fan Shopee Coupang' },
-  { id:'news-3', query:'summer heatwave portable cooling fan consumer trend' },
+  { id:'news-0', query:'portable fan mini fan market trend consumer 2026' },
+  { id:'news-1', query:'neck fan cooling fan Amazon bestseller handheld fan 2026' },
+  { id:'news-2', query:'Amazon Prime Day summer cooling fan Shopee TikTok 2026' },
+  { id:'news-3', query:'summer heatwave heat portable cooling consumer trend 2026' },
 ];
-const MAX = 4;
-const TTL = 60 * 60 * 1000;
+const MAX=4, TTL=60*60*1000;
 
 // ── 工具函数 ──────────────────────────────────────────────
-function strip(s){ return s ? s.replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&[a-z]+;/g,' ').trim() : ''; }
-function cut(s,n){ s=strip(s); return s.length>n ? s.slice(0,n)+'…':s; }
-function fmt(d){ try{ const t=new Date(d); return t.toLocaleDateString('zh-CN',{month:'2-digit',day:'2-digit'})+' '+t.toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit'}); }catch{return d||'';} }
-function ckey(q){ return 'ae_'+encodeURIComponent(q).slice(0,28); }
+function strip(s){ return s?s.replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&[a-z]+;/g,' ').trim():''; }
+function cut(s,n){ s=strip(s); return s.length>n?s.slice(0,n)+'…':s; }
+function fmt(d){ try{const t=new Date(d);return t.toLocaleDateString('zh-CN',{month:'2-digit',day:'2-digit'})+' '+t.toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit'});}catch{return d||'';} }
+function ckey(q){ return 'ae2_'+encodeURIComponent(q).slice(0,25); }
 
-// ── 近6个月过滤 ────────────────────────────────────────────
-function isRecent(ds){
-  if(!ds) return true;
-  try{ const d=new Date(ds),c=new Date(); c.setMonth(c.getMonth()-6); return d>=c; }catch{ return true; }
+// ── Google Translate 自动翻译（转中文）────────────────────
+async function translateToZh(text){
+  if(!text||!text.trim()) return '';
+  try{
+    const url=`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text.slice(0,500))}`;
+    const timer=new Promise((_,rj)=>setTimeout(()=>rj(new Error('timeout')),6000));
+    const r=await Promise.race([fetch(url),timer]);
+    if(!r.ok) return text;
+    const d=await r.json();
+    return d&&d[0]?d[0].map(x=>x[0]||'').join(''):text;
+  }catch{ return text; }
+}
+
+// 并行翻译一个版块的所有新闻条目（标题+摘要）
+async function translateItems(items){
+  return Promise.all(items.map(async item=>{
+    const rawTitle=strip(item.title||'');
+    const rawDesc=strip(item.description||'').slice(0,300);
+    const [title,description]=await Promise.all([
+      translateToZh(rawTitle),
+      translateToZh(rawDesc)
+    ]);
+    return{...item, title:title||rawTitle, description:description||rawDesc};
+  }));
 }
 
 // ── 缓存 ──────────────────────────────────────────────────
-function getCache(q){
-  try{ const r=sessionStorage.getItem(ckey(q)); if(!r) return null;
-    const {ts,data}=JSON.parse(r); if(Date.now()-ts>TTL){sessionStorage.removeItem(ckey(q));return null;} return data;
-  }catch{return null;}
-}
+function getCache(q){ try{const r=sessionStorage.getItem(ckey(q));if(!r)return null;const{ts,data}=JSON.parse(r);if(Date.now()-ts>TTL){sessionStorage.removeItem(ckey(q));return null;}return data;}catch{return null;} }
 function setCache(q,d){ try{sessionStorage.setItem(ckey(q),JSON.stringify({ts:Date.now(),data:d}));}catch{} }
+function showLoading(el){ el.innerHTML='<div class="news-loading"><span class="loader"></span>正在获取并翻译最新资讯...</div><div class="skeleton"></div><div class="skeleton s"></div><div class="skeleton"></div><div class="skeleton s"></div>'; }
 
-function showLoading(el){
-  el.innerHTML='<div class="news-loading"><span class="loader"></span>正在获取最新资讯...</div>'
-    +'<div class="skeleton"></div><div class="skeleton s"></div>'
-    +'<div class="skeleton"></div><div class="skeleton s"></div>';
-}
-
-// ── XML 解析（内嵌于各代理 try 块中调用）────────────────────
+// ── RSS 解析 ──────────────────────────────────────────────
 function parseItems(xmlStr){
   const p=new DOMParser(), xml=p.parseFromString(xmlStr,'text/xml');
   const items=xml.querySelectorAll('item');
@@ -236,51 +246,40 @@ function parseItems(xmlStr){
   });
 }
 
-// ── 国家/地区自动识别 ──────────────────────────────────────
-function detectRegions(title, desc){
+// ── 地区识别 ──────────────────────────────────────────────
+function detectRegions(title,desc){
   const t=(title+' '+desc).toLowerCase();
   const map=[
-    {keys:['united states',' us ',' usa ','north america','amazon.com'],tag:'🇺🇸 美国'},
-    {keys:['united kingdom',' uk ','britain','amazon.co.uk'],tag:'🇬🇧 英国'},
-    {keys:['germany','deutschland','amazon.de'],tag:'🇩🇪 德国'},
-    {keys:['japan','amazon.co.jp'],tag:'🇯🇵 日本'},
-    {keys:['canada','amazon.ca'],tag:'🇨🇦 加拿大'},
-    {keys:['australia','amazon.com.au'],tag:'🇦🇺 澳大利亚'},
-    {keys:['korea','coupang'],tag:'🇰🇷 韩国'},
-    {keys:['southeast asia','shopee','lazada','singapore','thailand','malaysia','philippines','vietnam','indonesia'],tag:'🌏 东南亚'},
-    {keys:['mexico','brazil','mercado libre','latin america'],tag:'🌎 拉丁美洲'},
-    {keys:['middle east','uae','saudi','dubai'],tag:'🌙 中东'},
-    {keys:['china','jd.com','tmall','taobao','douyin'],tag:'🇨🇳 中国'},
-    {keys:['europe','european'],tag:'🇪🇺 欧洲'},
-    {keys:['india','amazon.in'],tag:'🇮🇳 印度'},
-    {keys:['global','worldwide','international'],tag:'🌍 全球'},
+    {k:['united states','amazon.com',' usa ',' us ','north america','美国','北美'],v:'🇺🇸 美国'},
+    {k:['united kingdom','amazon.co.uk',' uk ','britain','英国'],v:'🇬🇧 英国'},
+    {k:['germany','amazon.de','deutschland','德国'],v:'🇩🇪 德国'},
+    {k:['japan','amazon.co.jp','日本'],v:'🇯🇵 日本'},
+    {k:['canada','amazon.ca','加拿大'],v:'🇨🇦 加拿大'},
+    {k:['australia','amazon.com.au','澳大利亚'],v:'🇦🇺 澳大利亚'},
+    {k:['korea','coupang','韩国'],v:'🇰🇷 韩国'},
+    {k:['shopee','lazada','singapore','thailand','malaysia','philippines','vietnam','indonesia','东南亚','新加坡'],v:'🌏 东南亚'},
+    {k:['mercado libre','mexico','brazil','latin america','墨西哥','巴西','拉美'],v:'🌎 拉丁美洲'},
+    {k:['middle east','uae','saudi','中东','阿联酋'],v:'🌙 中东'},
+    {k:['京东','天猫','淘宝','抖音','拼多多','taobao','tmall','jd.com','douyin','中国'],v:'🇨🇳 中国'},
+    {k:['europe','european','欧洲','欧盟'],v:'🇪🇺 欧洲'},
+    {k:['india','amazon.in','印度'],v:'🇮🇳 印度'},
   ];
-  const found=map.filter(m=>m.keys.some(k=>t.includes(k))).map(m=>m.tag);
+  const found=map.filter(m=>m.k.some(k=>t.includes(k))).map(m=>m.v);
   return found.length?found:['🌍 全球'];
 }
 
 // ── 渲染 ──────────────────────────────────────────────────
 function render(items){
-  if(!items||!items.length) return '<div class="news-error">暂无相关资讯</div>';
+  if(!items||!items.length) return '<div class="news-error">暂无相关资讯，请刷新重试</div>';
   return items.map(item=>{
-    const title=strip(item.title||'无标题');
-    const desc=cut(item.description||'',110);
-    const date=fmt(item.pubDate);
-    const src=strip(item.author||'');
-    const link=item.link||'#';
-    const regions=detectRegions(title, strip(item.description||''));
-    return `<div class="news-item">
-      <div class="news-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>
-      ${desc?`<div class="news-body">${desc}</div>`:''}
-      <div class="news-meta">
-        ${src?`<span class="news-tag">${src}</span>`:''}
-        ${regions.map(r=>`<span class="region-tag">${r}</span>`).join('')}
-        <span class="news-date">${date}</span>
-      </div></div>`;
+    const title=strip(item.title||'无标题'), desc=cut(item.description||'',120);
+    const date=fmt(item.pubDate), src=strip(item.author||''), link=item.link||'#';
+    const regions=detectRegions(item.title+' '+(item.description||''),strip(item.description||''));
+    return `<div class="news-item"><div class="news-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>${desc?`<div class="news-body">${desc}</div>`:''}<div class="news-meta">${src?`<span class="news-tag">${src}</span>`:''}${regions.map(r=>`<span class="region-tag">${r}</span>`).join('')}<span class="news-date">${date}</span></div></div>`;
   }).join('');
 }
 
-// ── 每版块独立代理链（fetch + parse 同在 try 块内）────────────
+// ── 抓取 + 翻译（代理链，parse 在 try 内）────────────────
 async function loadSection(s, force=false){
   const el=document.getElementById(s.id); if(!el) return;
   if(!force){ const c=getCache(s.query); if(c){ el.innerHTML=render(c); return; } }
@@ -296,9 +295,10 @@ async function loadSection(s, force=false){
     try{
       const xml=await fn();
       const all=parseItems(xml);
-      const items=all.filter(i=>isRecent(i.pubDate)).slice(0,MAX);
-      setCache(s.query, items.length?items:all.slice(0,MAX));
-      el.innerHTML=render(items.length?items:all.slice(0,MAX));
+      const raw=all.slice(0,MAX);             // 取最新几条，无严格日期限制
+      const items=await translateItems(raw);  // 全部翻译为中文
+      setCache(s.query,items);
+      el.innerHTML=render(items);
       return;
     }catch(e){ lastErr=e.message; console.warn('proxy fail:',e.message); }
   }
