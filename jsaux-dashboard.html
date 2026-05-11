@@ -5,97 +5,111 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>JSAUX 每日市场情报看板</title>
   <style>
-    :root { color-scheme: light; --c-bg:#eef2f7; --c-card:#fff; --c-border:#e2e8f0; --c-text:#1a202c; --c-sub:#4a5568; --c-muted:#718096; --c-tiny:#a0aec0; }
-    * { margin:0; padding:0; box-sizing:border-box; }
-    body { font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif; background:var(--c-bg); color:var(--c-text); padding:16px 14px 36px; }
+    :root {
+      --c-bg:#eef2f7; --c-card:#fff; --c-border:#e2e8f0;
+      --c-text:#1a202c; --c-sub:#4a5568; --c-muted:#718096; --c-tiny:#a0aec0;
+    }
+    *{margin:0;padding:0;box-sizing:border-box;}
+    body{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif;
+         background:var(--c-bg);color:var(--c-text);padding:14px 14px 40px;}
 
-    .page-header { text-align:center; margin-bottom:20px; }
-    .page-header h1 { font-size:21px; font-weight:800; color:#1a202c; letter-spacing:-0.3px; }
-    .page-header .tagline { font-size:12.5px; color:var(--c-muted); margin-top:4px; }
-    .header-actions { display:flex; align-items:center; justify-content:center; gap:8px; margin-top:8px; flex-wrap:wrap; }
-    .update-bar { display:inline-flex; align-items:center; gap:6px; background:#ebf8ff; border:1px solid #bee3f8; border-radius:20px; padding:4px 14px; font-size:12px; color:#2b6cb0; font-weight:500; }
-    .dot { width:7px; height:7px; background:#48bb78; border-radius:50%; animation:pulse 2s infinite; }
-    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
-    .refresh-btn { display:inline-flex; align-items:center; gap:5px; background:#2b6cb0; color:#fff; border:none; border-radius:20px; padding:5px 14px; font-size:12px; font-weight:600; cursor:pointer; transition:background .15s; }
-    .refresh-btn:hover { background:#2c5282; }
-    .refresh-btn:disabled { background:#90cdf4; cursor:not-allowed; }
-    @keyframes spin { to { transform:rotate(360deg); } }
-    .spin { display:inline-block; animation:spin 1s linear infinite; }
+    /* ── 顶部 ── */
+    .page-header{text-align:center;margin-bottom:18px;}
+    .page-header h1{font-size:20px;font-weight:800;color:#1a202c;letter-spacing:-.3px;}
+    .page-header .tagline{font-size:12px;color:var(--c-muted);margin-top:3px;}
+    .update-bar{display:inline-flex;align-items:center;gap:6px;
+      background:#ebf8ff;border:1px solid #bee3f8;border-radius:20px;
+      padding:4px 14px;font-size:12px;color:#2b6cb0;margin-top:8px;font-weight:500;}
+    .dot{width:7px;height:7px;background:#48bb78;border-radius:50%;animation:pulse 2s infinite;flex-shrink:0;}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
 
-    .brand-header { display:flex; align-items:center; gap:12px; padding:12px 18px; border-radius:12px; margin-bottom:14px; background:linear-gradient(135deg,#1a365d,#2b6cb0); }
-    .brand-logo { font-size:26px; }
-    .brand-name { font-size:18px; font-weight:800; color:#fff; letter-spacing:0.5px; }
-    .brand-desc { font-size:12px; color:rgba(255,255,255,.78); margin-top:2px; }
-    .brand-platforms { margin-left:auto; display:flex; flex-wrap:wrap; gap:5px; justify-content:flex-end; }
-    .platform-tag { background:rgba(255,255,255,.18); color:#fff; padding:2px 8px; border-radius:10px; font-size:10.5px; font-weight:600; white-space:nowrap; }
+    /* ── 品牌 header ── */
+    .brand-header{display:flex;align-items:center;gap:12px;
+      padding:12px 18px;border-radius:12px;margin-bottom:14px;
+      background:linear-gradient(135deg,#1a365d,#2b6cb0);}
+    .brand-logo{font-size:26px;}
+    .brand-name{font-size:18px;font-weight:800;color:#fff;letter-spacing:.5px;}
+    .brand-desc{font-size:12px;color:rgba(255,255,255,.78);margin-top:2px;}
+    .brand-platforms{margin-left:auto;display:flex;flex-wrap:wrap;gap:5px;justify-content:flex-end;}
+    .platform-tag{background:rgba(255,255,255,.18);color:#fff;
+      padding:2px 8px;border-radius:10px;font-size:10.5px;font-weight:600;white-space:nowrap;}
 
-    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:13px; }
-    .card { background:var(--c-card); border-radius:13px; border:1px solid var(--c-border); box-shadow:0 1px 4px rgba(0,0,0,.06); overflow:hidden; display:flex; flex-direction:column; }
-    .card-head { padding:13px 15px 11px; border-bottom:2px solid var(--c-border); display:flex; align-items:center; gap:10px; }
-    .card-icon { font-size:21px; line-height:1; flex-shrink:0; }
-    .card-title { font-size:14.5px; font-weight:700; color:var(--c-text); line-height:1.2; }
-    .card-sub { font-size:10.5px; color:var(--c-tiny); margin-top:2px; }
-    .card-badge { margin-left:auto; padding:2px 8px; border-radius:20px; font-size:10.5px; font-weight:700; white-space:nowrap; flex-shrink:0; }
+    /* ── 网格 ── */
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:13px;}
 
-    .tips-box { padding:9px 14px 10px; border-bottom:1px dashed #e2e8f0; }
-    .tips-title { font-size:11px; font-weight:700; color:#4a5568; margin-bottom:5px; }
-    .tips-list { list-style:none; }
-    .tips-list li { font-size:11.5px; color:#4a5568; line-height:1.5; padding-left:14px; position:relative; margin-bottom:2px; }
-    .tips-list li::before { content:'▸'; position:absolute; left:0; color:#a0aec0; }
+    /* ── 卡片 ── */
+    .card{background:var(--c-card);border-radius:13px;border:1px solid var(--c-border);
+          box-shadow:0 1px 4px rgba(0,0,0,.06);overflow:hidden;display:flex;flex-direction:column;}
+    .card-head{padding:13px 15px 11px;display:flex;align-items:center;gap:10px;
+               background:var(--th-grad,linear-gradient(135deg,#2d3748,#4a5568));}
+    .card-icon{font-size:21px;line-height:1;flex-shrink:0;}
+    .card-title{font-size:14.5px;font-weight:700;color:#fff;line-height:1.2;}
+    .card-sub{font-size:10.5px;color:rgba(255,255,255,.7);margin-top:2px;}
+    .card-badge{margin-left:auto;padding:2px 9px;border-radius:20px;
+      font-size:10.5px;font-weight:700;white-space:nowrap;flex-shrink:0;
+      background:var(--th-badge-bg,#e2e8f0);color:var(--th-badge,#4a5568);}
 
-    .news-list { padding:3px 0 5px; flex:1; min-height:80px; }
-    .news-item { padding:9px 15px; border-bottom:1px solid #f7fafc; transition:background .15s; }
-    .news-item:last-child { border-bottom:none; }
-    .news-item:hover { background:#f7fafc; }
-    .news-title { font-size:13px; font-weight:600; color:#2d3748; line-height:1.4; margin-bottom:3px; }
-    .news-title a { color:inherit; text-decoration:none; }
-    .news-title a:hover { color:#3182ce; }
-    .news-body { font-size:12px; color:var(--c-sub); line-height:1.55; }
-    .news-meta { display:flex; align-items:center; gap:5px; margin-top:4px; flex-wrap:wrap; }
-    .news-tag { display:inline-block; padding:1px 7px; border-radius:10px; font-size:10px; font-weight:600; }
-    .news-date { font-size:10px; color:var(--c-tiny); }
-    .region-tag { display:inline-block; padding:1px 6px; border-radius:8px; font-size:10px; background:#edf2f7; color:#4a5568; font-weight:500; }
+    /* ── 要点提示 ── */
+    .tips-box{padding:9px 14px 10px;border-bottom:1px dashed var(--c-border);
+              background:var(--th-tips,#f7fafc);}
+    .tips-title{font-size:11px;font-weight:700;color:var(--th-tip,#4a5568);margin-bottom:5px;}
+    .tips-list{list-style:none;}
+    .tips-list li{font-size:11.5px;color:var(--th-tip,#4a5568);line-height:1.5;
+      padding-left:14px;position:relative;margin-bottom:2px;}
+    .tips-list li::before{content:'▸';position:absolute;left:0;color:var(--th-dot,#718096);}
 
-    .news-loading { padding:20px 15px; text-align:center; color:var(--c-muted); font-size:12.5px; }
-    .loader { display:inline-block; width:14px; height:14px; border:2px solid #e2e8f0; border-top-color:#3182ce; border-radius:50%; animation:spin 0.8s linear infinite; vertical-align:middle; margin-right:6px; }
-    .news-error { padding:14px 15px; color:#e53e3e; font-size:12px; text-align:center; line-height:1.6; }
-    .skeleton { background:linear-gradient(90deg,#f0f4f8 25%,#e2e8f0 50%,#f0f4f8 75%); background-size:200% 100%; animation:shimmer 1.4s infinite; border-radius:4px; height:11px; margin:8px 15px 4px; }
-    .skeleton.s { width:55%; }
-    @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+    /* ── 新闻列表 ── */
+    .news-list{padding:3px 0 5px;flex:1;min-height:60px;}
+    .news-item{padding:9px 14px;border-bottom:1px solid #f4f6f9;transition:background .15s;}
+    .news-item:last-child{border-bottom:none;}
+    .news-item:hover{background:#f8fafc;}
+    .news-title{font-size:13px;font-weight:600;color:#2d3748;line-height:1.4;margin-bottom:3px;}
+    .news-title a{color:inherit;text-decoration:none;}
+    .news-title a:hover{color:#2b6cb0;}
+    .news-body{font-size:12px;color:var(--c-sub);line-height:1.55;margin-bottom:4px;}
+    .news-meta{display:flex;align-items:center;gap:4px;flex-wrap:wrap;}
+    .news-tag{display:inline-block;padding:1px 7px;border-radius:10px;
+      font-size:10px;font-weight:600;background:#e2e8f0;color:#4a5568;}
+    .type-tag{display:inline-block;padding:1px 6px;border-radius:8px;
+      font-size:10px;background:#fefcbf;color:#744210;font-weight:500;}
+    .region-tag{display:inline-block;padding:1px 6px;border-radius:8px;
+      font-size:10px;background:#ebf8ff;color:#2b6cb0;font-weight:500;}
+    .news-date{font-size:10px;color:var(--c-tiny);margin-left:auto;}
 
-    .theme-nintendo .card-head { background:linear-gradient(135deg,#fff5f5,#fff); }
-    .theme-nintendo .card-badge,.theme-nintendo .news-tag { background:#fed7d7;color:#c53030; }
-    .theme-nintendo .tips-box { background:#fff5f5; }
-    .theme-valve .card-head { background:linear-gradient(135deg,#ebf8ff,#fff); }
-    .theme-valve .card-badge,.theme-valve .news-tag { background:#bee3f8;color:#2b6cb0; }
-    .theme-valve .tips-box { background:#ebf8ff; }
-    .theme-nex .card-head { background:linear-gradient(135deg,#f0fff4,#fff); }
-    .theme-nex .card-badge,.theme-nex .news-tag { background:#c6f6d5;color:#276749; }
-    .theme-nex .tips-box { background:#f0fff4; }
-    .theme-pixel .card-head { background:linear-gradient(135deg,#fffff0,#fff); }
-    .theme-pixel .card-badge,.theme-pixel .news-tag { background:#fefcbf;color:#744210; }
-    .theme-pixel .tips-box { background:#fffff0; }
-    .theme-vr .card-head { background:linear-gradient(135deg,#f0f4ff,#fff); }
-    .theme-vr .card-badge,.theme-vr .news-tag { background:#c3dafe;color:#3c366b; }
-    .theme-vr .tips-box { background:#f0f4ff; }
-    .theme-handheld .card-head { background:linear-gradient(135deg,#faf5ff,#fff); }
-    .theme-handheld .card-badge,.theme-handheld .news-tag { background:#e9d8fd;color:#553c9a; }
-    .theme-handheld .tips-box { background:#faf5ff; }
-    .theme-cable .card-head { background:linear-gradient(135deg,#fff8f0,#fff); }
-    .theme-cable .card-badge,.theme-cable .news-tag { background:#fbd38d;color:#7b341e; }
-    .theme-cable .tips-box { background:#fff8f0; }
+    /* ── 加载/错误 ── */
+    .news-empty{padding:18px 14px;color:var(--c-muted);font-size:12.5px;text-align:center;line-height:1.7;}
+    .news-empty a{color:#2b6cb0;}
+    .skeleton{background:linear-gradient(90deg,#e8ecf0 25%,#d4dae0 50%,#e8ecf0 75%);
+      background-size:200% 100%;animation:shimmer 1.4s infinite;
+      border-radius:4px;height:11px;margin:10px 14px 4px;}
+    .skeleton.s{width:55%;}
+    @keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .spin{display:inline-block;animation:spin .8s linear infinite;}
 
-    .page-footer { text-align:center; margin-top:16px; font-size:11px; color:var(--c-tiny); }
+    /* ── 版块主题色 ── */
+    .theme-nintendo{--th-grad:linear-gradient(135deg,#1a365d,#2b6cb0);--th-badge-bg:#bee3f8;--th-badge:#2b6cb0;--th-tips:#ebf8ff;--th-tip:#2c5282;--th-dot:#2b6cb0;}
+    .theme-valve   {--th-grad:linear-gradient(135deg,#2d3748,#4a5568);--th-badge-bg:#e2e8f0;--th-badge:#4a5568;--th-tips:#f7fafc;--th-tip:#4a5568;--th-dot:#718096;}
+    .theme-nex     {--th-grad:linear-gradient(135deg,#1c4532,#276749);--th-badge-bg:#c6f6d5;--th-badge:#276749;--th-tips:#f0fff4;--th-tip:#276749;--th-dot:#276749;}
+    .theme-pixel   {--th-grad:linear-gradient(135deg,#065666,#0987a0);--th-badge-bg:#b2f5ea;--th-badge:#065666;--th-tips:#e6fffa;--th-tip:#065666;--th-dot:#0987a0;}
+    .theme-vr      {--th-grad:linear-gradient(135deg,#44337a,#6b46c1);--th-badge-bg:#e9d8fd;--th-badge:#553c9a;--th-tips:#faf5ff;--th-tip:#553c9a;--th-dot:#6b46c1;}
+    .theme-handheld{--th-grad:linear-gradient(135deg,#322659,#553c9a);--th-badge-bg:#d6bcfa;--th-badge:#322659;--th-tips:#faf5ff;--th-tip:#322659;--th-dot:#553c9a;}
+    .theme-cables  {--th-grad:linear-gradient(135deg,#744210,#975a16);--th-badge-bg:#feebc8;--th-badge:#744210;--th-tips:#fffaf0;--th-tip:#744210;--th-dot:#975a16;}
+
+    /* ── 页脚 ── */
+    .page-footer{text-align:center;margin-top:18px;font-size:11px;color:var(--c-tiny);}
+    .back-link{display:inline-block;margin-top:10px;font-size:12px;color:#2b6cb0;text-decoration:none;}
+    .back-link:hover{text-decoration:underline;}
   </style>
 </head>
 <body>
 
 <div class="page-header">
   <h1>🎮 JSAUX 每日市场情报看板</h1>
-  <div class="tagline">游戏配件 · 手机配件 &nbsp;|&nbsp; Amazon · TikTok · Shopee · Mercado Libre · Coupang · 京东 · 天猫 · 抖音 · 独立站</div>
-  <div class="header-actions">
-    <div class="update-bar"><span class="dot"></span>实时资讯 &nbsp;·&nbsp; 打开即自动刷新 &nbsp;·&nbsp; <span id="update-time">获取中...</span></div>
-    <button class="refresh-btn" id="refresh-btn" onclick="refreshAll()">🔄 手动刷新</button>
+  <div class="tagline">游戏配件 · 手机配件 | Amazon · TikTok · Shopee · Mercado Libre · Coupang · 京东 / 天猫 / 抖音 · 独立站</div>
+  <div class="update-bar">
+    <span class="dot"></span>
+    每日 09:00 自动更新 &nbsp;·&nbsp; 本次更新：<span id="update-time">加载中...</span>
   </div>
 </div>
 
@@ -103,7 +117,7 @@
   <div class="brand-logo">🎮</div>
   <div>
     <div class="brand-name">JSAUX</div>
-    <div class="brand-desc">游戏配件 · 手机配件 &nbsp;|&nbsp; 5M+ 玩家信赖 · 亚马逊 Steam Deck 配件连续两年 #1</div>
+    <div class="brand-desc">游戏配件 · 手机配件 | 5M+ 玩家信赖 · 亚马逊 Steam Deck 配件连续两年 #1</div>
   </div>
   <div class="brand-platforms">
     <span class="platform-tag">🛒 Amazon 全站</span>
@@ -116,271 +130,121 @@
   </div>
 </div>
 
-<div class="grid">
-
-  <div class="card theme-nintendo">
-    <div class="card-head">
-      <div class="card-icon">🕹️</div>
-      <div><div class="card-title">Nintendo Switch</div><div class="card-sub">主机生态 · 新品发布 · 配件趋势</div></div>
-      <div class="card-badge">核心赛道</div>
+<div id="grid" class="grid">
+  <!-- 骨架屏 -->
+  <div class="card" style="grid-column:1/-1;">
+    <div class="news-empty">
+      <div class="spin" style="font-size:20px;">⏳</div>
+      <div style="margin-top:8px;">正在加载今日资讯...</div>
+      <div style="font-size:11px;margin-top:4px;color:#a0aec0;">数据由 GitHub Actions 每天 09:00 自动生成</div>
     </div>
-    <div class="tips-box">
-      <div class="tips-title">💡 JSAUX 卖家要点</div>
-      <ul class="tips-list">
-        <li>新款主机发布后 3 个月内是配件黄金期，提前布局屏幕保护贴、保护套、底座等核心 SKU</li>
-        <li>日本、美国、欧洲是 Switch 三大主力市场，优先保障 Amazon US / JP / DE 备货</li>
-        <li>关注任天堂官方配件发布，切入官方未覆盖的价格段或功能点</li>
-        <li>TikTok / YouTube 上的 Switch 开箱评测是流量高峰节点，同步启动达人合作</li>
-      </ul>
-    </div>
-    <div class="news-list" id="news-0"></div>
+    <div class="skeleton"></div><div class="skeleton s"></div>
+    <div class="skeleton"></div><div class="skeleton s"></div>
   </div>
-
-  <div class="card theme-valve">
-    <div class="card-head">
-      <div class="card-icon">🖥️</div>
-      <div><div class="card-title">Valve / Steam</div><div class="card-sub">Steam Deck · Steam Machine · SteamVR · 控制器</div></div>
-      <div class="card-badge">核心赛道</div>
-    </div>
-    <div class="tips-box">
-      <div class="tips-title">💡 JSAUX 卖家要点</div>
-      <ul class="tips-list">
-        <li>JSAUX 是亚马逊 Steam Deck 配件 #1 品牌，持续监控 Valve 新硬件发布以抢先布局配件</li>
-        <li>Steam Machine / PC 配件是增量市场，RGB 线材、Type-C Hub、散热底座需求旺盛</li>
-        <li>关注 Steam 平台活跃玩家数，判断硬件普及节奏</li>
-        <li>欧美极客社区（Reddit r/SteamDeck）是口碑传播核心阵地，优先布局英文评测内容</li>
-      </ul>
-    </div>
-    <div class="news-list" id="news-1"></div>
-  </div>
-
-  <div class="card theme-nex">
-    <div class="card-head">
-      <div class="card-icon">🎯</div>
-      <div><div class="card-title">NEX Playground</div><div class="card-sub">体感游戏 · 家庭市场 · 配件机会</div></div>
-      <div class="card-badge">新兴机会</div>
-    </div>
-    <div class="tips-box">
-      <div class="tips-title">💡 JSAUX 卖家要点</div>
-      <ul class="tips-list">
-        <li>NEX Playground 主打家庭 & 儿童市场，配件需求以保护类、收纳类为主</li>
-        <li>关注销量数据和用户评价，判断主机是否达到配件市场爆发临界点</li>
-        <li>北美市场是首发核心阵地，优先布局 Amazon US 配件 listing</li>
-        <li>家庭体感品类在假日季（Q4）销量激增，需提前 2 个月完成 FBA 备货</li>
-      </ul>
-    </div>
-    <div class="news-list" id="news-2"></div>
-  </div>
-
-  <div class="card theme-pixel">
-    <div class="card-head">
-      <div class="card-icon">📱</div>
-      <div><div class="card-title">Google Pixel</div><div class="card-sub">Pixel 手机 · 配件生态 · 新机发布</div></div>
-      <div class="card-badge">手机配件</div>
-    </div>
-    <div class="tips-box">
-      <div class="tips-title">💡 JSAUX 卖家要点</div>
-      <ul class="tips-list">
-        <li>Pixel 新机发布（通常每年秋季）前后 3 个月是配件销售黄金期，提前 60 天上架</li>
-        <li>Pixel 用户偏极客，对配件兼容性和材质要求高，需强调品质背书</li>
-        <li>MagSafe 类磁吸配件、高功率快充 USB-C 线是 Pixel 用户高频购买品类</li>
-        <li>美国、英国、加拿大、澳大利亚是 Pixel 核心市场，优先这四个站点</li>
-      </ul>
-    </div>
-    <div class="news-list" id="news-3"></div>
-  </div>
-
-  <div class="card theme-vr">
-    <div class="card-head">
-      <div class="card-icon">🥽</div>
-      <div><div class="card-title">VR 设备</div><div class="card-sub">Meta Quest 3/3S · VR 配件 · 空间计算</div></div>
-      <div class="card-badge">新兴赛道</div>
-    </div>
-    <div class="tips-box">
-      <div class="tips-title">💡 JSAUX 卖家要点</div>
-      <ul class="tips-list">
-        <li>Meta Quest 3/3S 是当前 VR 配件最大增量市场，头带、面罩、充电底座是核心 SKU</li>
-        <li>VR 配件复购率高，优质评价积累后自然流量稳定，值得持续深耕</li>
-        <li>美国占全球 VR 设备销量约 45%，Amazon US 是主战场</li>
-        <li>关注 Apple Vision Pro 配件市场（用户量小但客单价高）</li>
-      </ul>
-    </div>
-    <div class="news-list" id="news-4"></div>
-  </div>
-
-  <div class="card theme-handheld">
-    <div class="card-head">
-      <div class="card-icon">🎮</div>
-      <div><div class="card-title">新兴游戏掌机</div><div class="card-sub">ROG Ally · AYANEO · Lenovo Legion Go · MSI Claw</div></div>
-      <div class="card-badge">新兴赛道</div>
-    </div>
-    <div class="tips-box">
-      <div class="tips-title">💡 JSAUX 卖家要点</div>
-      <ul class="tips-list">
-        <li>Windows 掌机生态快速扩张，配件通用性强（USB-C Hub、散热底座、保护套）</li>
-        <li>ROG Ally / Legion Go 用户与 Steam Deck 用户高度重叠，可交叉推广</li>
-        <li>掌机散热是核心痛点，散热风扇底座、铝制外壳配件溢价空间大</li>
-        <li>关注各厂商新品发布节奏，准备通用型配件以覆盖多个型号</li>
-      </ul>
-    </div>
-    <div class="news-list" id="news-5"></div>
-  </div>
-
-  <div class="card theme-cable">
-    <div class="card-head">
-      <div class="card-icon">🔌</div>
-      <div><div class="card-title">线材行业</div><div class="card-sub">USB-C · HDMI · DP · 充电 · 传输 · 视频 · 音频</div></div>
-      <div class="card-badge">基础品类</div>
-    </div>
-    <div class="tips-box">
-      <div class="tips-title">💡 JSAUX 卖家要点</div>
-      <ul class="tips-list">
-        <li>USB4 / Thunderbolt 5 标准普及带动高端线材换代需求，布局 40Gbps+ 产品线</li>
-        <li>EU USB-C 强制令已落地，全球快充线市场加速标准化，是品牌入场窗口</li>
-        <li>240W 快充、8K 视频传输是当前线材高溢价卖点，需在 listing 重点突出</li>
-        <li>线材品类复购率高但同质化严重，品牌辨识度（颜色/编织/认证）是护城河</li>
-      </ul>
-    </div>
-    <div class="news-list" id="news-6"></div>
-  </div>
-
 </div>
 
-<div class="page-footer">JSAUX 每日市场情报看板 &nbsp;·&nbsp; 新闻来源：Google News &nbsp;·&nbsp; 数据仅供参考 &nbsp;·&nbsp; © 2026 JSAUX Team</div>
+<div class="page-footer">
+  JSAUX 每日市场情报看板 &nbsp;·&nbsp; 新闻来源：Google News &nbsp;·&nbsp; 数据仅供参考 &nbsp;·&nbsp; © 2026 JSAUX Team
+  <br><a class="back-link" href="index.html">← 返回品牌选择</a>
+</div>
 
 <script>
-const SECTIONS = [
-  { id:'news-0', query:'Nintendo Switch 2 accessories gaming release 2026' },
-  { id:'news-1', query:'Valve Steam hardware gaming controller 2026' },
-  { id:'news-2', query:'NEX Playground Mattel gaming console market' },
-  { id:'news-3', query:'Google Pixel smartphone accessories launch 2026' },
-  { id:'news-4', query:'Meta Quest VR headset accessories gaming 2026' },
-  { id:'news-5', query:'gaming handheld console ROG Ally Lenovo Legion release 2026' },
-  { id:'news-6', query:'USB-C cable HDMI display cable charging market 2026' },
-];
-const MAX=4, TTL=60*60*1000;
-
-// ── 工具函数 ──────────────────────────────────────────────
-function strip(s){ return s?s.replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&[a-z]+;/g,' ').trim():''; }
-function cut(s,n){ s=strip(s); return s.length>n?s.slice(0,n)+'…':s; }
-function fmt(d){ try{const t=new Date(d);return t.toLocaleDateString('zh-CN',{month:'2-digit',day:'2-digit'})+' '+t.toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit'});}catch{return d||'';} }
-function ckey(q){ return 'jx3_'+encodeURIComponent(q).slice(0,25); }
-
-// ── Google Translate 自动翻译（转中文）────────────────────
-async function translateToZh(text){
-  if(!text||!text.trim()) return '';
-  try{
-    const url=`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text.slice(0,500))}`;
-    const timer=new Promise((_,rj)=>setTimeout(()=>rj(new Error('timeout')),6000));
-    const r=await Promise.race([fetch(url),timer]);
-    if(!r.ok) return text;
-    const d=await r.json();
-    return d&&d[0]?d[0].map(x=>x[0]||'').join(''):text;
-  }catch{ return text; }
+// ── 渲染单条新闻 ──────────────────────────────────────────
+function renderItem(item) {
+  const regions = (item.regions || ['🌍 全球'])
+    .map(r => `<span class="region-tag">${r}</span>`).join('');
+  const typeTag = item.type ? `<span class="type-tag">${item.type}</span>` : '';
+  const srcTag  = item.source ? `<span class="news-tag">${item.source}</span>` : '';
+  const summary = (item.summary || '').slice(0, 120);
+  return `
+    <div class="news-item">
+      <div class="news-title"><a href="${item.link||'#'}" target="_blank" rel="noopener">${item.title||'无标题'}</a></div>
+      ${summary ? `<div class="news-body">${summary}</div>` : ''}
+      <div class="news-meta">
+        ${srcTag}${typeTag}${regions}
+        <span class="news-date">${item.date||''}</span>
+      </div>
+    </div>`;
 }
 
-// 并行翻译一个版块的所有新闻条目（标题+摘要）
-async function translateItems(items){
-  return Promise.all(items.map(async item=>{
-    const rawTitle=strip(item.title||'');
-    const rawDesc=strip(item.description||'').slice(0,300);
-    const [title,description]=await Promise.all([
-      translateToZh(rawTitle),
-      translateToZh(rawDesc)
-    ]);
-    return{...item, title:title||rawTitle, description:description||rawDesc};
-  }));
+// ── 渲染单个版块卡片 ─────────────────────────────────────
+function renderCard(sec) {
+  const tips = (sec.tips || []).map(t => `<li>${t}</li>`).join('');
+  const items = sec.items && sec.items.length
+    ? sec.items.map(renderItem).join('')
+    : '<div class="news-empty">暂无资讯，将在下次 GitHub Actions 运行后更新</div>';
+  return `
+    <div class="card ${sec.theme||''}">
+      <div class="card-head">
+        <span class="card-icon">${sec.icon||'📰'}</span>
+        <div>
+          <div class="card-title">${sec.title}</div>
+          <div class="card-sub">${sec.sub||''}</div>
+        </div>
+        <span class="card-badge">${sec.badge||''}</span>
+      </div>
+      <div class="tips-box">
+        <div class="tips-title">💡 JSAUX 卖家要点</div>
+        <ul class="tips-list">${tips}</ul>
+      </div>
+      <div class="news-list">${items}</div>
+    </div>`;
 }
 
-// ── 缓存 ──────────────────────────────────────────────────
-function getCache(q){ try{const r=sessionStorage.getItem(ckey(q));if(!r)return null;const{ts,data}=JSON.parse(r);if(Date.now()-ts>TTL){sessionStorage.removeItem(ckey(q));return null;}return data;}catch{return null;} }
-function setCache(q,d){ try{sessionStorage.setItem(ckey(q),JSON.stringify({ts:Date.now(),data:d}));}catch{} }
-function showLoading(el){ el.innerHTML='<div class="news-loading"><span class="loader"></span>正在获取并翻译最新资讯...</div><div class="skeleton"></div><div class="skeleton s"></div><div class="skeleton"></div><div class="skeleton s"></div>'; }
-
-// ── RSS 解析 ──────────────────────────────────────────────
-function parseItems(xmlStr){
-  const p=new DOMParser(), xml=p.parseFromString(xmlStr,'text/xml');
-  const items=xml.querySelectorAll('item');
-  if(!items.length) throw new Error('no items');
-  const get=(el,tag)=>{const e=el.getElementsByTagName(tag);return e.length?(e[0].textContent||'').trim():'';};
-  return [...items].map(item=>{
-    const raw=get(item,'title');
-    const title=raw.replace(/ [-–] [^-–]{1,60}$/,'').trim()||raw;
-    const link=get(item,'link')||get(item,'guid')||'#';
-    return{title,link,pubDate:get(item,'pubDate'),author:get(item,'source')||get(item,'author'),description:get(item,'description')};
-  });
+// ── 首次运行提示页 ───────────────────────────────────────
+function renderFirstRun() {
+  return `
+    <div class="card" style="grid-column:1/-1;">
+      <div class="news-empty" style="padding:30px 20px;">
+        <div style="font-size:32px;margin-bottom:12px;">🚀</div>
+        <div style="font-size:15px;font-weight:700;color:#2d3748;margin-bottom:10px;">数据尚未生成</div>
+        <div style="font-size:13px;color:#4a5568;line-height:1.8;">
+          请前往 GitHub 仓库 → <strong>Actions</strong> 选项卡 →<br>
+          选择「🔄 每日资讯更新」→ 点击 <strong>Run workflow</strong><br>
+          等待约 3 分钟后刷新此页面即可看到完整资讯
+        </div>
+        <div style="margin-top:14px;font-size:11px;color:#a0aec0;">之后每天 09:00（北京时间）将自动更新</div>
+      </div>
+    </div>`;
 }
 
-// ── 地区识别 ──────────────────────────────────────────────
-function detectRegions(title,desc){
-  const t=(title+' '+desc).toLowerCase();
-  const map=[
-    {k:['united states','amazon.com',' usa ',' us ','north america','美国','北美'],v:'🇺🇸 美国'},
-    {k:['united kingdom','amazon.co.uk',' uk ','britain','英国'],v:'🇬🇧 英国'},
-    {k:['germany','amazon.de','deutschland','德国'],v:'🇩🇪 德国'},
-    {k:['japan','amazon.co.jp','nintendo japan','日本'],v:'🇯🇵 日本'},
-    {k:['france','amazon.fr','法国'],v:'🇫🇷 法国'},
-    {k:['canada','amazon.ca','加拿大'],v:'🇨🇦 加拿大'},
-    {k:['australia','amazon.com.au','澳大利亚'],v:'🇦🇺 澳大利亚'},
-    {k:['korea','coupang','韩国'],v:'🇰🇷 韩国'},
-    {k:['shopee','lazada','singapore','thailand','malaysia','philippines','vietnam','indonesia','东南亚','新加坡'],v:'🌏 东南亚'},
-    {k:['mercado libre','mexico','brazil','latin america','墨西哥','巴西','拉美'],v:'🌎 拉丁美洲'},
-    {k:['middle east','uae','saudi','中东','阿联酋'],v:'🌙 中东'},
-    {k:['京东','天猫','淘宝','抖音','拼多多','taobao','tmall','jd.com','douyin','中国','国内'],v:'🇨🇳 中国'},
-    {k:['europe','european','欧洲','欧盟'],v:'🇪🇺 欧洲'},
-    {k:['india','amazon.in','印度'],v:'🇮🇳 印度'},
-  ];
-  const found=map.filter(m=>m.k.some(k=>t.includes(k))).map(m=>m.v);
-  return found.length?found:['🌍 全球'];
-}
+// ── 主入口 ───────────────────────────────────────────────
+async function init() {
+  try {
+    // 每天日期作为缓存破坏参数，确保每天加载最新 JSON
+    const today = new Date().toISOString().split('T')[0];
+    const res = await fetch(`./jsaux-data.json?v=${today}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
 
-// ── 渲染 ──────────────────────────────────────────────────
-function render(items){
-  if(!items||!items.length) return '<div class="news-error">暂无相关资讯，请刷新重试</div>';
-  return items.map(item=>{
-    const title=strip(item.title||'无标题'), desc=cut(item.description||'',120);
-    const date=fmt(item.pubDate), src=strip(item.author||''), link=item.link||'#';
-    const regions=detectRegions(item.title+' '+(item.description||''),strip(item.description||''));
-    return `<div class="news-item"><div class="news-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>${desc?`<div class="news-body">${desc}</div>`:''}<div class="news-meta">${src?`<span class="news-tag">${src}</span>`:''}${regions.map(r=>`<span class="region-tag">${r}</span>`).join('')}<span class="news-date">${date}</span></div></div>`;
-  }).join('');
-}
+    // 更新时间
+    document.getElementById('update-time').textContent =
+      data.updated && data.updated !== '待首次运行' ? data.updated : '等待首次运行';
 
-// ── 抓取 + 翻译（代理链，parse 在 try 内）────────────────
-async function loadSection(s, force=false){
-  const el=document.getElementById(s.id); if(!el)return;
-  if(!force){const c=getCache(s.query);if(c){el.innerHTML=render(c);return;}}
-  showLoading(el);
-  const rss=`https://news.google.com/rss/search?q=${encodeURIComponent(s.query)}&hl=en-US&gl=US&ceid=US:en`;
-  const proxies=[
-    ()=>fetch(`https://corsproxy.io/?${encodeURIComponent(rss)}`,{cache:force?'no-cache':'default'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.text();}),
-    ()=>fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(rss)}`,{cache:force?'no-cache':'default'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();}).then(d=>{if(!d.contents)throw new Error('empty');return d.contents;}),
-    ()=>fetch(`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rss)}`,{cache:force?'no-cache':'default'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.text();}),
-  ];
-  let lastErr='所有数据源暂不可用';
-  for(const fn of proxies){
-    try{
-      const xml=await fn();
-      const all=parseItems(xml);
-      const raw=all.slice(0,MAX);             // 直接取最新几条，无严格日期限制
-      const items=await translateItems(raw);  // 全部翻译为中文
-      setCache(s.query,items);
-      el.innerHTML=render(items);
-      return;
-    }catch(e){ lastErr=e.message; console.warn('proxy fail:',e.message); }
+    // 渲染网格
+    const grid = document.getElementById('grid');
+    if (!data.sections || !data.sections.length) {
+      grid.innerHTML = renderFirstRun();
+    } else {
+      grid.innerHTML = data.sections.map(renderCard).join('');
+    }
+  } catch(e) {
+    document.getElementById('grid').innerHTML = `
+      <div class="card" style="grid-column:1/-1;">
+        <div class="news-empty" style="padding:24px;">
+          <div style="font-size:24px;margin-bottom:8px;">⚠️</div>
+          <div style="font-weight:700;color:#e53e3e;">无法加载数据文件</div>
+          <div style="font-size:12px;margin-top:6px;color:#718096;">${e.message}</div>
+          <div style="font-size:11px;margin-top:8px;color:#a0aec0;">
+            请确认 jsaux-data.json 已上传到 GitHub 仓库，且 GitHub Pages 已启用
+          </div>
+        </div>
+      </div>`;
+    document.getElementById('update-time').textContent = '加载失败';
   }
-  el.innerHTML=`<div class="news-error">⚠️ 数据暂时无法加载<br><small style="color:#a0aec0">请点击「手动刷新」重试 (${lastErr})</small></div>`;
 }
 
-async function loadAll(force=false){
-  const btn=document.getElementById('refresh-btn');
-  if(btn){btn.disabled=true;btn.innerHTML='<span class="spin">🔄</span> 刷新中...';}
-  document.getElementById('update-time').textContent=new Date().toLocaleString('zh-CN');
-  await Promise.allSettled(SECTIONS.map(s=>loadSection(s,force)));
-  if(btn){btn.disabled=false;btn.innerHTML='🔄 手动刷新';}
-}
-
-function refreshAll(){ loadAll(true); }
-document.addEventListener('DOMContentLoaded',()=>loadAll(false));
+init();
 </script>
 </body>
 </html>
