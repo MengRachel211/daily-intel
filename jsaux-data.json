@@ -1,5 +1,398 @@
 {
-  "updated": "待首次运行",
+  "updated": "2026-05-11 11:06",
   "brand": "JSAUX",
-  "sections": []
+  "sections": [
+    {
+      "id": "nintendo",
+      "title": "Nintendo Switch",
+      "icon": "🕹️",
+      "badge": "核心赛道",
+      "sub": "主机生态 · 新品发布 · 配件趋势",
+      "theme": "theme-nintendo",
+      "tips": [
+        "新款主机发布后3个月内是配件黄金期，提前布局屏幕保护贴、保护套、底座等核心SKU",
+        "日本、美国、欧洲是Switch三大主力市场，优先保障Amazon US/JP/DE备货",
+        "TikTok/YouTube上的Switch开箱评测是流量高峰节点，同步启动达人合作"
+      ],
+      "items": [
+        {
+          "title": "任天堂宣布一系列涨价，不仅仅是 Switch 2",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTNKelcwTzZxdW9wOXZVcmYzdm11T3AwNnJWQ196SlVZNkViMDZxcDBWZVR3VEc1a1Q5aWlNOExqN0hUdVVnc1ZpVW9WOE1fbTloZGc2aDRnTXpMZkJtREZhakFjUmZYVjNPaUdRMlNRVGIyalE1N3E4QTd5cDhaVDUtVEMtTUkwcFZr?oc=5",
+          "date": "05/09 06:38",
+          "source": "Game File | Stephen Totilo",
+          "type": "🚀 新品发布",
+          "summary": "任天堂宣布一系列价格上涨，不仅仅是 Switch 2 游戏文件 |斯蒂芬·托蒂洛",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 5 月和 6 月即将推出的 Nintendo Switch 2 游戏和配件",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjhrcUtTUmNfUHd1ek5VQlZaN2ZQbW1kSHR2eGxpbEcta3RXb1AzMVQ5WjhIRUNvMmk5eGxfdWt6N2pDWXBOTlJpLVh3QTlweWg5dE1yZl9raVYyRDU3aXg3ZEtuTFF6THZSa3J4a2hmeDJjb0E4X3JQN1N6TkFHOVNQYy0tUThhaFBPbmNpZWJSQ2ZaOVBJemR4TUczSnl3Ujk0RG9ieWxIUQ?oc=5",
+          "date": "05/01 15:00",
+          "source": "Nintendo Life",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年 5 月和 6 月即将推出的 Nintendo Switch 2 游戏和配件 Nintendo Life",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 Nintendo Switch 2：每款游戏及其发布日期",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVlRaTUxiREgxeF9DbVJnX01BOVRWSHA3Qll0bk82VV91WnpzNGJ5bmNqWXhqUWIyT3NoeVRfbDhmaW9hYUhETm9uZU9jQ0IxeFNoV3lqOGl2a1h5anJnd3VXZmRPTW5LcUVXUWUxb3Y4bFZDR082UEQzaDBGOFR6MlZYOVpXenFSMnF4cVZ3b3EzZDFUQlFqdmFn?oc=5",
+          "date": "04/30 15:00",
+          "source": "Nintendo Insider",
+          "type": "🚀 新品发布",
+          "summary": "2026 年 Nintendo Switch 2：每款游戏及其发布日期 Nintendo Insider",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWwtalZiOUVuQjNsQmFOT3NHVHA2UGNMMW9QMHdwemxCdFFyNGxFSDVBaFdZaGNNcXVDN0VJTTR5SUJhUXZHb0NoOTBoci1rM3d6bGc4eGhiYU1ETmh5cUF1UUlOa1NqdHUtSlJVOVhHVFRkTm1uY2lNcGRHRUx5S0d1akdTanFJVEVJY1JrUU5neGU1LU02bmlmbUpQNjNHXzVTbnNMeURIWkJx?oc=5",
+          "date": "12/30 16:00",
+          "source": "nintendo.com",
+          "type": "🎮 游戏动态",
+          "summary": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch nintendo.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "valve",
+      "title": "Valve / Steam",
+      "icon": "🖥️",
+      "badge": "上市进行中",
+      "sub": "Steam Machine · Steam Frame VR · Steam Controller",
+      "theme": "theme-valve",
+      "tips": [
+        "Steam Controller已上市，配套收纳袋/硅胶套/充电底座是当前蓝海，建议快速立项",
+        "JSAUX已宣布Steam Machine配件支持计划，需提前布局扩展坞/HDMI线/USB-C线SKU",
+        "Steam Frame VR上市后，VR配件可与Quest系列共线开发，降低研发成本"
+      ],
+      "items": [
+        {
+          "title": "Valve 确认新 Steam 控制器预购正式日期",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wVWdhQXI5ME1fczBqM1JUVXFGZG5KTXpRUDB3UGphZ3pNUlMwYXdsVmxVU29TN2FkMnVTMU04OTNacUZpWHNNT2t0OHo0VkRmSnNzMGluVUMzQnFYVWVfMl9iT3YwNmU5cVFnUUstaW90Z2VJNGZaa05uUkM?oc=5",
+          "date": "05/08 02:23",
+          "source": "Polygon.com",
+          "type": "📰 行业资讯",
+          "summary": "Valve 确认新 Steam 控制器预购正式日期 Polygon.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Valve 的新型 Steam 控制器转售价格接近 300 美元",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzdtc2VlVkVPNmsyb1RGR2FFRXVnejBwbEw4em1PTGV5QVNtMTF4TS0yTUtxN1BuNFZMdk44R1JpaHhKdmZHd2MtZ08xYWpNS0tlSTVTa2Y3NWhpQXZ5d2h4OWRxUktJMXlFWTMtVndTa0xNcDNXZ2g1WWZjb3pVUWpwWUpnUjFoakE?oc=5",
+          "date": "05/06 08:01",
+          "source": "Resell Calendar",
+          "type": "📰 行业资讯",
+          "summary": "Valve 的新款 Steam 控制器以近 300 美元的价格转售 转售日历",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "蒸汽控制器很快就卖完了，阀门正在补货",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTZYU2Mxa1JaejVSZTF6N21DVDdPdUhvLUx6ZzIxcG9HUnJxbVVlOHJfQW9wWkFTbDFrSGp5NU5QcXhJUVFndmFXUVFRR3cxRHU1bUVtX0Y2N0k0dXlsQzB3NmNHTVJ6OXBOTVlLc0UwRk9TNS1DTWlxWEF1NjNUUjlXMWZPUG9PZnVOaEUwWDNzWUd2ZnpUTnI5ZHBISlpWN2trTExVSVBqWFlmTENRNg?oc=5",
+          "date": "05/06 02:16",
+          "source": "Engadget",
+          "type": "📰 行业资讯",
+          "summary": "Steam 控制器很快就卖完了，Valve 正在补货",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Steam 控制器评测 – 大多数时候它都可以工作",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXhvRnR5STl2dlozSU9PZDg1dTBVSEtIZzlONUEySm8zZVg4SlRIRnY1d191NG5fLVc4ZWVIMktpVTZHb2VkQXRfNkVSZ05HM3NUdG85THdOWEIwWXluNVU1d0lHRGwyRjRYYTlkVVFDbDdfd3J0MGNwOTgwZjZKTWFlTURaTEhwMlVj0gGQAUFVX3lxTE1pV1pOY3FzMHQ1alJxOHhNdHhLVWY5NFI1RWc4V3VVYm5XS2lGekNKOGw4WTR1WEg4X3FwQ0x5eFJVMkdyRXRCT2NqdXR0MWlJRGlXOTNJcmNfdE5Hdnh0ajhVaFVDNGo0LUpEa3VIU01WVzY0bkktLXVKR1VTLWRJWVVjOS1nSTNrdUNnU0dRWQ?oc=5",
+          "date": "05/09 00:00",
+          "source": "Wccftech",
+          "type": "📋 评测推荐",
+          "summary": "Steam 控制器评测 – 大多数时候它都能正常工作 Wccftech",
+          "regions": [
+            "🌍 全球"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nex",
+      "title": "NEX Playground",
+      "icon": "🎯",
+      "badge": "新兴机会",
+      "sub": "体感游戏 · 家庭市场 · 配件机会",
+      "theme": "theme-nex",
+      "tips": [
+        "65万台用户基数，配件市场尚早期，先发布局具备显著竞争优势",
+        "英国等欧洲市场2026年新开，可与亚马逊欧洲站同步上架配件SKU",
+        "夏季联名大游上线是推广窗口，借势做Listing流量"
+      ],
+      "items": [
+        {
+          "title": "Nex Playground 与 Mattel 首次合作",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWVpWGs1UGg2VXBQdmhtWHVBRF9fSHZRbDd1Y29hM1NCc1VDdkxwSkFCYjBqUGpOeld0R09QZHFOY3R0VzhrNDNSUHRxdGtWdldwUEp4YUtoTTVrc1FEdW1JeFVfM01FcnZ1Vk9oVUViMGVucC0xOS1hWjVCengtTldhVjNVU1JoRy1pcGVkdVF0bjdfTEhBOFVxWmktb251YjUyag?oc=5",
+          "date": "12/26 16:00",
+          "source": "Gifts & Decorative Accessories",
+          "type": "🤝 品牌合作",
+          "summary": "Nex Playground 与美泰礼品及装饰配件首次合作",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
+          "date": "02/06 16:00",
+          "source": "Gadget Flow",
+          "type": "📰 行业资讯",
+          "summary": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？小工具流程",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Nex Playground 推出全新假日游戏阵容",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVZkellWNVR3X01GY1VHMzBySDBRYmRNWFdUNDVvcXdHUEFtMTQ5ZEVhOFhfVllTRUs1Qm5aTjJvN0lTaWEzR1kzUE5Dd2x6SWp6QW15ckJwaHhqUXFVTzRaVkJpOEc2YS1xbE1RVm5QSldMalVlcXF3TUIwMk1wLUQ0Y200My1UdnFSZjhGak9rVEFq?oc=5",
+          "date": "10/16 15:00",
+          "source": "License Global",
+          "type": "🚀 新品发布",
+          "summary": "Nex Playground 推出全新假日游戏阵容 全球授权",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "如果苹果制造了一款游戏机，那它就是 Nex Playground——但它到底是什么？",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONjQ3SVhGLUFqbWk2ZnU1N1piRGRoWGxzWHZUUFhJY1JFQTExbzF3NEtRZVRZV2Z1MnFNVkswSzFEQ1dzNHFRdEhqNGVjUkxyal9vS2pqUTR1Q1QwVmFieEIzRHFieW1wM3F2eDFIUVlSQS1NdGdPS28tUl90YnZwbjNyMU1LYkVaVGgzNDI2amNiMkpjQVZaQzhISDROUlJtOUtsSHhQVUNFQ2FOVG9ZZGI0YlVPZU16TFVENVh3ZlU0YzdVNm5TUHJwMDdnZklVaXFmbFp1N2JrY2Z4VjlDdVRBWW5HRlhwT096dUd3?oc=5",
+          "date": "04/10 15:00",
+          "source": "Creative Bloq",
+          "type": "🎮 游戏动态",
+          "summary": "如果苹果制造了一款游戏机，那它就是 Nex Playground——但它到底是什么？创意博客",
+          "regions": [
+            "🌍 全球"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pixel",
+      "title": "Google Pixel",
+      "icon": "📱",
+      "badge": "手机配件",
+      "sub": "Pixel手机 · 配件生态 · 新机发布",
+      "theme": "theme-pixel",
+      "tips": [
+        "Pixel新机发布（通常每年秋季）前后3个月是配件销售黄金期，提前60天上架",
+        "Pixel用户偏极客，对配件兼容性和材质要求高，需强调品质背书",
+        "桌面模式功能推动USB-C扩展坞需求，与JSAUX线材品类高度协同"
+      ],
+      "items": [
+        {
+          "title": "苹果 iPhone Fold、谷歌 Pixel 11、三星 Galaxy Z Fold 8 和其他预计 2026 年推出的手机",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlp2QlJYMjJaQ1E0UEtxQ3NFYWNBZ0E5X0FHOWQwZ1hBQWdMMHlvcnlJZ1Jwd0pXMWhwV3dyYjkwT2t5TjBlYjZESU14UnRxNkN3TEpsZS1NOXByc1RaX0U4NHhxYXhQOE56YnN3cjZsUFczWko2N2hYVlFQWjB6Z1ZCVzlXcWZOZF9lSGgyRlF6YnkyeG4xd2JXZUZibFBxMTU2ZVV2RlRrZXhmdDRZ?oc=5",
+          "date": "05/07 02:11",
+          "source": "CNET",
+          "type": "🚀 新品发布",
+          "summary": "苹果 iPhone Fold、谷歌 Pixel 11、三星 Galaxy Z Fold 8 和其他预计 2026 年推出的手机 CNET",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Google 推出 Fitbit Air——一款售价 99 美元的无屏健身追踪器",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0dpSmJ6RUgyOTZneGFTQ2QwcE5icEw2RFhHU2dFRGZzTmFLcGVNMEtOVXBNWUtpWVFmOXpneDZLQmY4Sl81RWpXSXd5eXVHODduWjcyaVZyeE9ud25teWZGVEJ5Z0R0VzNmTUs3ZWRNS284MVRGMkZEQ0ltTm8yc3ZhZ1lkcGFkSWJLVkFLSm9ackVOSEpncDRR?oc=5",
+          "date": "05/07 23:19",
+          "source": "Forbes",
+          "type": "🚀 新品发布",
+          "summary": "谷歌推出 Fitbit Air——售价 99 美元的无屏健身追踪器《福布斯》",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 4 款最佳 Android 手机 | Wirecutter 的评论",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4QzZ2YTdmVnctUFJXNThqOVZnc09xaWRzdFdKY240Z3FfOWNyUko2VUxNZWM2Q29FZ1pZTnpKb0hicl85MEdFaHZQakF0UnBGYjQ5TzBidzhuNHd2MW9fUDR3eTlua0FveFVJYkhvUQ?oc=5",
+          "date": "04/29 15:00",
+          "source": "The New York Times",
+          "type": "📋 评测推荐",
+          "summary": "2026 年 4 款最佳 Android 手机 | Wirecutter 的评论《纽约时报》",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50MVM2MDlDR0R1VjlBYWhxQ21iZ09nQjQ5dV9xQXVpU0wtMEh3RElpOGlCNU5IR0ZqY0ZXSzNUR0dXV282bGdvd25FcG9TSHZ6ZFJmX1pfOUJHcUp6QVNqR1RB?oc=5",
+          "date": "03/06 16:00",
+          "source": "WIRED",
+          "type": "📋 评测推荐",
+          "summary": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
+          "regions": [
+            "🌍 全球"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vr",
+      "title": "VR 设备配件",
+      "icon": "🥽",
+      "badge": "新兴赛道",
+      "sub": "Meta Quest 3/3S · 头戴绑带 · 充电坞",
+      "theme": "theme-vr",
+      "tips": [
+        "Meta Quest 3/3S是当前VR配件最大增量市场，头带、面罩、充电底座是核心SKU",
+        "VR配件复购率高，优先建立价格优势，自然流量最稳定",
+        "美国占全球VR设备销量约45%，Amazon US是主战场"
+      ],
+      "items": [
+        {
+          "title": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRGpZVUxyZThQOVBXMGJaMnNhWEMyQ0o0SmJRTmhRVkJtNGxUYjcxTHZDQnZkRWlqa1pCM0FxdkpCd0otZUhpY3BHdkZJYlpKUjEwWG9qX200alNfeGE0aEVvTW1xQQ?oc=5",
+          "date": "05/07 00:18",
+          "source": "GamesRadar+",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备 GamesRadar+",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 5 月的热门 Meta Quest 促销代码和优惠券",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pUWY2OWM4QmJQWVN0WTgxSU5wNlJpSmtQM0tiUjV3VGNmMmVOTGloeG05azlUWHBySmdHRE9paHdNcmJ4cmU5UUpPVUlZbzJHRmVpeGlmWUVSSVZRMFo0?oc=5",
+          "date": "05/05 13:00",
+          "source": "WIRED",
+          "type": "📢 促销活动",
+          "summary": "2026 年 5 月《连线》顶级 Meta Quest 促销代码和优惠券",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "我用 2026 年最好的 VR 配件升级了我的 Meta Quest",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZnhhUXg1eHRTandaNkJYZ2ozSFlHNmo5bF9hb1lHcmxhYXYxVmwwX1pGNjN6UjFjSkxON2c0ZUtFUTNQNW45dVJlNXIwdFFWLXVwLVlMVUhKYmFOS24xR1E3YlBoamR1OVoySFBXTGNBanlQT3R0dE9nUEl4RnM?oc=5",
+          "date": "04/29 15:00",
+          "source": "Tom's Guide",
+          "type": "📋 评测推荐",
+          "summary": "我用 2026 年汤姆指南中最好的 VR 配件升级了我的 Meta Quest",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 5 月 Meta Quest 3 最佳优惠：英国提供最新 Meta VR 耳机",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTF1ZDlVNC1DTWU2SlFXX0U5blo4blR5RXVIQzJnTDB2dEMtWVJ6RlhUc2lpRWRlc0hXbHpvcDFHcnVKYnJ0QUw3c1RhZjFYcENIRmdmeU1HVl9sRU1sWEgzcjdxRXN4dU0yTUZJcHpKNFU0N0VaZEZNNWZyS3VUbks0YTNFUQ?oc=5",
+          "date": "05/05 15:00",
+          "source": "Radio Times",
+          "type": "📢 促销活动",
+          "summary": "2026 年 5 月 Meta Quest 3 最佳优惠：英国提供最新 Meta VR 耳机 Radio Times",
+          "regions": [
+            "🇬🇧 英国"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "handheld",
+      "title": "游戏掌机",
+      "icon": "🎮",
+      "badge": "新品机会",
+      "sub": "ROG Ally · Lenovo Legion · 新兴掌机",
+      "theme": "theme-handheld",
+      "tips": [
+        "掌机配件市场高速增长，JSAUX已是Steam Deck配件TOP品牌，可复制打法",
+        "新掌机发布首月是抢占Listing的黄金窗口，需在发布前90天做好选品准备",
+        "掌机用户黏性高，保护套+散热底座+充电线三件套是标配组合SKU"
+      ],
+      "items": [
+        {
+          "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
+          "date": "03/02 07:04",
+          "source": "Mashable",
+          "type": "🚀 新品发布",
+          "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Steam Deck 及其他：阿联酋和沙特阿拉伯 2026 年最佳手持游戏电脑",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkpIX05VU3ItNU54cnNUR1l4blNpNzd1OW9KMERodG9aRW5POTZEOGlIR0owQ2tlQTlVMnZSX21zUTFZa1JMbERRN2tRT19KZ0tfX09faDBOMFlwMWhYbF9XTlJzYWFHZnp0ejVDSUJQeEduOGlpV051YWdJVkxkQWJsTzBzQXo4YllBeDlBYw?oc=5",
+          "date": "01/17 16:00",
+          "source": "PCMag Middle East",
+          "type": "🎮 游戏动态",
+          "summary": "Steam Deck 及其他：阿联酋和沙特阿拉伯 2026 年最佳手持游戏电脑 PCMag 中东",
+          "regions": [
+            "🌙 中东"
+          ]
+        },
+        {
+          "title": "CES 2026 游戏阵容为未来一年树立了标杆",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96cUJQYkFvWDNwdVMxeGFHSVVlQzd4anFXMHdmU0FGYXRDbUlRX2hWWkFKT08xTjVMeTR0bDlCOE1KdElhaTNFVHpQR1kxVW16Y3Zyb2RrNWZMLXQwWlpQMHFGRWQ?oc=5",
+          "date": "01/12 16:00",
+          "source": "Gadget Flow",
+          "type": "🎮 游戏动态",
+          "summary": "CES 2026 游戏阵容为未来一年树立了标杆 Gadget Flow",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlSYVdTRllZdnhUYVA5NTRKRlZPT0JOWVQtQjcwTTVXMmpwTDhYazNqSDFub0xxa3dMZThBY1FHb3Q4eWJjU3NGbjFueGlvS3ltN1Z5NWVBWUxDcFBLb2ZMbGR2SkRSVmhqUTkycUg0UWdKbXFOWG9WbWJoQW1saDZwWlZpVWJHd2pKV2dUMmxwZnhVSWRrT3hGM2tUVjh5STdpU29BUDY0R0VmVkp5TENxMA?oc=5",
+          "date": "02/07 16:00",
+          "source": "VICE",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）VICE",
+          "regions": [
+            "🌍 全球"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cables",
+      "title": "线材 & 充电配件",
+      "icon": "🔌",
+      "badge": "基础品类",
+      "sub": "USB-C · HDMI · DP · 充电 · 传输 · 视频 · 音频",
+      "theme": "theme-cables",
+      "tips": [
+        "USB4/Thunderbolt 5认证是线材溢价核心，建议快速拿证，在标题中突出显示",
+        "HDMI 2.1线材需求持续增长，4K/120Hz和8K游戏电视普及是主要驱动力",
+        "无线充市场差评集中于充电慢/过热，改善这两点可显著提升评分和复购"
+      ],
+      "items": [
+        {
+          "title": "中国连接器适配器套件 - 市场分析、预测、规模、趋势和见解",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnB2WXVnb3VIOXgwQVJpSGtkZXphcUVlVTNwdUdfRWE1NXpabXd5bGNMUG1KZzFnRXVCMFQ4VXAyYVctMmNxdEUwOFdPNkhJMDNKT2ZfSDlZSDF6VzZUYi13bmVMbG5WeWRhcThBd2ZUajV3MDV2OFVSQmlGMXNEYXM4cEoxWUp4WlM5dmZYQ3hhQXdHeExtb3JyU2ZkYUVJSmdnZERmVHhGTnNJVWc?oc=5",
+          "date": "05/03 08:19",
+          "source": "IndexBox",
+          "type": "📊 市场动态",
+          "summary": "中国连接器适配器套件 - 市场分析、预测、规模、趋势和见解 IndexBox",
+          "regions": [
+            "🇨🇳 中国"
+          ]
+        },
+        {
+          "title": "美国对USB Type C的需求|全球市场分析报告 - 2035",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1JGVjhvQTBfakdtUHpVd29va1o0MGxrMXIweVlHYTZCVUdqZUNTRVpLajlzZ2hiMm9pNEtLaUtaSEtST00wZE4tZHBXdlJWbU5VVHJJTnJYUHkwQ21Ec0c1UjREc05rR19HYXlGZUVLam1lc2hjUjZEbXRpTFVhWDBR?oc=5",
+          "date": "11/20 16:00",
+          "source": "Future Market Insights",
+          "type": "📊 市场动态",
+          "summary": "美国对USB Type C的需求|全球市场分析报告 - 2035 年未来市场洞察",
+          "regions": [
+            "🇺🇸 美国",
+            "🌍 全球"
+          ]
+        }
+      ]
+    }
+  ]
 }
