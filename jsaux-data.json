@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12 18:17",
+  "updated": "2026-05-13 10:07",
   "brand": "JSAUX",
   "sections": [
     {
@@ -15,17 +15,6 @@
         "TikTok/YouTube上的Switch开箱评测是流量高峰节点，同步启动达人合作"
       ],
       "items": [
-        {
-          "title": "任天堂宣布一系列涨价，不仅仅是 Switch 2",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTNKelcwTzZxdW9wOXZVcmYzdm11T3AwNnJWQ196SlVZNkViMDZxcDBWZVR3VEc1a1Q5aWlNOExqN0hUdVVnc1ZpVW9WOE1fbTloZGc2aDRnTXpMZkJtREZhakFjUmZYVjNPaUdRMlNRVGIyalE1N3E4QTd5cDhaVDUtVEMtTUkwcFZr?oc=5",
-          "date": "05/09 06:38",
-          "source": "Game File | Stephen Totilo",
-          "type": "🚀 新品发布",
-          "summary": "任天堂宣布一系列价格上涨，不仅仅是 Switch 2 游戏文件 |斯蒂芬·托蒂洛",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
         {
           "title": "2026 年 5 月和 6 月即将推出的 Nintendo Switch 2 游戏和配件",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjhrcUtTUmNfUHd1ek5VQlZaN2ZQbW1kSHR2eGxpbEcta3RXb1AzMVQ5WjhIRUNvMmk5eGxfdWt6N2pDWXBOTlJpLVh3QTlweWg5dE1yZl9raVYyRDU3aXg3ZEtuTFF6THZSa3J4a2hmeDJjb0E4X3JQN1N6TkFHOVNQYy0tUThhaFBPbmNpZWJSQ2ZaOVBJemR4TUczSnl3Ujk0RG9ieWxIUQ?oc=5",
@@ -58,6 +47,17 @@
           "regions": [
             "🌍 全球"
           ]
+        },
+        {
+          "title": "澳大利亚最佳 Nintendo Switch 2 配件 (2026)",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjdJT1FCSEZIQmlsNFM3T0d6eWlOU0xTNGJnWUpkVHEzS21iaExXbzc0RU91UUxjaVdvZnpHcllzM3ZwUmJaQ0ZaNHdMd2ZITXVEVVBMMW8yNmV5Vjk0Nk9UeXVHMmU3UEJXZ25xYjFnUVcyVjFoUjFObGh4bk5YVXo0d0RmcWxSRHF6eWIyZjlhWGtN?oc=5",
+          "date": "05/11 20:28",
+          "source": "Resident Entertainment",
+          "type": "📋 评测推荐",
+          "summary": "澳大利亚最佳 Nintendo Switch 2 配件 (2026) 居民娱乐",
+          "regions": [
+            "🇦🇺 澳大利亚"
+          ]
         }
       ]
     },
@@ -75,17 +75,6 @@
       ],
       "items": [
         {
-          "title": "Valve Steam Machine 成为全球内存过剩的受害者",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwVHlCYmVsb19SajlYODJEZ2tXZ0hYQkItOG5Ja0paYVhvb3d0czMyQUwzeVVDcFFiX3ZxZFdpbllBUEQ3UDkzZ0VvNnptaThEMWlaRVNoUUl2VzBCRXZoWDVCMVBjWG5nN244MUJrWkhQcGx3OEhJak5xaWY?oc=5",
-          "date": "05/12 06:03",
-          "source": "Mashable",
-          "type": "📰 行业资讯",
-          "summary": "Valve Steam Machine 成为全局内存存储的受害者 Mashable",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Valve 确认新 Steam 控制器预购正式日期",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wVWdhQXI5ME1fczBqM1JUVXFGZG5KTXpRUDB3UGphZ3pNUlMwYXdsVmxVU29TN2FkMnVTMU04OTNacUZpWHNNT2t0OHo0VkRmSnNzMGluVUMzQnFYVWVfMl9iT3YwNmU5cVFnUUstaW90Z2VJNGZaa05uUkM?oc=5",
           "date": "05/08 02:23",
@@ -97,12 +86,12 @@
           ]
         },
         {
-          "title": "Valve 解释了为什么我们有新的蒸汽控制器但没有蒸汽机",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14ZDJmdjJ2LTA5TURDMmlfU29hcU56a1ktUkRoM2JOQWNNaGxIbnlFZkxaaURGejE3VlFMTzQ0ZVJGLXpYTWtCSVExRVR6VHFxckFMZ1lKaFRLV3RlUldVaWRxQmh1aVIxUzdzTm9WUEM?oc=5",
-          "date": "05/12 15:48",
-          "source": "Geeky Gadgets",
-          "type": "📰 行业资讯",
-          "summary": "Valve 解释为什么我们有新的 Steam 控制器但没有 Steam 机",
+          "title": "蒸汽机泄漏：四个 SKU 和黄牛保护即将到来",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kNG1pbnk2anNKaHdZdG5DZWF4cUp1Y1NZTkJHZnNrRDliWVE1cVN2S2lCMDg3eXVsNXJGLWc3cWlGTy0wUWZGdmwxSVlzaWZ2Slk0a2wwaUVySXBaOFFYQUFIRlEyWUs2VDBOWlIyWWxFZ2c?oc=5",
+          "date": "05/12 21:40",
+          "source": "games.gg",
+          "type": "🎮 游戏动态",
+          "summary": "Steam 机器泄漏：四个 SKU 和黄牛保护 即将推出的 games.gg",
           "regions": [
             "🌍 全球"
           ]
@@ -114,6 +103,17 @@
           "source": "TechRadar",
           "type": "📋 评测推荐",
           "summary": "阀门蒸汽控制器 (2026) 评论 TechRadar",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "100 美元 Steam 控制器评测：最好的 PC 垫之一",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2ozZk5pb3FMRnNuWUU0endwMm9pcVlsLU9VZ1MxbXhONm9nNlYycVdyV0N0SHNpQ0J4WktrVXhUSGVEem9MOU5WeHE4Qk9kZU9uRlNWVUdOVkJkd2dwSlpSZ05oS1lmcFhXb0hDYjZyRjh5blpuakZtaW82NjhCag?oc=5",
+          "date": "04/27 15:00",
+          "source": "Kotaku",
+          "type": "📋 评测推荐",
+          "summary": "100 美元 Steam 控制器评测：Kotaku 最好的 PC 垫之一",
           "regions": [
             "🌍 全球"
           ]
@@ -204,12 +204,23 @@
           ]
         },
         {
-          "title": "Google 推出 Fitbit Air——一款售价 99 美元的无屏健身追踪器",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0dpSmJ6RUgyOTZneGFTQ2QwcE5icEw2RFhHU2dFRGZzTmFLcGVNMEtOVXBNWUtpWVFmOXpneDZLQmY4Sl81RWpXSXd5eXVHODduWjcyaVZyeE9ud25teWZGVEJ5Z0R0VzNmTUs3ZWRNS284MVRGMkZEQ0ltTm8yc3ZhZ1lkcGFkSWJLVkFLSm9ackVOSEpncDRR?oc=5",
-          "date": "05/07 23:19",
+          "title": "Best of 9to5Toys – 本周最优惠：AirPods、M4 iPad Air、新款 Google Fitbit Air 等",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV29uRE5ydWd2aHNSQkQ2NFBGXzBtcnRCdTFDQjVkLTlFMzVHcEZVdUwxOUE2LTZhc0Z4dW5Ob3NMSTJ1YTlNOWxHZ0p6dkhnSGRERjV5c1VrTHZyN25GZ2FGUXhiWUJLcFVGVzBkV05DWXFBQnQya1I1a1BWcEJ6YzdMWkdiSV9JdnFHYw?oc=5",
+          "date": "05/09 21:27",
+          "source": "9to5Toys",
+          "type": "📢 促销活动",
+          "summary": "Best of 9to5Toys – 本周最优惠：AirPods、M4 iPad Air、新款 Google Fitbit Air、更多 9to5Toys",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "谷歌推出 Pixel 10A——它具有必备的设计功能",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU21VZ19Sa2t2TTEwNnlpYlRoN0ZfQU82Zl9YVmV6OTkxUjN3RjFRY3Z1dDRMR3BqZ0FNYjFOVXI5QmxoV1V6N0ZGT3FZSVRRQlhMQ1RwS3l3VTVKcjRFTVBlRk0zazZZMTZWOTJTTzROeDNibXdkMWxjM3ExMVJPVFFCOHF0cWt1TGpUTjl6ZThtUQ?oc=5",
+          "date": "02/18 16:00",
           "source": "Forbes",
           "type": "🚀 新品发布",
-          "summary": "谷歌推出 Fitbit Air——售价 99 美元的无屏健身追踪器《福布斯》",
+          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
           "regions": [
             "🌍 全球"
           ]
@@ -220,18 +231,7 @@
           "date": "04/29 15:00",
           "source": "The New York Times",
           "type": "📋 评测推荐",
-          "summary": "2026 年 4 款最佳 Android 手机 | Reviews by Wirecutter The New York Times",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "这个 10 美元的配件改变了我使用 Android 手机的方式，我应该早点买它",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0ZwNThhNWdScU81bDNPZXdjZTQ4ZzdTckNvRUhxR19qdjJhOWhhZkhxd0Zyd19pYng2eHhvRXNQU3Z2V0NlV0hDN3BNd3BIVnNWRmMtZzBpdTB2MDZUdkpVUW50aDN1VFF2dkpsUHZtNGRIdkNxWjAxaWlXci1ZRVlvRkN4ZE9QV19Z?oc=5",
-          "date": "05/03 15:00",
-          "source": "Android Police",
-          "type": "📰 行业资讯",
-          "summary": "这个 10 美元的配件改变了我使用 Android 手机的方式，我应该早点购买它 Android Police",
+          "summary": "2026 年 4 款最佳 Android 手机 | Wirecutter 的评论《纽约时报》",
           "regions": [
             "🌍 全球"
           ]
@@ -252,17 +252,6 @@
       ],
       "items": [
         {
-          "title": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRGpZVUxyZThQOVBXMGJaMnNhWEMyQ0o0SmJRTmhRVkJtNGxUYjcxTHZDQnZkRWlqa1pCM0FxdkpCd0otZUhpY3BHdkZJYlpKUjEwWG9qX200alNfeGE0aEVvTW1xQQ?oc=5",
-          "date": "05/07 00:18",
-          "source": "GamesRadar+",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备 GamesRadar+",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "我用 2026 年最好的 VR 配件升级了我的 Meta Quest",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZnhhUXg1eHRTandaNkJYZ2ozSFlHNmo5bF9hb1lHcmxhYXYxVmwwX1pGNjN6UjFjSkxON2c0ZUtFUTNQNW45dVJlNXIwdFFWLXVwLVlMVUhKYmFOS24xR1E3YlBoamR1OVoySFBXTGNBanlQT3R0dE9nUEl4RnM?oc=5",
           "date": "04/29 15:00",
@@ -274,12 +263,12 @@
           ]
         },
         {
-          "title": "DIRECTV 现已在 Meta Quest 上推出",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMdU1CRVdKbTVBbTVKRU5PcWtqU2huVjF4bHZaR0FmSFFGLV9Qc1NpRG1jTXFWUF8wOThkZzIxdGhfcjA5cGRsWGNSTTZXLVhkREJn?oc=5",
-          "date": "04/23 15:00",
-          "source": "meta.com",
-          "type": "📰 行业资讯",
-          "summary": "DIRECTV 现已在 Meta Quest meta.com 上提供",
+          "title": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRGpZVUxyZThQOVBXMGJaMnNhWEMyQ0o0SmJRTmhRVkJtNGxUYjcxTHZDQnZkRWlqa1pCM0FxdkpCd0otZUhpY3BHdkZJYlpKUjEwWG9qX200alNfeGE0aEVvTW1xQQ?oc=5",
+          "date": "05/07 00:18",
+          "source": "GamesRadar+",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备 GamesRadar+",
           "regions": [
             "🌍 全球"
           ]
@@ -291,6 +280,17 @@
           "source": "WIRED",
           "type": "📢 促销活动",
           "summary": "2026 年 5 月《连线》顶级 Meta Quest 促销代码和优惠券",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "我们测试过的 2026 年最佳 VR 耳机",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUUliX3VRUWxkdEZ0TkNLbm53RV83R2lUdkpWRUFKbFFpb3lpYjQ5dEJaTWJXY3dsRkNjV2tPeGo4SGNoeWZ0UFh0azZuOG90SzVaNUVvdDByZXd5?oc=5",
+          "date": "05/05 15:00",
+          "source": "PCMag",
+          "type": "📋 评测推荐",
+          "summary": "我们测试过的 2026 年最佳 VR 耳机",
           "regions": [
             "🌍 全球"
           ]
@@ -313,7 +313,7 @@
         {
           "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
-          "date": "05/12 06:03",
+          "date": "03/01 16:00",
           "source": "Mashable",
           "type": "🚀 新品发布",
           "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
