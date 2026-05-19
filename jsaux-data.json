@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18 20:57",
+  "updated": "2026-05-19 20:24",
   "brand": "JSAUX",
   "sections": [
     {
@@ -38,23 +38,23 @@
           ]
         },
         {
-          "title": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXBPMExYM3VkQUx2R2RHWnZ5cVI5eGRMRWdrR0Z3RlUtRWROcXFRYWlOTlFwRFQ2OGVwWFVNdm9kQ2VUSGdyRlVqeTEtRVduUVNDenNMcEF4dGNPZHFnMU12dUNPMWxrakc3LVJYSmtXbDNxQXVzUXlLYktDVVNxNTU3R2l2a0pJYlJXMUhzSTM?oc=5",
-          "date": "05/12 23:31",
-          "source": "GamesRadar+",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意 GamesRadar+",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "任天堂 eShop 亮点 – 2026 年 4 月 30 日",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3puMnNGTXBUSWNzaXdGTVo1WUoyQ25rS1pyU0h0U1N3dmFVVk9JWjh5ZFFUelhwQ1hRMHRTNTVTQWI2MjI1Y2xJNTkwWmF5czVpQnV5OENOcUVzRlo5QlZKWGtHd1ZwcnZYNlFuSk1PdXB2cmZXeklabzJIakN5THJERlFqdk8yZ1QzSUk1S1FkQTJvQUVfMDVfREY?oc=5",
           "date": "04/30 15:00",
           "source": "Nintendo",
           "type": "📰 行业资讯",
           "summary": "任天堂 eShop 亮点 – 30/04/2026 Nintendo",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXBPMExYM3VkQUx2R2RHWnZ5cVI5eGRMRWdrR0Z3RlUtRWROcXFRYWlOTlFwRFQ2OGVwWFVNdm9kQ2VUSGdyRlVqeTEtRVduUVNDenNMcEF4dGNPZHFnMU12dUNPMWxrakc3LVJYSmtXbDNxQXVzUXlLYktDVVNxNTU3R2l2a0pJYlJXMUhzSTM?oc=5",
+          "date": "05/12 23:31",
+          "source": "GamesRadar+",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意 GamesRadar+",
           "regions": [
             "🌍 全球"
           ]
@@ -75,6 +75,17 @@
       ],
       "items": [
         {
+          "title": "Valve 的 Steam Machine 在 2026 年推出之前面临身份危机",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPajNlTXg1WjUtZ0Z2NGhSV3dqVkJtb21DMHdlZ29QU3NjY2NtaGZqcG8ySnNHNzJnc0gwZE9pSHkxaHZlSlpXRVAxZXlnM1RUR2ozaW9DSnlsa19kV0p4VVYxbE84UENIYTRPVkdZVHB3NVVKZlZsb3F3Q0VRSmdiYUtkejZ1UUx1UTd4VllWZnVhRUQyTUU1NDY0Y21UdDNvWXVBUWpKRzFtQVlWV2N2R1gzY3JyRldiUTFXUy14bGZjYVlRRndCZWQ3bU15MXA5ajlsSUl4SGZNeWhIeVo0VDdLdmlDMmtfTHZ3UU9iRzRoR3d4WFNHRjVKTQ?oc=5",
+          "date": "05/18 15:25",
+          "source": "MSN",
+          "type": "🚀 新品发布",
+          "summary": "Valve 的 Steam Machine 在 2026 年推出 MSN 之前面临身份危机",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "Valve Steam Machine：新 Steam 硬件失去了明确的提前发布窗口",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13RGQxb0YwbW1NSmJZQkdWRDdIeWV4NllvcjQwbHFSQ3BzUzNmaVIwSmlzZllhZFZlTDl5RTBUUGpCc2VxZEd0OWl4Vy0?oc=5",
           "date": "05/17 12:00",
@@ -86,34 +97,23 @@
           ]
         },
         {
-          "title": "Valve 将威廉尖叫复活节彩蛋偷偷放入了新的 Steam 控制器中",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRWhuaU5xRGFMRUdyc2E4SjdGWUJrLWJBbHFNNmVCdnlTaEE4OFdycGVZSWRRV0VRZEljZ3FNYzZBVVE3QVJMbjA3VG9jdkk5ZmtmZG8tcTM5eUNHSWJxY0pWRW4zelp0TFZyWmpOTGJYTnNOQjhMaWxaekxiNmFqdE9kZFhaYjJrMW04Z0xUYXloM25lWXBHRVNIOXBLcXNROXNmMVBHZnNma2VnLTlEbkJqejdjTW5mclE?oc=5",
-          "date": "05/13 07:05",
-          "source": "PC Gamer",
-          "type": "🎮 游戏动态",
-          "summary": "Valve 将威廉尖叫复活节彩蛋偷偷放入了新的 Steam 控制器 PC 游戏玩家",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Valve 最新硬件泄露揭示了模块化蒸汽机的哪些内容",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XbEhTWElCM0ozSUpHRUF6MFlvZXBvNE1nMWlhZnJpekJ3b1lheHUwcGdGZTJSX3F5LTNhVlNzOW9mRUlqWVZEblRmSllIenJrRGpqTWlmZFhJTXFqa0szR3QyR29FdEd5SnQ0?oc=5",
-          "date": "05/18 14:17",
-          "source": "Geeky Gadgets",
-          "type": "🚀 新品发布",
-          "summary": "Valve 最新硬件泄露揭示了模块化蒸汽机的哪些内容",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "随着 Valve 准备发售日期捆绑包，泄漏暗示 Steam 机器价格超过 1000 美元",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPem1FSGZIaHIyXzR5MUtGZjBnMTY0cDExZmhHZzdwV251MTZ4YTdZRVN5WVI5dTg1THpFU0xSOEtQUDB2QXdlMjFQaFVBeEN3eTBja1c5Q3RrcllPY2Z3MHM2YUlCa1VzZ0JtZUV2bmxyZXVza3pXOVdiekZVeDJZRGd4MGtidGNEaUZpVjZuWDZKbzcwR2RpLXlYcmV1TmZ0aUZpMElLZEZGckVhdmpEZlZsU2NibXIyTFRzczlR?oc=5",
           "date": "05/16 09:40",
           "source": "Notebookcheck",
           "type": "🚀 新品发布",
           "summary": "Valve 已准备好捆绑包 Notebookcheck 的发售日期，泄漏暗示 Steam 机器价格超过 1000 美元",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Valve 将威廉尖叫复活节彩蛋偷偷放入了新的 Steam 控制器中",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRWhuaU5xRGFMRUdyc2E4SjdGWUJrLWJBbHFNNmVCdnlTaEE4OFdycGVZSWRRV0VRZEljZ3FNYzZBVVE3QVJMbjA3VG9jdkk5ZmtmZG8tcTM5eUNHSWJxY0pWRW4zelp0TFZyWmpOTGJYTnNOQjhMaWxaekxiNmFqdE9kZFhaYjJrMW04Z0xUYXloM25lWXBHRVNIOXBLcXNROXNmMVBHZnNma2VnLTlEbkJqejdjTW5mclE?oc=5",
+          "date": "05/13 07:05",
+          "source": "PC Gamer",
+          "type": "🎮 游戏动态",
+          "summary": "Valve 将威廉尖叫复活节彩蛋偷偷放入了新的 Steam 控制器 PC 游戏玩家",
           "regions": [
             "🌍 全球"
           ]
@@ -170,7 +170,7 @@
           "title": "如果苹果制造了一款游戏机，那它就是 Nex Playground——但它到底是什么？",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONjQ3SVhGLUFqbWk2ZnU1N1piRGRoWGxzWHZUUFhJY1JFQTExbzF3NEtRZVRZV2Z1MnFNVkswSzFEQ1dzNHFRdEhqNGVjUkxyal9vS2pqUTR1Q1QwVmFieEIzRHFieW1wM3F2eDFIUVlSQS1NdGdPS28tUl90YnZwbjNyMU1LYkVaVGgzNDI2amNiMkpjQVZaQzhISDROUlJtOUtsSHhQVUNFQ2FOVG9ZZGI0YlVPZU16TFVENVh3ZlU0YzdVNm5TUHJwMDdnZklVaXFmbFp1N2JrY2Z4VjlDdVRBWW5HRlhwT096dUd3?oc=5",
           "date": "04/10 15:00",
-          "source": "Creative Bloq",
+          "source": "creativebloq.com",
           "type": "🎮 游戏动态",
           "summary": "如果苹果制造了一款游戏机，那它就是 Nex Playground——但它到底是什么？创意博客",
           "regions": [
@@ -193,12 +193,12 @@
       ],
       "items": [
         {
-          "title": "谷歌推出 Pixel 10A——它具有必备的设计功能",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU21VZ19Sa2t2TTEwNnlpYlRoN0ZfQU82Zl9YVmV6OTkxUjN3RjFRY3Z1dDRMR3BqZ0FNYjFOVXI5QmxoV1V6N0ZGT3FZSVRRQlhMQ1RwS3l3VTVKcjRFTVBlRk0zazZZMTZWOTJTTzROeDNibXdkMWxjM3ExMVJPVFFCOHF0cWt1TGpUTjl6ZThtUQ?oc=5",
-          "date": "02/18 16:00",
-          "source": "Forbes",
-          "type": "🚀 新品发布",
-          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
+          "title": "Best of 9to5Toys – 本周最热门优惠：MacBook Pro 300 美元折扣、新款 Fitbit Air、Galaxy Tab S11 Ultra 等",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxZnpZOVdWdVJPdW5qZ2J4SkhGV2d2WXcyWTFGNWlTRUltOFpWNm9VT1BLWFlENUt6WHkyQzRvM2pGeHdsUWNzMjVqcnd3OFplUzRVZUozT1lzakJoZmhOcG1NVlhfeVk?oc=5",
+          "date": "05/16 21:08",
+          "source": "9to5Toys",
+          "type": "📢 促销活动",
+          "summary": "Best of 9to5Toys – 本周最热门优惠：MacBook Pro 300 美元折扣、新款 Fitbit Air、Galaxy Tab S11 Ultra、更多 9to5Toys",
           "regions": [
             "🌍 全球"
           ]
@@ -215,23 +215,23 @@
           ]
         },
         {
+          "title": "谷歌推出 Pixel 10A——它具有必备的设计功能",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU21VZ19Sa2t2TTEwNnlpYlRoN0ZfQU82Zl9YVmV6OTkxUjN3RjFRY3Z1dDRMR3BqZ0FNYjFOVXI5QmxoV1V6N0ZGT3FZSVRRQlhMQ1RwS3l3VTVKcjRFTVBlRk0zazZZMTZWOTJTTzROeDNibXdkMWxjM3ExMVJPVFFCOHF0cWt1TGpUTjl6ZThtUQ?oc=5",
+          "date": "02/18 16:00",
+          "source": "Forbes",
+          "type": "🚀 新品发布",
+          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "2026 年 4 款最佳 Android 手机 | Wirecutter 的评论",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4QzZ2YTdmVnctUFJXNThqOVZnc09xaWRzdFdKY240Z3FfOWNyUko2VUxNZWM2Q29FZ1pZTnpKb0hicl85MEdFaHZQakF0UnBGYjQ5TzBidzhuNHd2MW9fUDR3eTlua0FveFVJYkhvUQ?oc=5",
           "date": "04/29 15:00",
           "source": "The New York Times",
           "type": "📋 评测推荐",
           "summary": "2026 年 4 款最佳 Android 手机 | Wirecutter 的评论《纽约时报》",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50MVM2MDlDR0R1VjlBYWhxQ21iZ09nQjQ5dV9xQXVpU0wtMEh3RElpOGlCNU5IR0ZqY0ZXSzNUR0dXV282bGdvd25FcG9TSHZ6ZFJmX1pfOUJHcUp6QVNqR1RB?oc=5",
-          "date": "03/06 16:00",
-          "source": "WIRED",
-          "type": "📋 评测推荐",
-          "summary": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
           "regions": [
             "🌍 全球"
           ]
@@ -311,6 +311,17 @@
       ],
       "items": [
         {
+          "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
+          "date": "03/02 07:04",
+          "source": "Mashable",
+          "type": "🚀 新品发布",
+          "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "Steam Deck 及其他：阿联酋和沙特阿拉伯 2026 年最佳手持游戏电脑",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkpIX05VU3ItNU54cnNUR1l4blNpNzd1OW9KMERodG9aRW5POTZEOGlIR0owQ2tlQTlVMnZSX21zUTFZa1JMbERRN2tRT19KZ0tfX09faDBOMFlwMWhYbF9XTlJzYWFHZnp0ejVDSUJQeEduOGlpV051YWdJVkxkQWJsTzBzQXo4YllBeDlBYw?oc=5",
           "date": "01/17 16:00",
@@ -328,17 +339,6 @@
           "source": "VICE",
           "type": "🎮 游戏动态",
           "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）VICE",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
-          "date": "03/01 16:00",
-          "source": "Mashable",
-          "type": "🚀 新品发布",
-          "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
           "regions": [
             "🌍 全球"
           ]
@@ -381,17 +381,6 @@
           ]
         },
         {
-          "title": "中国便携式 Hdmi 电缆 - 市场分析、预测、规模、趋势和见解",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3ZDSm85QnZaNDdSTmU2V1FRSm1uY1NnejY1ZTdOSmNnSUJCWFE4RVBrakxneEgxaEstYkpRc3R1VUZ3YXJCUVRQbzZ6NFE1NWxqVGg5ZFk4S0dPc2ZYSmlkMk5Bb041Szg4SzlQQTRnYXc1ZndBWk9OaWo1NGlOeVVmSDFBVFpTYUxMb0gyUFRQTTMxV09HU2J0OXZFVHlmbTd3Q3lRRk8zVFFyR2h5b3Z0WQ?oc=5",
-          "date": "05/18 14:08",
-          "source": "IndexBox",
-          "type": "📊 市场动态",
-          "summary": "中国便携式 Hdmi 电缆 - 市场分析、预测、规模、趋势和见解 IndexBox",
-          "regions": [
-            "🇨🇳 中国"
-          ]
-        },
-        {
           "title": "日本便携式 Hdmi 电缆 - 市场分析、预测、规模、趋势和见解",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWoyS01RWUlVdWN2TVdReTlfX2dYZDh5RFlVVlQ2OFJINzJIbzhubDBiV0pKdHM2b3pNU1dxY09FOGI2NEVpNXF5X0F4b2Z3YnFyd3p0UEZ5ZXdHeDZGLXdhOWU1WUsybldzVkUtNUZuMXRZcERhWXB2bnltRTJPRHduRDNqZWlyNzJkallrbGtVN0VyOGhCQUxVcGNKd0w0Y1Bsa2NPa012dzJSR3owOS12NA?oc=5",
           "date": "05/18 14:22",
@@ -403,12 +392,23 @@
           ]
         },
         {
-          "title": "意大利便携式 Hdmi 电缆 - 市场分析、预测、规模、趋势和见解",
+          "title": "沙特阿拉伯便携式 Hdmi 电缆 - 市场分析、预测、规模、趋势和见解",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnlIMG1OZ3oyZldGQ3R6VEhTYmtvd3NnSW4wY2ZWc3JhTnN6US1naUNKcS1KV3VZS2dfLWl6TWh2aFV1N1pLOEYwNl91Tm15ckxmUkxQZ0JtdkNseHQ0TlBwNnVNZFBINjBENkVnQWJ2NnFhbk1pNk1VcHFmY2xZSW1QLVhuckdmVXp5QnJGQ3l5MDVMaFU3V3R1dlhFcUV1b1VWLUxiMUNrQVNoSzNuVWRjYmlPSGRnejBBdg?oc=5",
+          "date": "05/18 13:59",
+          "source": "IndexBox",
+          "type": "📊 市场动态",
+          "summary": "沙特阿拉伯便携式 Hdmi 电缆 - 市场分析、预测、规模、趋势和见解 IndexBox",
+          "regions": [
+            "🌙 中东"
+          ]
+        },
+        {
+          "title": "意大利便携式 Hdmi 电缆市场 2026 年分析及 2035 年预测",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVlsdnU0QVJsUDR6aXBNcWFDd1hjN3A3UEhKdXQ3UjZGaVpvTE1RQUdieDNXeHVCdUlXTXlTZFN2cXhtaTZYOFYxNjFUUFdNMWdSYzk0anJkaHBZeFhXZlFsVWFFR082bkFNcGxTY0g2R2JmbUs5Y2szYmNjMHNXOU1FbFNSMkx5emg3ZFVidjdSODZPUjRnX0ZfSTQ4ZUtQQzkxeU5KYUpWOW9RVC1MejE5RQ?oc=5",
           "date": "05/18 13:59",
           "source": "IndexBox",
           "type": "📊 市场动态",
-          "summary": "意大利便携式 Hdmi 电缆 - 市场分析、预测、规模、趋势和见解 IndexBox",
+          "summary": "意大利便携式 Hdmi 电缆市场 2026 年分析及 2035 年预测 IndexBox",
           "regions": [
             "🌍 全球"
           ]
