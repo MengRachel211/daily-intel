@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27 20:43",
+  "updated": "2026-05-28 20:55",
   "brand": "JSAUX",
   "sections": [
     {
@@ -41,20 +41,20 @@
           "title": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWwtalZiOUVuQjNsQmFOT3NHVHA2UGNMMW9QMHdwemxCdFFyNGxFSDVBaFdZaGNNcXVDN0VJTTR5SUJhUXZHb0NoOTBoci1rM3d6bGc4eGhiYU1ETmh5cUF1UUlOa1NqdHUtSlJVOVhHVFRkTm1uY2lNcGRHRUx5S0d1akdTanFJVEVJY1JrUU5neGU1LU02bmlmbUpQNjNHXzVTbnNMeURIWkJx?oc=5",
           "date": "12/30 16:00",
-          "source": "Nintendo",
+          "source": "nintendo.com",
           "type": "🎮 游戏动态",
-          "summary": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch Nintendo",
+          "summary": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch nintendo.com",
           "regions": [
             "🌍 全球"
           ]
         },
         {
-          "title": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXBPMExYM3VkQUx2R2RHWnZ5cVI5eGRMRWdrR0Z3RlUtRWROcXFRYWlOTlFwRFQ2OGVwWFVNdm9kQ2VUSGdyRlVqeTEtRVduUVNDenNMcEF4dGNPZHFnMU12dUNPMWxrakc3LVJYSmtXbDNxQXVzUXlLYktDVVNxNTU3R2l2a0pJYlJXMUhzSTM?oc=5",
-          "date": "05/12 15:00",
-          "source": "GamesRadar+",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意 GamesRadar+",
+          "title": "过去 10 个月我一直在测试 Nintendo Switch 2，如果值得升级的话，这是我的诚实反馈",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS2RNYWdtX0VPV3d3cDJzN0JHQ1lkdkNYMWZqdVBnTDRZTmpQMUM2eExQSEF4dkJ0OGhJajFiUUlBclBQVy05cnIwcThtaVNDQnJaTjVqeFloUjJLYk4yVVJwX3ZyWExVZGNDeVM5QzNtdklSTWJ0X05qTko1Mk9ibA?oc=5",
+          "date": "03/30 15:00",
+          "source": "NBC News",
+          "type": "📋 评测推荐",
+          "summary": "过去 10 个月我一直在测试 Nintendo Switch 2，如果值得升级，以下是我的诚实反馈 NBC 新闻",
           "regions": [
             "🌍 全球"
           ]
@@ -75,6 +75,17 @@
       ],
       "items": [
         {
+          "title": "Valve 的蒸汽机价格泄露使得甲板上涨看起来很温和",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RYlA0M2l2MElqMjEtYXJxVmFwN3oyU2FjRm1ZYnZhb08xZGhxaU9rTW1YOFQtUFh5N05ySlNrWEhXel8yVTQwV0N1UVZRcnpfUEFHLWozRjBJTUxPcDlKSlEzT293cEltTzBJenQ4SnRWRGZkQVNlSFYyOGo?oc=5",
+          "date": "05/28 07:27",
+          "source": "NeonLightsMedia",
+          "type": "📰 行业资讯",
+          "summary": "Valve 的蒸汽机价格泄露使得甲板上涨看起来很温和 NeonLightsMedia",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "蒸汽控制器会很棒——但前提是 Valve 的蒸汽机到来",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Q1hVRDNEUV9Wejh4a1VybnhTX01SRm1odk5VUHo5VVJVaUhQM2ZsY1ZzS0l3Wm9NZ1JBZ2U3NFBqNDRHQmZZaUo1LTNXMTQ5cWhqUWg0dFhQMy1qXzFKejE2M1dzMlY3?oc=5",
           "date": "05/22 18:30",
@@ -86,12 +97,12 @@
           ]
         },
         {
-          "title": "Valve 的最新出货记录暗示内置硬件即将推出",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BY2J3c0hId3JtS2Jrc3g1RVE1NmVSc0RVZU9ZZ0J2TU5ldkFQbkpYRUZ3eUNCMXdFNEtKWE9yQzBRTlNIN3JxQ1Nld3E5VkplQlhRMVF1bDNGdlE4c3NtX1pzMzYwLWNxTGd2dDUwbXBEdw?oc=5",
-          "date": "05/27 16:45",
-          "source": "Geeky Gadgets",
+          "title": "蒸汽机 Vulkan 认证标志着阀门控制台进入最终预启动阶段",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbV9sV0k2TV8tVGlTdkV0bTN5SDJsbFNrZndkYmQ3SnNDa0pyTUUwOTJkR0o1M05vczZ3V18yVkh2YzM0aWcyQ3NGMzZNSlhsUmc0VmNnR1pZdUV4R2NYTkxBUXhTcW11b1FfODgyZlhlTjBKQnk2VWZEX1FTdE52bFk5c3l6T2llZ1JYZVZBMlJ6MVRPTlJQVEZjQ2VtZDNjMlZwZGxlbllpYTZiYTFmMHJKYm9qbHNOdzc1ZmJXS2piSmlON1I2c0h4b19yd1U?oc=5",
+          "date": "05/28 02:46",
+          "source": "Tech Times",
           "type": "🚀 新品发布",
-          "summary": "Valve 的最新出货记录暗示内置硬件将推出极客小玩意",
+          "summary": "蒸汽机 Vulkan 认证标志着阀门控制台进入最后的预发布阶段 Tech Times",
           "regions": [
             "🌍 全球"
           ]
@@ -103,17 +114,6 @@
           "source": "Mobalytics",
           "type": "📋 评测推荐",
           "summary": "阀门蒸汽控制器 - 硬件预览 Mobalytics",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Steam 机器/框架：发现更多硬件发货——以及它们可能意味着什么",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdFFhd0dudEw3cmVhYjVJTHYxSThHRmlYQTNXdDJhVFg4TktlRllGNjVSOFRHY1hMa0xRb0taOVZyX0ptS1dNak9xNmxuMGdkQWNtUmdfN1dPMmNZR1RXbHF4QWZqRUp4aXZkQXFuQUtmWll1SUNLcHI4Z0FmNWQwR2k4cEVtaDhIY1U1VVRoR3BVUXVlREh4SmNCOF91QS1xQWJrZ0IySXlJNzlTSzNZT19hWnBzTTdlQ1QyUTNJNHkzdw?oc=5",
-          "date": "05/22 20:11",
-          "source": "Notebookcheck",
-          "type": "📊 市场动态",
-          "summary": "Steam 机器/框架：发现更多硬件发货 – 以及它们可能意味着什么 Notebookcheck",
           "regions": [
             "🌍 全球"
           ]
@@ -193,23 +193,23 @@
       ],
       "items": [
         {
-          "title": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JRU5lQi03amlXcmhvYUpPVFJueElXZXQ1X293WHp2VllxRHZJQlNla3hLc0R3TXgwR3lvTy03dFNkSm02cjNzU21Qd2dmMjZlV1Ffc1BTbVJ0cE9qb01OTWRTZ2ZDeU9ZMVhHM0N5Qm9XaWlSRjJENTNQeDN0dw?oc=5",
-          "date": "05/26 20:47",
-          "source": "bgr.com",
-          "type": "📊 市场动态",
-          "summary": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见 bgr.com",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "所有阵亡将士纪念日最佳优惠：Pixel 10 最高折扣 300 美元、Galaxy 装备最高折扣 375 美元、电动自​​行车、Switch 2、Anker 等",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkhxYUFCTmg3SVkxZGcxREtXNDg3RlBQelc5SHpkZEgyalhkeDZfQ1pMeGRjS3FiUVFBZkVsajdFMHFSMDdLeHBlNWxaS1hOVEJ2YVE4YUZlcldtTDQ0VzUwWGQtc3FMWHBtMVJjWjZBcmpmY2tNRGk2bERPNV9raw?oc=5",
           "date": "05/25 22:00",
           "source": "9to5Google",
           "type": "📢 促销活动",
           "summary": "所有阵亡将士纪念日最佳优惠：Pixel 10 最高折扣 300 美元、Galaxy 装备最高折扣 375 美元、电动自​​行车、Switch 2、Anker 等 9to5Google",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JRU5lQi03amlXcmhvYUpPVFJueElXZXQ1X293WHp2VllxRHZJQlNla3hLc0R3TXgwR3lvTy03dFNkSm02cjNzU21Qd2dmMjZlV1Ffc1BTbVJ0cE9qb01OTWRTZ2ZDeU9ZMVhHM0N5Qm9XaWlSRjJENTNQeDN0dw?oc=5",
+          "date": "05/26 20:47",
+          "source": "bgr.com",
+          "type": "📊 市场动态",
+          "summary": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见 bgr.com",
           "regions": [
             "🌍 全球"
           ]
@@ -252,6 +252,17 @@
       ],
       "items": [
         {
+          "title": "我用 2026 年最好的 VR 配件升级了我的 Meta Quest",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZnhhUXg1eHRTandaNkJYZ2ozSFlHNmo5bF9hb1lHcmxhYXYxVmwwX1pGNjN6UjFjSkxON2c0ZUtFUTNQNW45dVJlNXIwdFFWLXVwLVlMVUhKYmFOS24xR1E3YlBoamR1OVoySFBXTGNBanlQT3R0dE9nUEl4RnM?oc=5",
+          "date": "04/29 15:00",
+          "source": "Tom's Guide",
+          "type": "📋 评测推荐",
+          "summary": "我用 2026 年汤姆指南中最好的 VR 配件升级了我的 Meta Quest",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRGpZVUxyZThQOVBXMGJaMnNhWEMyQ0o0SmJRTmhRVkJtNGxUYjcxTHZDQnZkRWlqa1pCM0FxdkpCd0otZUhpY3BHdkZJYlpKUjEwWG9qX200alNfeGE0aEVvTW1xQQ?oc=5",
           "date": "05/06 15:00",
@@ -268,7 +279,7 @@
           "date": "05/05 15:00",
           "source": "WIRED",
           "type": "📢 促销活动",
-          "summary": "2026 年 5 月《连线》顶级 Meta Quest 促销代码和优惠券",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "regions": [
             "🌍 全球"
           ]
@@ -280,17 +291,6 @@
           "source": "Android Central",
           "type": "📋 评测推荐",
           "summary": "2026 年最值得购买的 Meta Quest 3 和 3S 配件 Android Central",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "2026 年最佳 VR 配件",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xRDVYNE5JWmE1cDFqSFYyNERfTmFhLXlBUUo2V1ZJQzVFY2lMWENWWTJLOUtmREJIMy1UNXBUdFNUWmJ5SG9ZekRZNXNWRE9uNV9GQmZnUzQyYzVvVHluSlhvMWU5cDd3TlVjYW9qZURHYWc?oc=5",
-          "date": "02/10 16:00",
-          "source": "Engadget",
-          "type": "📋 评测推荐",
-          "summary": "2026 年最佳 VR 配件",
           "regions": [
             "🌍 全球"
           ]
@@ -344,12 +344,12 @@
           ]
         },
         {
-          "title": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlSYVdTRllZdnhUYVA5NTRKRlZPT0JOWVQtQjcwTTVXMmpwTDhYazNqSDFub0xxa3dMZThBY1FHb3Q4eWJjU3NGbjFueGlvS3ltN1Z5NWVBWUxDcFBLb2ZMbGR2SkRSVmhqUTkycUg0UWdKbXFOWG9WbWJoQW1saDZwWlZpVWJHd2pKV2dUMmxwZnhVSWRrT3hGM2tUVjh5STdpU29BUDY0R0VmVkp5TENxMA?oc=5",
-          "date": "02/07 16:00",
-          "source": "VICE",
+          "title": "2026 年最佳掌上游戏机：专家测试和评审",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbTBCaUIyU21kTmd5WEtXdlhVNmIwblZXdWVyRF83QURMY2E5TkdDcnpFNW8tUnRXcE1kSkR2YndBakZjUHBnX0JSVlZLcXZGbUVBS1lJbEdXOF82MjNuMV9pTGFtSlJTTS15dHd1YWZmUzJyRFgtY3pMWXYweHpKOGNEa29Vd1hLRTljSg?oc=5",
+          "date": "03/13 15:00",
+          "source": "ZDNET",
           "type": "🎮 游戏动态",
-          "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）VICE",
+          "summary": "2026 年最佳掌上游戏机：专家测试和评审 ZDNET",
           "regions": [
             "🌍 全球"
           ]
@@ -369,17 +369,6 @@
         "无线充市场差评集中于充电慢/过热，改善这两点可显著提升评分和复购"
       ],
       "items": [
-        {
-          "title": "2035 年 USB C 转 Hdmi 适配器市场增长展望：通用端口转移和电子商务动态推动需求 - 新闻和统计",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVnpvZW51T2Voa1h5cFdhcTl1YVhnQXFxZ05vcHJrTWhvVEdVZTlCcldUVlFEUTFaYzVBVlhWZTQtYkU2QlByMEctWlVrVUtrU1NrOUpNN3JWTFAyWUlSVnZZYU5DOEF6Rm1pMXMtNGwtaHQycnlJX180U05xQkdIbmdiQTNQanoyaVJabWJPNGZIY1lnTFU2WDF1OVlYUGhjNXdGVVhGbW5nWW1HcXZ4YWhvWmxEMF9zc3lOeEQ0TENId0tGV1BMUVdlcTZ5VFBYdEVXbFdfTkVCSEdlR1BrdHBGTndVc3M?oc=5",
-          "date": "05/27 00:46",
-          "source": "IndexBox",
-          "type": "📊 市场动态",
-          "summary": "USB C 转 Hdmi 适配器市场增长展望至 2035 年：通用端口转移和电子商务动态推动需求 - 新闻和统计 IndexBox",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
         {
           "title": "Hdmi 电缆设定 2035 年市场增长前景：8K 采用和控制台周期推动需求 - 新闻和统计",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG1DamFTcEJnanN0MFhRb0hVYnhVOWg1U0tkOVZzZmxCWXFtVm85QlZCZC1Kd2p0YS00d1JTRW16Uzd6WlFFbTMzcklUNVBFTDllUWtkUzY2UWUxZ0RyRDdoMWtXWk92MXhPSXRRSlZfeUZHWGFfRjJhVGs3dWg2cjM5REs3UTliRms5SERtZmtIMjVKa0RHY0dYMlFCNDBNNzF4bmJsTFNwM2hzWVVkU2F1d2RmNFdjMW9DWEJNbmNVSi14MnpVS1cwUkJ4a05Ta0U2VENGRXlPbU9fazNyMA?oc=5",
@@ -411,6 +400,17 @@
           "summary": "美国对USB Type C的需求|全球市场分析报告 - 2035 年未来市场洞察",
           "regions": [
             "🇺🇸 美国",
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "如果您认真对待工作设置，您需要一个笔记本电脑扩展坞",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwcjFnQnZoRmM0YWZFWVNfWUVmWkRXOWdhTXBFcXdfdXZSLVVxMjNlcGdqNzlWNnpwRlR1LTdGZ19Ncm5jdmVsLURKM0EtTEZpWS1JOWNzMjJuM2dvOHZDU0V5WThMc2dsYktz?oc=5",
+          "date": "03/06 16:00",
+          "source": "WIRED",
+          "type": "📰 行业资讯",
+          "summary": "如果您认真对待工作设置，您需要一个有线笔记本电脑扩展坞",
+          "regions": [
             "🌍 全球"
           ]
         }
