@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31 18:03",
+  "updated": "2026-06-02 03:34",
   "brand": "Aecooly",
   "sections": [
     {
@@ -15,6 +15,17 @@
         "北美、东南亚、中东为三大核心增量市场，优先保障Amazon US/JP及Shopee库存"
       ],
       "items": [
+        {
+          "title": "《Vogue》商业版 TikTok 趋势追踪",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nc2ktNnQxVzlMTjl1MjR5MFYwSkMtVjI1Z0VhZlBLU0JqVlBjdHUyejJCVDV3OE9xYmF3ckhxR2VXLTk1Y3ZScXZfN0VPSU1ManFXYmFUWWxKTDN6cjFXTzk2OGxSVWxDOHIyeXZmRG9jUktfd2FIMg?oc=5",
+          "date": "05/28 12:30",
+          "source": "Vogue",
+          "type": "📊 市场动态",
+          "summary": "《Vogue》商业版 TikTok 趋势追踪器 Vogue",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
         {
           "title": "抵御热浪：6 种最佳塔式风扇，让您保持凉爽并节省能源",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGdtYXFhaHcwY1ZDTHZsUUpmcGZFZ2xaNklkM3Zhd3NNMTh0WllYSGoyLUVKNzg2a2ZIZ21pU3JJQmlDVmJfWlZ5UFdvckIybmtOc2dPVGUzYzE4UUNMOXNZeHFQbFdZY2d0cmd2TzR6eThrdjVuOEt0Vk1Pd253b21R?oc=5",
@@ -44,17 +55,6 @@
           "source": "PR Newswire",
           "type": "📊 市场动态",
           "summary": "德勤：从订阅者到超级粉丝：粉丝参与塑造媒体和娱乐增长的下一阶段 美通社",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "戴森的首款个人风扇几天内就售空了——以下 3 款替代品将在科切拉音乐节第二周末及时上市",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlZNbnFKQms0ZFE0MmJ5bFN1R2J4MUhvVlNZeVZWY3BXYVJhVWRwQmE0Z0djYW8yR2tmRTVrS19MamFYTG15SFVSWlU1dW5ON2dvUm41a2pIZTVpV3FQYjdrRFVtVWEtS0NPNms3cDBEV0pZaG92elBOUTltUUJNcHZEOGM0ekVkaGVFckdPM0x4eldaVDNVVnZudWxYLU1OSktrV3p3Q24?oc=5",
-          "date": "04/14 15:00",
-          "source": "WWD",
-          "type": "📰 行业资讯",
-          "summary": "戴森的首款个人风扇几天内就售空了——以下 3 款替代品将在科切拉周末第二届 WWD 及时上市",
           "regions": [
             "🌍 全球"
           ]
@@ -148,17 +148,6 @@
       ],
       "items": [
         {
-          "title": "当夏季热浪袭来时，这个小玩意儿就是“救星”",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEk0bWZxR1F5WHF6dUpYOUVDZTlyeC1jUFdnTlVJTl83Z01Mdl8zNFBVdnhaZEJyUlhlbU1fcGZJclNXQlA3WXJ4TUFUdHhLdGJLNVFKLVFHSGswWXVkMEdROTg2UFExcGY5WXA5djl3ZVpvWUE2Tkhma2NpTnZLSDVjQm5fSGRvQm9ELXlYQS00RXFfSmFqQXZxbjBva0tJTTdR?oc=5",
-          "date": "05/27 05:40",
-          "source": "New York Post",
-          "type": "📰 行业资讯",
-          "summary": "当夏季热浪袭击《纽约邮报》时，这个小玩意是“救星”",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "抵御热浪：6 种最佳塔式风扇，让您保持凉爽并节省能源",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGdtYXFhaHcwY1ZDTHZsUUpmcGZFZ2xaNklkM3Zhd3NNMTh0WllYSGoyLUVKNzg2a2ZIZ21pU3JJQmlDVmJfWlZ5UFdvckIybmtOc2dPVGUzYzE4UUNMOXNZeHFQbFdZY2d0cmd2TzR6eThrdjVuOEt0Vk1Pd253b21R?oc=5",
           "date": "05/19 15:00",
@@ -170,12 +159,12 @@
           ]
         },
         {
-          "title": "制冷商品化：抵御 33 度热浪",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1Z6eG5QbklBYnZKT3htaU5nYmJ6SlkwalI2M2FYcWhNbHBzZmM0MU9NU182blFEVGVCbjE4NW9taDdYRlp5cDUtRFJJc1gtQkYxb1VpZ1lySm1HT0xnTmZmOERacnJEUXVZSFByVEYtcGF6SDF2ZWYzZWdEOGNGX25WS1FLOU5tR2syN01IUTlDQnlXWkdBZVhMZlZoQWNQbjV3bHhoQQ?oc=5",
-          "date": "05/25 14:45",
-          "source": "streamlinefeed.co.ke",
+          "title": "当夏季热浪袭来时，这个小玩意儿就是“救星”",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEk0bWZxR1F5WHF6dUpYOUVDZTlyeC1jUFdnTlVJTl83Z01Mdl8zNFBVdnhaZEJyUlhlbU1fcGZJclNXQlA3WXJ4TUFUdHhLdGJLNVFKLVFHSGswWXVkMEdROTg2UFExcGY5WXA5djl3ZVpvWUE2Tkhma2NpTnZLSDVjQm5fSGRvQm9ELXlYQS00RXFfSmFqQXZxbjBva0tJTTdR?oc=5",
+          "date": "05/27 05:40",
+          "source": "New York Post",
           "type": "📰 行业资讯",
-          "summary": "制冷商品化：抵御 33 度热浪 streamlinefeed.co.ke",
+          "summary": "当夏季热浪袭击《纽约邮报》时，这个小玩意是“救星”",
           "regions": [
             "🌍 全球"
           ]
@@ -189,6 +178,17 @@
           "summary": "经过消费者报告评估和审查的 4 个最佳颈部风扇",
           "regions": [
             "🌍 全球"
+          ]
+        },
+        {
+          "title": "英国空调房屋数量三年内翻倍至超过 400 万套",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlVYdEZuS0F6cnJjSF80TkFZb3IyU1dQaTVveFNiTkNLQ1Qza0pwUmVKTEt4NjZEVHNNSTBHbDFaUEhUYUJkYXJlbUMyR1VGTVZBOUl3eEdmQUlfUVFDcUZEWXZVNDNmd1BLd0FnOU45UFhFdWt0Tm90V0pBdzJOanZidjcxTTZsR0hGVkpn?oc=5",
+          "date": "05/22 15:00",
+          "source": "The Guardian",
+          "type": "📰 行业资讯",
+          "summary": "英国空调房屋数量三年内翻倍至超过 400 万套 英国卫报",
+          "regions": [
+            "🇬🇧 英国"
           ]
         }
       ]
