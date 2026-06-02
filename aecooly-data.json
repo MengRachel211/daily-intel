@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02 03:34",
+  "updated": "2026-06-03 01:54",
   "brand": "Aecooly",
   "sections": [
     {
@@ -16,12 +16,23 @@
       ],
       "items": [
         {
-          "title": "《Vogue》商业版 TikTok 趋势追踪",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nc2ktNnQxVzlMTjl1MjR5MFYwSkMtVjI1Z0VhZlBLU0JqVlBjdHUyejJCVDV3OE9xYmF3ckhxR2VXLTk1Y3ZScXZfN0VPSU1ManFXYmFUWWxKTDN6cjFXTzk2OGxSVWxDOHIyeXZmRG9jUktfd2FIMg?oc=5",
-          "date": "05/28 12:30",
-          "source": "Vogue",
+          "title": "北美吊扇市场规模及增长报告，2034 年",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGpnYXJydGlRLXdzZEdZSU96WnVDeEQ0QktFYUNsVEJ6NEh1YkRMQS1TY1JtMGxqRmFubFF2dnNobXBydGtzY1IxeDM3OF91dE55eDdkeHhldjdobmUyZEJ2YzhPYlRUQzJTME03M2FjOGdvMTBRZURhVUdqbTlKZDNpYjlPd0pEZHc?oc=5",
+          "date": "02/26 16:00",
+          "source": "Market Data Forecast",
           "type": "📊 市场动态",
-          "summary": "《Vogue》商业版 TikTok 趋势追踪器 Vogue",
+          "summary": "北美吊扇市场规模及增长报告，2034 年市场数据预测",
+          "regions": [
+            "🇺🇸 美国"
+          ]
+        },
+        {
+          "title": "2026 年数字媒体趋势：在上映和播出季之间吸引始终在线的粉丝",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbW54LU1fLTR6VUJkTnlpUDh1WXBoY2FmMWtOT2VmSGo0aXF2bUlNYncwUkg3VTNqZ2hZZzZIeXZ3MTdIOUV1X2VQQWE4b0RwVWJCR1R5RHJUUEM5dGxlNVFITnRBTFBQTHF3eEFHYWhyWHFLdUNxNU9YUGFkeUUyMDhGY3JsS0RJX0VxdXBpWk1kVERPc1M5M0JTVEtadUdxVXBpeS0zM3ljX1oyem9TRw?oc=5",
+          "date": "03/25 15:00",
+          "source": "Deloitte",
+          "type": "🚀 新品发布",
+          "summary": "2026 年数字媒体趋势：在发布和季节之间吸引始终在线的粉丝 Deloitte",
           "regions": [
             "🌍 全球"
           ]
@@ -38,23 +49,12 @@
           ]
         },
         {
-          "title": "北美吊扇市场规模及增长报告，2034 年",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGpnYXJydGlRLXdzZEdZSU96WnVDeEQ0QktFYUNsVEJ6NEh1YkRMQS1TY1JtMGxqRmFubFF2dnNobXBydGtzY1IxeDM3OF91dE55eDdkeHhldjdobmUyZEJ2YzhPYlRUQzJTME03M2FjOGdvMTBRZURhVUdqbTlKZDNpYjlPd0pEZHc?oc=5",
-          "date": "02/26 16:00",
-          "source": "Market Data Forecast",
-          "type": "📊 市场动态",
-          "summary": "北美吊扇市场规模及增长报告，2034 年市场数据预测",
-          "regions": [
-            "🇺🇸 美国"
-          ]
-        },
-        {
-          "title": "德勤：从订阅者到超级粉丝：粉丝参与塑造媒体和娱乐增长的下一阶段",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWGpGTC0yLW10azVQMnBIV25qc3lvWF90ajk0d0NueGRpNDZ2X2RpamdEZm1ycjNGcWJhclVpYnhkUVpiU1ZSVF9aOGl4MXdpVVFyOU1WTDQxRVdhdmVDeENqT0MtWEJMblNfR01hYnJ4Yi13RHNPZmhOclQ5dzlvY193VG9VVGVWZUl4LTFZRlhBMk8xZVdUZGpVZHNtUGtyZ0ZlZE04ay1HTzNxbjZINVdyLUQ4ekh1ZVkxc25EVGN4bDN2Z25ScnQ2MEluRjNwODBfOVhBQUtOVFFQcFlET2M5RFBDeEVOVVkxYWhmSTV6RDRrWlE5Zg?oc=5",
-          "date": "03/25 15:00",
-          "source": "PR Newswire",
-          "type": "📊 市场动态",
-          "summary": "德勤：从订阅者到超级粉丝：粉丝参与塑造媒体和娱乐增长的下一阶段 美通社",
+          "title": "戴森的首款个人风扇几天内就售空了——以下 3 款替代品将在科切拉音乐节第二周末及时上市",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlZNbnFKQms0ZFE0MmJ5bFN1R2J4MUhvVlNZeVZWY3BXYVJhVWRwQmE0Z0djYW8yR2tmRTVrS19MamFYTG15SFVSWlU1dW5ON2dvUm41a2pIZTVpV3FQYjdrRFVtVWEtS0NPNms3cDBEV0pZaG92elBOUTltUUJNcHZEOGM0ekVkaGVFckdPM0x4eldaVDNVVnZudWxYLU1OSktrV3p3Q24?oc=5",
+          "date": "04/14 15:00",
+          "source": "WWD",
+          "type": "📰 行业资讯",
+          "summary": "戴森的首款个人风扇几天内就售空了——以下 3 款替代品将在科切拉周末第二届 WWD 及时上市",
           "regions": [
             "🌍 全球"
           ]
@@ -97,23 +97,23 @@
           ]
         },
         {
+          "title": "亚马逊阵亡将士纪念日促销活动包含数千项优惠——其中 100 项最佳优惠起价 5 美元，最高可享受 93% 的折扣",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRG1YMTRRdEZNQ0p1bW5sUy1qWlJGMXY0dUhxV29CUE1VTlFETUtCR3RXVGF6azFHQWo1Sy1xdElFeFAwUFBTUm1WWTBJN1dmMDA0dHZZS2ZnQmpMcEFvTXRWM2VpOFE3RTN2dVM1SHI?oc=5",
+          "date": "05/22 15:00",
+          "source": "People.com",
+          "type": "📢 促销活动",
+          "summary": "亚马逊阵亡将士纪念日促销活动包含数千项优惠——其中 100 项最佳优惠起价 5 美元，最高可享受 93% 的折扣 People.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "4 个最佳颈部风扇，经过评估和审查",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50NThHU2FtZ19pclIwWVJqc2otV1ltRnZHS2p4ZVBvN3dLN0FjYk12ekZPZmZ2Z3A1WE9tc3ZwYVBJbG4tVzhwaWRtYWpJc3J4VjJCMHFCNkZHOHQ3eUpXWUU0TWdzOHdhYXlBT2ZDUWtlLXgxc0RpaWQwYw?oc=5",
           "date": "04/16 15:00",
           "source": "Consumer Reports",
           "type": "📊 市场动态",
           "summary": "经过消费者报告评估和审查的 4 个最佳颈部风扇",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "4 款让您保持凉爽的最佳手持风扇，经过专家测试",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEY4SGYxNUpSYnNiOFVpUk9wVVJCVkRXWWUxWndGd1JLVUVfLVVBdkp6cGZwX3ZMRTZJNE5DS1NMaEM1Nm9PSFhGaDJrb3BRWEZoU0Rrak9EOUFtdEVJZDBSRV9sR2ZKcmlVY3BqWEJ4VlZsRTQwUWVtQ3BqVm5LcEFXYjdvd0xtSmVwb3hDdTgwWC1TZ3ZpdnFR?oc=5",
-          "date": "04/24 15:00",
-          "source": "Good Housekeeping",
-          "type": "📋 评测推荐",
-          "summary": "4 款让您保持凉爽的最佳手持风扇，经过专家测试 Good Housekeeping",
           "regions": [
             "🌍 全球"
           ]
@@ -146,52 +146,7 @@
         "户外运动场景（徒步/露营/骑行）带动大容量电池风扇需求，建议开发户外专属款",
         "宠物风扇、宝宝车风扇成新蓝海品类，竞争较弱但搜索量快速上升"
       ],
-      "items": [
-        {
-          "title": "抵御热浪：6 种最佳塔式风扇，让您保持凉爽并节省能源",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGdtYXFhaHcwY1ZDTHZsUUpmcGZFZ2xaNklkM3Zhd3NNMTh0WllYSGoyLUVKNzg2a2ZIZ21pU3JJQmlDVmJfWlZ5UFdvckIybmtOc2dPVGUzYzE4UUNMOXNZeHFQbFdZY2d0cmd2TzR6eThrdjVuOEt0Vk1Pd253b21R?oc=5",
-          "date": "05/19 15:00",
-          "source": "Forbes",
-          "type": "📋 评测推荐",
-          "summary": "抵御热浪：6 款最佳塔式风扇，让您保持凉爽并节省能源《福布斯》",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "当夏季热浪袭来时，这个小玩意儿就是“救星”",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEk0bWZxR1F5WHF6dUpYOUVDZTlyeC1jUFdnTlVJTl83Z01Mdl8zNFBVdnhaZEJyUlhlbU1fcGZJclNXQlA3WXJ4TUFUdHhLdGJLNVFKLVFHSGswWXVkMEdROTg2UFExcGY5WXA5djl3ZVpvWUE2Tkhma2NpTnZLSDVjQm5fSGRvQm9ELXlYQS00RXFfSmFqQXZxbjBva0tJTTdR?oc=5",
-          "date": "05/27 05:40",
-          "source": "New York Post",
-          "type": "📰 行业资讯",
-          "summary": "当夏季热浪袭击《纽约邮报》时，这个小玩意是“救星”",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "4 个最佳颈部风扇，经过评估和审查",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50NThHU2FtZ19pclIwWVJqc2otV1ltRnZHS2p4ZVBvN3dLN0FjYk12ekZPZmZ2Z3A1WE9tc3ZwYVBJbG4tVzhwaWRtYWpJc3J4VjJCMHFCNkZHOHQ3eUpXWUU0TWdzOHdhYXlBT2ZDUWtlLXgxc0RpaWQwYw?oc=5",
-          "date": "04/16 15:00",
-          "source": "Consumer Reports",
-          "type": "📊 市场动态",
-          "summary": "经过消费者报告评估和审查的 4 个最佳颈部风扇",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "英国空调房屋数量三年内翻倍至超过 400 万套",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlVYdEZuS0F6cnJjSF80TkFZb3IyU1dQaTVveFNiTkNLQ1Qza0pwUmVKTEt4NjZEVHNNSTBHbDFaUEhUYUJkYXJlbUMyR1VGTVZBOUl3eEdmQUlfUVFDcUZEWXZVNDNmd1BLd0FnOU45UFhFdWt0Tm90V0pBdzJOanZidjcxTTZsR0hGVkpn?oc=5",
-          "date": "05/22 15:00",
-          "source": "The Guardian",
-          "type": "📰 行业资讯",
-          "summary": "英国空调房屋数量三年内翻倍至超过 400 万套 英国卫报",
-          "regions": [
-            "🇬🇧 英国"
-          ]
-        }
-      ]
+      "items": []
     }
   ]
 }
