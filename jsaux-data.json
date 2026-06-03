@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03 01:52",
+  "updated": "2026-06-04 02:11",
   "brand": "JSAUX",
   "sections": [
     {
@@ -28,11 +28,11 @@
         },
         {
           "title": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjlWemVNbTZNZV9XSnppMEtzNTZuc19wdnl5VW1kT1NxUWZPRFpoUVVuNzRzOGFxbzVScEF1Qm90a2JGM193OWZsTHp5Q0lLR3YxLVlzem5nRzI3WXVMenNvTUxEcFozNmJNakpaazhFYklOaWFuRm9VM1RVY25NYXpSSGVJbEdqN2xQRlRHZU5SbnRIR2g2UFRlV1o0UmNWZHktc1dsbjh1XzZuclY4VlBxaXNEYmNzcXNMek1OLXluUQ?oc=5",
-          "date": "12/16 16:00",
-          "source": "nintendo.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWwtalZiOUVuQjNsQmFOT3NHVHA2UGNMMW9QMHdwemxCdFFyNGxFSDVBaFdZaGNNcXVDN0VJTTR5SUJhUXZHb0NoOTBoci1rM3d6bGc4eGhiYU1ETmh5cUF1UUlOa1NqdHUtSlJVOVhHVFRkTm1uY2lNcGRHRUx5S0d1akdTanFJVEVJY1JrUU5neGU1LU02bmlmbUpQNjNHXzVTbnNMeURIWkJx?oc=5",
+          "date": "12/30 16:00",
+          "source": "Nintendo",
           "type": "🎮 游戏动态",
-          "summary": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch nintendo.com",
+          "summary": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch Nintendo",
           "regions": [
             "🌍 全球"
           ]
@@ -73,7 +73,52 @@
         "JSAUX已宣布Steam Machine配件支持计划，需提前布局扩展坞/HDMI线/USB-C线SKU",
         "Steam Frame VR上市后，VR配件可与Quest系列共线开发，降低研发成本"
       ],
-      "items": []
+      "items": [
+        {
+          "title": "Valve 悄然在 Steam 后端添加了 Steam 机器欢迎之旅，暗示该游戏机最早可能在 7 月推出",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR1E4b2ZKLWlCdHpZbW5wVU1qeDh5VlJfMi1oY294akFXR3lxeE1CeVpjS1BtSkxMWXVpRnF3NmpySno2eXM2S2M3elFfZUZtbm5RN1VFZjZFSDh2YzE3Y09hOVFKTnhYUkhteVhYdTNMSy1WbkJmdmE4Wk5NaHlvOGZHdVhoVGFrU2RzaHNEZHJpSFQ1NFVSZUNjU3JSVVFKUmxKQnk2WllhRWY0ek9UT3NKQTc3eUJZUDFBWXE5czd0MDVsbHB0MWRPdDJaRkJwTG1ZcG1VSk5Da3EyTmprcXNoczEtMVNfVjc5aERPdXVzcUJ3RnNITDFB?oc=5",
+          "date": "06/01 04:50",
+          "source": "TweakTown",
+          "type": "🚀 新品发布",
+          "summary": "Valve 悄然在 Steam 后端添加了 Steam 机器欢迎之旅，暗示该游戏机最早可能在 7 月推出 TweakTown",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Steam Machine：为什么粉丝们现在期待 2026 年 6 月发布",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRHpoeklwT0RCb2k5X0ozUV95ekhDWHIzRWVWcDBQejlZRndpSHpwRVVUQWJZNy1FWFlnZGMxWEZVaVNCWXluX0VjQXAtb3lxaGRBaHRZOGdNZGI4Z2tFd01tLTVRWHFHSnZlR2VlSHA5VEF5dmJDMGZuanpFeUMzajV5eTlKdVRCTS1zMTN0WXpmUGI0YVptVzlHODMwZw?oc=5",
+          "date": "06/01 21:55",
+          "source": "Notebookcheck",
+          "type": "🚀 新品发布",
+          "summary": "Steam Machine：为什么粉丝们现在期待 2026 年 6 月推出 Notebookcheck",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Steam Deck涨价定调后，​​Steam Machine预计很快将以四位数的价格推出",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTlJRG56c1ptNWRxWkltck5uSmR4blZWMTh3bVloeFVCd0RURTgtZkxhNi1OR0l3d05CRk9Nb0wwWENkY0JEOGlHa2ZJc05LMk1RR3FzNGxkeDN0N0k1TkJHTjY5TGRmUDhEdW0wWHYxUHNXTVFqSlBOempHZzNHZGhlSy12NzFnSV9hU0xVcjZYNzd6LWRiX20wdEgwOHFiSUxITkdpenRmbFZWZ2lPbE9oUTR0MTZIQ0VKYjZ0V1RLc2I2cUhFcEl3?oc=5",
+          "date": "06/03 18:15",
+          "source": "PC Guide",
+          "type": "🚀 新品发布",
+          "summary": "在 Steam Deck 涨价定下基调后，Steam Machine 预计很快将以四位数的价格推出",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "我们可能很快就会知道 Steam Machine 的发布日期，因为 Steam 的后端刚刚更新了欢迎导览",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3MWthc0RGa1VybnR4NGV6ay0yanRlOWJiR2xMbklZY0dLaVUzamNJaVdtYnBzd1gxTEFQTWRUWVFCaUZNM2dUSGc3MXdjZlNzWmhadE01NXZLbGViMVFIYklIUnFmUUlBeVJRRzlBUXFmLUtQbnN4RDl3?oc=5",
+          "date": "06/01 23:24",
+          "source": "Eurogamer",
+          "type": "🚀 新品发布",
+          "summary": "我们可能很快就会知道 Steam Machine 的发布日期，因为 Steam 的后端刚刚更新了欢迎之旅 Eurogamer",
+          "regions": [
+            "🌍 全球"
+          ]
+        }
+      ]
     },
     {
       "id": "nex",
@@ -88,6 +133,17 @@
         "夏季联名大游上线是推广窗口，借势做Listing流量"
       ],
       "items": [
+        {
+          "title": "Nex 在游戏开发者大会上推出扩大的春季阵容",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHBUYm5vQlJPX2RQN1EzeFdWU0hPaG1pVlVQUmVwRzJ0SXZmRTNMb3lSUWJtVmhSM0hTMUxNMHNhSS1aUmF4UGlSNDBJNkpYam9VQU5VamJmYzBEM1VWVDROYUF1bHdwOU5jMFlQei1fSnlNVTYyOWZ3U3ROQXNsNzBacHJLN0VxQzhNMjBtQ2lFWEVzTmsxdUJDVnBEb3lmc2hNaVV1OF80UEU?oc=5",
+          "date": "03/10 15:00",
+          "source": "License Global",
+          "type": "🚀 新品发布",
+          "summary": "Nex 在游戏开发者大会上推出扩大的春季产品阵容 License Global",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
         {
           "title": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
@@ -120,17 +176,6 @@
           "regions": [
             "🌍 全球"
           ]
-        },
-        {
-          "title": "根据专家评审员的说法，2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZkdEWFdvd3ZwWElWNzJLbzJLT0M1NzNONExYd3pORXVWXzVLeE4wdmJ3X0hkcXpNUHZDV01lMV9EalkzampJWkdJMkZWQmZNeDdPTUpZbEF4aGpGaE5ucHVPT3I1OUJhVDBfVlhFYVlwNjJ5U1V4UnVKakdYVFh6OG5aVkdCYjg?oc=5",
-          "date": "12/03 16:00",
-          "source": "New York Post",
-          "type": "📢 促销活动",
-          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
-          "regions": [
-            "🌍 全球"
-          ]
         }
       ]
     },
@@ -148,17 +193,6 @@
       ],
       "items": [
         {
-          "title": "这些是目前亚马逊上最好的 Google Pixel 优惠",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1JIVl9wUmhhVmZNX1F2RkgwRU9FMWN1dk8xcEt0aWtLTnJWbmI4XzBxVmY0UUdHX09LVENGU0tCWkNrVklIOTQ1dlNERFdid083MC05NHIwYlpWVnJIZGJ1dk5vNHhXTG5TdUxNTmVpNHV1THhmN04zYmhGSXdlSkx1cVBWTURWWTJkbHk1MVRvYmN1ZVZJ?oc=5",
-          "date": "05/28 22:53",
-          "source": "9to5Google",
-          "type": "📢 促销活动",
-          "summary": "这些是目前亚马逊 9to5Google 上最好的 Google Pixel 优惠",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Best of 9to5Toys – 本周最优惠：AirPods、M5 MacBook Air、Pixel gear、Sonos、PS5 Days of Play 等",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lS3N1Ykdtd0YySUR1SGdwbEoxTHJmTDdHSXl2NExKamxDOXBUUjhsM2VZRnFCZDBuU0R2SnJZYWtjVVBHQk5kNEFoWGthQjNlQm9WYTZrT0FqQnRaTEUxOERMaGkweFE?oc=5",
           "date": "05/30 21:20",
@@ -175,7 +209,7 @@
           "date": "05/26 20:47",
           "source": "bgr.com",
           "type": "📊 市场动态",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见 bgr.com",
           "regions": [
             "🌍 全球"
           ]
@@ -187,6 +221,17 @@
           "source": "Forbes",
           "type": "🚀 新品发布",
           "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "即将推出的 Pixel 10a 有何期待，以及为什么 Pixel 粉丝应该感到兴奋",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS09zamtCUFF1X2ZlUUJYOG85SDFqT1E1aUx2Mk9FZzN2QmFaR2dVZTJSUFpEZWlKVTRFUVdNcVRfcjZDMlZQT25Tci1kLUxBdldwemxvYnBlNkU1ZTJGelpKZW5rcHlWUTNJZnJMcDNDTWZ6SkMzUExlSzF6SDZBX3VzR09UVDBQaWp3TmRaaGhIaHo2VmxLU1c5dFRwc2FSR3ZRRTNNZXY2ekpUODdCeUR0ZDFjNWR3aUpucEh6UjEyYldqb2t5ZlpMWjl1QU45V2cw?oc=5",
+          "date": "02/14 16:00",
+          "source": "Android Central",
+          "type": "🚀 新品发布",
+          "summary": "即将推出的 Pixel 10a 有何期待，以及为什么 Pixel 粉丝应该感到兴奋 Android Central",
           "regions": [
             "🌍 全球"
           ]
@@ -218,34 +263,34 @@
           ]
         },
         {
-          "title": "Ultimate Meta Quest 3 和 3S 入门套件：12 个高科技配件，带来巅峰 VR 体验",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk53V2E2eEtTM3RTWTBYZUhTbGpWLW5haXBMZXUzbUNaU25fMUlIYXVFc3o1UzNZM0doS0RHMXNZekV3aFFqODBmMWc1bklrUFFOdGZZemN6T3RjU3c2UUxCSU5fUEJNRDVMUWtkY0luYmxRT3lNc19rR09sTHFnR1QzX3IybmpURUpPaWg1ZmNudkdRZDk1OUUzVEtLVUht?oc=5",
-          "date": "11/19 16:00",
-          "source": "Android Central",
-          "type": "📰 行业资讯",
-          "summary": "Ultimate Meta Quest 3 和 3S 入门套件：12 个高科技配件，带来巅峰 VR 体验 Android Central",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "2026 年 3 月“VR 游戏展示”回顾：每个 Meta Quest VR 游戏公告",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HXzZ4UC1jaUZRSVhSdzVydWhBeHV2dThCNGdTOGZGMF91eGNxQXhHZmYzSG1ESXRlRTVGblM2T1RkZmY1VGJrRkc5UUlaUmFqUlp4XzhIdFpwRUJUc2Z1a1lDcmhCUQ?oc=5",
-          "date": "03/24 15:00",
+          "title": "Meta Quest 的玩法：2026 年 4 月回顾",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92RUo0YW42d01iN2s1RGU4dU8yZkpiamVtbFE0MmNQN1BJN05lWkpDR0F6WXNnQ01abzZSOGVLbU43UC1qaG00Z3g3UGVGajZ1eHJWWDhQWEFpV2xvcTdPZjVCbHBpTTZ3cmk2cjJXU204dDlydDR0MXpn?oc=5",
+          "date": "04/30 15:00",
           "source": "meta.com",
-          "type": "🚀 新品发布",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "type": "📰 行业资讯",
+          "summary": "Meta Quest 的玩法：2026 年 4 月回顾 meta.com",
           "regions": [
             "🌍 全球"
           ]
         },
         {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "title": "我用 2026 年最好的 VR 配件升级了我的 Meta Quest",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZnhhUXg1eHRTandaNkJYZ2ozSFlHNmo5bF9hb1lHcmxhYXYxVmwwX1pGNjN6UjFjSkxON2c0ZUtFUTNQNW45dVJlNXIwdFFWLXVwLVlMVUhKYmFOS24xR1E3YlBoamR1OVoySFBXTGNBanlQT3R0dE9nUEl4RnM?oc=5",
           "date": "04/29 15:00",
           "source": "Tom's Guide",
           "type": "📋 评测推荐",
           "summary": "我用 2026 年汤姆指南中最好的 VR 配件升级了我的 Meta Quest",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRGpZVUxyZThQOVBXMGJaMnNhWEMyQ0o0SmJRTmhRVkJtNGxUYjcxTHZDQnZkRWlqa1pCM0FxdkpCd0otZUhpY3BHdkZJYlpKUjEwWG9qX200alNfeGE0aEVvTW1xQQ?oc=5",
+          "date": "05/06 15:00",
+          "source": "GamesRadar+",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备 GamesRadar+",
           "regions": [
             "🌍 全球"
           ]
@@ -268,10 +313,21 @@
         {
           "title": "华硕下一代 ROG Ally 手持设备可能会出现在台北国际电脑展上",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRnFORVVVMFcxcmppRXd6QTlWcDczd2RNaGVaejEzcnE2QUVlOW5ZbWhYbWVVV0dibXJpTVNnTjU2Ymd3OFdlWDVBUkpqakl1UGlMUVNiNGFpaVk4dkFrUTBTbjgwN2stZUE0bDZlWTl6NzZRbmtCd1l5cVB1V3FqS216T1F6NWtldWc?oc=5",
-          "date": "05/24 16:19",
+          "date": "05/24 15:00",
           "source": "VideoCardz.com",
           "type": "📰 行业资讯",
           "summary": "华硕下一代 ROG Ally 手持设备可能会出现在 Computex VideoCardz.com 上",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
+          "date": "03/02 07:04",
+          "source": "Mashable",
+          "type": "🚀 新品发布",
+          "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
           "regions": [
             "🌍 全球"
           ]
@@ -283,17 +339,6 @@
           "source": "VICE",
           "type": "🎮 游戏动态",
           "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）VICE",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
-          "date": "03/01 16:00",
-          "source": "Mashable",
-          "type": "🚀 新品发布",
-          "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
           "regions": [
             "🌍 全球"
           ]
