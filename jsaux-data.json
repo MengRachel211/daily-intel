@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04 02:11",
+  "updated": "2026-06-04 20:30",
   "brand": "JSAUX",
   "sections": [
     {
@@ -30,9 +30,9 @@
           "title": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWwtalZiOUVuQjNsQmFOT3NHVHA2UGNMMW9QMHdwemxCdFFyNGxFSDVBaFdZaGNNcXVDN0VJTTR5SUJhUXZHb0NoOTBoci1rM3d6bGc4eGhiYU1ETmh5cUF1UUlOa1NqdHUtSlJVOVhHVFRkTm1uY2lNcGRHRUx5S0d1akdTanFJVEVJY1JrUU5neGU1LU02bmlmbUpQNjNHXzVTbnNMeURIWkJx?oc=5",
           "date": "12/30 16:00",
-          "source": "Nintendo",
+          "source": "nintendo.com",
           "type": "🎮 游戏动态",
-          "summary": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch Nintendo",
+          "summary": "游戏将于 2026 年登陆 Nintendo Switch 2 和 Nintendo Switch nintendo.com",
           "regions": [
             "🌍 全球"
           ]
@@ -86,34 +86,34 @@
           ]
         },
         {
-          "title": "Steam Machine：为什么粉丝们现在期待 2026 年 6 月发布",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRHpoeklwT0RCb2k5X0ozUV95ekhDWHIzRWVWcDBQejlZRndpSHpwRVVUQWJZNy1FWFlnZGMxWEZVaVNCWXluX0VjQXAtb3lxaGRBaHRZOGdNZGI4Z2tFd01tLTVRWHFHSnZlR2VlSHA5VEF5dmJDMGZuanpFeUMzajV5eTlKdVRCTS1zMTN0WXpmUGI0YVptVzlHODMwZw?oc=5",
-          "date": "06/01 21:55",
+          "title": "蒸汽机欢迎之旅预示着即将推出",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0ZmNkh3cUZ3Uk1sRlBiTGdVU2lvMGtOQTljSGRqTXJKalFqQVhiZnRJNS00U1hRa3prMHhBU3RyMC1Fb3FiYV9fa2o1em1xbmw0SU9KRDFTTkRZVEdjRFdJRElmcWlsbmxrUWNRX1Rka1FuVnQtbG92d0ZRUHZZQ3hsUk92ajAyMkxaYWJmRXpQb205aTg1MElhSdIBoAFBVV95cUxOSThoTkk2NE1MQWthVWlTaHFrRmZ0V09nN1poOEUycEpCQ0dUM0ZpZGk4NHNkVkpzUkZQc3FfQWFJREFwRVFqUFNEYVd5aXBZRXNkX0xxUXozY080QjhtU0JmazJkVUpnUHI3TW5VMjZBMWkwVDF5UEZJWU9UVUhLWWF3alNmY3RtR1BMUFp0eC1URXI0eDJjdmJtRjNuREl6?oc=5",
+          "date": "05/31 11:18",
+          "source": "TechPowerUp",
+          "type": "🚀 新品发布",
+          "summary": "Steam Machine 欢迎之旅预示着即将推出 TechPowerUp",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "蒸汽控制器会很棒——但前提是 Valve 的蒸汽机到来",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Q1hVRDNEUV9Wejh4a1VybnhTX01SRm1odk5VUHo5VVJVaUhQM2ZsY1ZzS0l3Wm9NZ1JBZ2U3NFBqNDRHQmZZaUo1LTNXMTQ5cWhqUWg0dFhQMy1qXzFKejE2M1dzMlY3?oc=5",
+          "date": "05/22 15:00",
+          "source": "WIRED",
+          "type": "📰 行业资讯",
+          "summary": "蒸汽控制器会很棒——但前提是 Valve 的蒸汽机连线上市",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "据报道，即使在发布日期延迟之前，Valve 蒸汽机的价格也已达到 1000 美元",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGo3aUsyOWEzbm02ZzlnVllUNW5YVzR0ZG5vRGVJOTIxRzZLeWxFRTRaR2VDdWJzNDFDb240ZmJ2UzlSbEQzaVB0bzMzc0dKU1FpY1NUei0xVEpET1Z0ZXhpNFdVN1JPeXhXRjB6NFc5NFpVNHR4R0duY09CWFlxUXB5YlJBeVVCS0s2TjNBSWpBcndCeU54SmY5c0FUaE53a2pwLUdncGNZYUV6ckhFbm40Q0xQVjFFUFJlNVNB?oc=5",
+          "date": "05/31 07:08",
           "source": "Notebookcheck",
           "type": "🚀 新品发布",
-          "summary": "Steam Machine：为什么粉丝们现在期待 2026 年 6 月推出 Notebookcheck",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Steam Deck涨价定调后，​​Steam Machine预计很快将以四位数的价格推出",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTlJRG56c1ptNWRxWkltck5uSmR4blZWMTh3bVloeFVCd0RURTgtZkxhNi1OR0l3d05CRk9Nb0wwWENkY0JEOGlHa2ZJc05LMk1RR3FzNGxkeDN0N0k1TkJHTjY5TGRmUDhEdW0wWHYxUHNXTVFqSlBOempHZzNHZGhlSy12NzFnSV9hU0xVcjZYNzd6LWRiX20wdEgwOHFiSUxITkdpenRmbFZWZ2lPbE9oUTR0MTZIQ0VKYjZ0V1RLc2I2cUhFcEl3?oc=5",
-          "date": "06/03 18:15",
-          "source": "PC Guide",
-          "type": "🚀 新品发布",
-          "summary": "在 Steam Deck 涨价定下基调后，Steam Machine 预计很快将以四位数的价格推出",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "我们可能很快就会知道 Steam Machine 的发布日期，因为 Steam 的后端刚刚更新了欢迎导览",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3MWthc0RGa1VybnR4NGV6ay0yanRlOWJiR2xMbklZY0dLaVUzamNJaVdtYnBzd1gxTEFQTWRUWVFCaUZNM2dUSGc3MXdjZlNzWmhadE01NXZLbGViMVFIYklIUnFmUUlBeVJRRzlBUXFmLUtQbnN4RDl3?oc=5",
-          "date": "06/01 23:24",
-          "source": "Eurogamer",
-          "type": "🚀 新品发布",
-          "summary": "我们可能很快就会知道 Steam Machine 的发布日期，因为 Steam 的后端刚刚更新了欢迎之旅 Eurogamer",
+          "summary": "据报道，即使在发布日期延迟之前，Valve 蒸汽机的价格也已达到 1000 美元 Notebookcheck",
           "regions": [
             "🌍 全球"
           ]
@@ -193,12 +193,12 @@
       ],
       "items": [
         {
-          "title": "Best of 9to5Toys – 本周最优惠：AirPods、M5 MacBook Air、Pixel gear、Sonos、PS5 Days of Play 等",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lS3N1Ykdtd0YySUR1SGdwbEoxTHJmTDdHSXl2NExKamxDOXBUUjhsM2VZRnFCZDBuU0R2SnJZYWtjVVBHQk5kNEFoWGthQjNlQm9WYTZrT0FqQnRaTEUxOERMaGkweFE?oc=5",
-          "date": "05/30 21:20",
-          "source": "9to5Toys",
+          "title": "这些是目前亚马逊上最好的 Google Pixel 优惠",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1JIVl9wUmhhVmZNX1F2RkgwRU9FMWN1dk8xcEt0aWtLTnJWbmI4XzBxVmY0UUdHX09LVENGU0tCWkNrVklIOTQ1dlNERFdid083MC05NHIwYlpWVnJIZGJ1dk5vNHhXTG5TdUxNTmVpNHV1THhmN04zYmhGSXdlSkx1cVBWTURWWTJkbHk1MVRvYmN1ZVZJ?oc=5",
+          "date": "05/28 22:53",
+          "source": "9to5Google",
           "type": "📢 促销活动",
-          "summary": "9to5Toys 精选 – 本周热门优惠：AirPods、M5 MacBook Air、Pixel gear、Sonos、PS5 Days of Play、更多 9to5Toys",
+          "summary": "这些是目前亚马逊 9to5Google 上最好的 Google Pixel 优惠",
           "regions": [
             "🌍 全球"
           ]
@@ -206,10 +206,21 @@
         {
           "title": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JRU5lQi03amlXcmhvYUpPVFJueElXZXQ1X293WHp2VllxRHZJQlNla3hLc0R3TXgwR3lvTy03dFNkSm02cjNzU21Qd2dmMjZlV1Ffc1BTbVJ0cE9qb01OTWRTZ2ZDeU9ZMVhHM0N5Qm9XaWlSRjJENTNQeDN0dw?oc=5",
-          "date": "05/26 20:47",
+          "date": "05/26 15:00",
           "source": "bgr.com",
           "type": "📊 市场动态",
           "summary": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见 bgr.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 Google Pixel 9 仍然值得购买吗？",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QZTNwa2VQakFldFNOU1NUN3VBX2ptaE9fNmp4SmxOMXVFN2VWVk1VM0gyTWJVb1Fwa1lidVJYWHg2a2xkaEhDNEVDbmpfNFpCNnpxMExUN3JEcDMtdlQ0STJBVW1GQkQ5SGR6MHkxQWF1ejI5SmRWT1dQMA?oc=5",
+          "date": "05/23 15:00",
+          "source": "SlashGear",
+          "type": "📰 行业资讯",
+          "summary": "2026 年 Google Pixel 9 仍然值得购买吗？斜齿轮",
           "regions": [
             "🌍 全球"
           ]
@@ -221,17 +232,6 @@
           "source": "Forbes",
           "type": "🚀 新品发布",
           "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "即将推出的 Pixel 10a 有何期待，以及为什么 Pixel 粉丝应该感到兴奋",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS09zamtCUFF1X2ZlUUJYOG85SDFqT1E1aUx2Mk9FZzN2QmFaR2dVZTJSUFpEZWlKVTRFUVdNcVRfcjZDMlZQT25Tci1kLUxBdldwemxvYnBlNkU1ZTJGelpKZW5rcHlWUTNJZnJMcDNDTWZ6SkMzUExlSzF6SDZBX3VzR09UVDBQaWp3TmRaaGhIaHo2VmxLU1c5dFRwc2FSR3ZRRTNNZXY2ekpUODdCeUR0ZDFjNWR3aUpucEh6UjEyYldqb2t5ZlpMWjl1QU45V2cw?oc=5",
-          "date": "02/14 16:00",
-          "source": "Android Central",
-          "type": "🚀 新品发布",
-          "summary": "即将推出的 Pixel 10a 有何期待，以及为什么 Pixel 粉丝应该感到兴奋 Android Central",
           "regions": [
             "🌍 全球"
           ]
@@ -263,12 +263,12 @@
           ]
         },
         {
-          "title": "Meta Quest 的玩法：2026 年 4 月回顾",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92RUo0YW42d01iN2s1RGU4dU8yZkpiamVtbFE0MmNQN1BJN05lWkpDR0F6WXNnQ01abzZSOGVLbU43UC1qaG00Z3g3UGVGajZ1eHJWWDhQWEFpV2xvcTdPZjVCbHBpTTZ3cmk2cjJXU204dDlydDR0MXpn?oc=5",
-          "date": "04/30 15:00",
+          "title": "看点：2026 年 5 月亮点",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRmw2YkZHeElMMTJ0U0NobE5SSm00cURqa1NiLWdvbmY2RlBJUWF3cTQtM3UxeVpnQU9QNlZrTi13UW9xY1hyUThPeUtkN2FiYkpOX1RaOXZYRi1ITHJUYzV4VWVZVVZlQ0lwSzU3V3FEQkZPUWkwcXh4ak8yODR6cWlR?oc=5",
+          "date": "05/11 15:00",
           "source": "meta.com",
           "type": "📰 行业资讯",
-          "summary": "Meta Quest 的玩法：2026 年 4 月回顾 meta.com",
+          "summary": "观看内容：2026 年 5 月亮点 meta.com",
           "regions": [
             "🌍 全球"
           ]
@@ -311,12 +311,12 @@
       ],
       "items": [
         {
-          "title": "华硕下一代 ROG Ally 手持设备可能会出现在台北国际电脑展上",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRnFORVVVMFcxcmppRXd6QTlWcDczd2RNaGVaejEzcnE2QUVlOW5ZbWhYbWVVV0dibXJpTVNnTjU2Ymd3OFdlWDVBUkpqakl1UGlMUVNiNGFpaVk4dkFrUTBTbjgwN2stZUE0bDZlWTl6NzZRbmtCd1l5cVB1V3FqS216T1F6NWtldWc?oc=5",
-          "date": "05/24 15:00",
-          "source": "VideoCardz.com",
-          "type": "📰 行业资讯",
-          "summary": "华硕下一代 ROG Ally 手持设备可能会出现在 Computex VideoCardz.com 上",
+          "title": "2026 年最佳手持游戏机——我们的首要推荐",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGcG5PbkdLRGFqcFFfaXZISUZrWlpQbVRoRDF4eGVDbUtDOEV0NlpRYkNoVjBTQ0JyaHRkblJtVGRHLTlaU29jU3BVZG9wbVdIa1hndlh6RmNMbDFSUHRVUWYzeXl2VThpcXdLWlppYkxDdw?oc=5",
+          "date": "06/01 20:59",
+          "source": "Tom's Guide",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年最佳手持游戏机 - 我们的热门推荐 Tom's Guide",
           "regions": [
             "🌍 全球"
           ]
@@ -324,7 +324,7 @@
         {
           "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
-          "date": "03/02 07:04",
+          "date": "03/01 16:00",
           "source": "Mashable",
           "type": "🚀 新品发布",
           "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
@@ -336,9 +336,9 @@
           "title": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlSYVdTRllZdnhUYVA5NTRKRlZPT0JOWVQtQjcwTTVXMmpwTDhYazNqSDFub0xxa3dMZThBY1FHb3Q4eWJjU3NGbjFueGlvS3ltN1Z5NWVBWUxDcFBLb2ZMbGR2SkRSVmhqUTkycUg0UWdKbXFOWG9WbWJoQW1saDZwWlZpVWJHd2pKV2dUMmxwZnhVSWRrT3hGM2tUVjh5STdpU29BUDY0R0VmVkp5TENxMA?oc=5",
           "date": "02/07 16:00",
-          "source": "VICE",
+          "source": "vice.com",
           "type": "🎮 游戏动态",
-          "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）VICE",
+          "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）vice.com",
           "regions": [
             "🌍 全球"
           ]
