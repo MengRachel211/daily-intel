@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12 13:27",
+  "updated": "2026-06-13 13:16",
   "brand": "JSAUX",
   "sections": [
     {
@@ -15,17 +15,6 @@
         "TikTok/YouTube上的Switch开箱评测是流量高峰节点，同步启动达人合作"
       ],
       "items": [
-        {
-          "title": "适用于 Nintendo Switch 2 的 Nintendo Switch Sports Resort 将于 10 月 22 日推出。",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qdHJYWDNjc2VEa1N0WWJ6dmdSLU91cHRkRWRBYkNrZVM2Vy1McjFDSzBJanFkLWhQWWttcHlhbzI0YnIxcTVGVWVQeUlWZ05kRDZ2RS1kZk9GQlQxcmFpRXdrdXBMVWZCQThMdUZpVQ?oc=5",
-          "date": "06/12 10:03",
-          "source": "nintendo.com",
-          "type": "🚀 新品发布",
-          "summary": "适用于 Nintendo Switch 2 的 Nintendo Switch Sports Resort 将于 10 月 22 日推出。nintendo.com",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
         {
           "title": "Nintendo Direct 推出适用于 Nintendo Switch 2 和 Nintendo Switch 的新游戏和更新，包括《塞尔达传说：时之笛》、《王国之心 IV》、《异度之刃：创世记》等",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNa3hnWWFLRHBfa0laTUVENk5yeDZVb3NzeGx5bUJuUGdnQTZxTERBV00zcl9fSGw5SDhlb3NPVUc0dE9iajh6QjFzdGZ1bDZCVGRTOHB2QzZneGk1N29hSU1qZkQ0d3NValpvZFBrMTBtUUZSUlFNTHB3X2I2eC1ZNnJUM1RudjAtRVdvaGhMN1FKLVdjQ0VlUG16T0lBc2I3NXRUVHpmczZsNHAzT25fb3NRZlBlOXYtZXNoRFk0bTd4UE1UYURfaTRUU3h0Q1hkYmJ1VGlKYjIxRmZocjgyT1FHTXdFM3BuMUhiS0VRbUNuR21ZR29mUmw3NWlqNkxoWWtsUE9NQzBFLVpJX0VHeGFQbzdVOEZYUDlnV0xRcWQ2LWZReTdpQ29iNG0tUzVZRUdjdUR3QVlJcUNG?oc=5",
@@ -44,6 +33,17 @@
           "source": "Nintendo Life",
           "type": "🎮 游戏动态",
           "summary": "2026 年 6 月和 7 月即将推出的 Nintendo Switch 2 游戏和配件 Nintendo Life",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "适用于 Nintendo Switch 2 的 Nintendo Switch Sports Resort 将于 10 月 22 日推出。",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qdHJYWDNjc2VEa1N0WWJ6dmdSLU91cHRkRWRBYkNrZVM2Vy1McjFDSzBJanFkLWhQWWttcHlhbzI0YnIxcTVGVWVQeUlWZ05kRDZ2RS1kZk9GQlQxcmFpRXdrdXBMVWZCQThMdUZpVQ?oc=5",
+          "date": "06/12 10:03",
+          "source": "nintendo.com",
+          "type": "🚀 新品发布",
+          "summary": "适用于 Nintendo Switch 2 的 Nintendo Switch Sports Resort 将于 10 月 22 日推出。nintendo.com",
           "regions": [
             "🌍 全球"
           ]
@@ -75,12 +75,34 @@
       ],
       "items": [
         {
-          "title": "Valve 确认 Steam 框架将于“今年夏天”发货",
+          "title": "Steam 机：6 倍甲板功率，价格与 PC 相同 [2026] - tech-insider.org",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtbE5hNndoMDZVQnB6eXNxZ0ZSTnpua0ltc0xWWXdoZzNreU91UXMybkZmbEd0R1Z4dHNPS2hfcHJXdWl6MDNMVzYwZ3gxNG1uczJ3ZnVhSQ?oc=5",
+          "date": "06/13 04:06",
+          "source": "tech-insider.org",
+          "type": "📰 行业资讯",
+          "summary": "蒸汽机：6 倍甲板功率，价格与 PC 相同 [2026] tech-insider.org",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "随着越来越多的货物到达 Valve 美国仓库，Steam Frame 随时推出",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeVQtNnUweEFZN2pILTJsbEpBSHpuSWFQLU1LZFpaOEg1ejg2SzVEdFhpazBZMENWb1R4NVRBcGtPSEZ1RG9ONmlmbXZtUF9FcFByQ1RaWWwwZURMX2xaV2JtV2lRanItbmpEbEN4YXQtbjNDRUs4TFRaSWgyN0pXWVhGUGZRNkdZS2ZTbEZfWHN5NW8yS0RXM1NaMzVjVzd3UzZZUWZzbWZYVTBrSjdfelU3SUZndzRYQlF2bnBhT2hvZw?oc=5",
+          "date": "06/13 00:23",
+          "source": "Notebookcheck",
+          "type": "🚀 新品发布",
+          "summary": "随着越来越多的货物到达 Valve 美国仓库，Steam Frame 随时推出",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Valve 确认 Steam 框架“今年夏天”发货，托盘抵达美国",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmJOOG1INDUzUldlajdwMEYzalVaZ3VtOUJFREVfTVR1Y0t3WVZmU0VsVVFLYzJlcU5fYnJubTJwVnZrdmt2ak9GUmtzcmpka3NqcXlaN2FnZWlWaC1VLXI1Y1pvZnRsZ3o0THNRMFk2V0otZENQbVdPMk42dnh5SjR3?oc=5",
           "date": "06/12 09:08",
           "source": "UploadVR",
           "type": "📰 行业资讯",
-          "summary": "Valve 确认 UploadVR，Steam Frame 将于“今年夏天”发货",
+          "summary": "Valve 确认 Steam 框架“今年夏天”发货，托盘抵达美国 UploadVR",
           "regions": [
             "🌍 全球"
           ]
@@ -92,28 +114,6 @@
           "source": "玩具人 TOY PEOPLE",
           "type": "📰 行业资讯",
           "summary": "Valve 抛出硬件重磅炸弹：新型 Steam 机器、Steam Frame VR 和下一代控制器将于 2026 年上市 玩具人 TOY PEOPLE",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Steam Machine：Valve 的客厅电脑到底有多强大？",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOHFkNGdWYmtfd2JHQkZlSm1LV2dPN1M2QnhlQm95UWkwbENGQU8yZzAwWjZGc285SWFrUGdRYmVRdmQzS21ib1hIQzlMc3VXOXF1dnRfNnRqdEdqX21Sbjh3ajNHbHNqRE8yXzYyTXdUR3JFZkNYQnRSZGNPeHN5d1dBWXFWRU9ycFlZSXpIbS1JYnFzQjVVUW1aZHpKVXN4ZXIybmJUcHMyWFAwTUpyWWpvcEY4Mkk?oc=5",
-          "date": "06/10 21:37",
-          "source": "Notebookcheck",
-          "type": "📰 行业资讯",
-          "summary": "Steam Machine：Valve 的客厅电脑到底有多强大？笔记本检查",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "阀门确认蒸汽框架和蒸汽机的夏季释放窗口",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VdEQ1VFNtbEU5U1lEYlFZanlFaUhmdTFoUENEU3ZHc1ZMdHJnTndRVGhQb2h1c2M1bEppZUNNNU5OMHRxZFlBZElqdURnUXM0TFpUVEtMa3JjQVBDQTVJTllmZFZCbTQ4Vlp4dUx4OE43SEladnBEbmpCOWU?oc=5",
-          "date": "06/05 16:55",
-          "source": "Road to VR",
-          "type": "🚀 新品发布",
-          "summary": "Valve 确认 Steam 框架和 Steam 机器通往 VR 之路的夏季发布窗口",
           "regions": [
             "🌍 全球"
           ]
@@ -156,23 +156,23 @@
           ]
         },
         {
-          "title": "Mattel 的 Intellivision 是我 1981 年的第一台游戏机 - 我很想在这个假期购买 Atari 的重启版",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWk1Tc0RlTzZCVVkzV2FSZEJFeXl6MW5wSE15OGVzbGN5Tm13NzItRE5nRUFJd09vT19KZ21PNVpXQW5iUF9aMzk1QTZnMHV5T1BXczR0dHFla01sWHJ0SzUxSDhkU3FjWkxvdlgtczRCQmZUbi11empJckZnb01DenY4UVh2TEZaelV3NlNIM2Z3ZW1SWGFCWWduNnR1NTFnN08xMTRob3BUUV9KenQzOU1EbE1xVHhObUYtdEdCc2hnMjNXbzhnRjYxbjNDdDEtUVoxZVdJRndtUnZmMFhnUERqbzRRekJZdmVrYkRpazg?oc=5",
-          "date": "10/20 15:00",
-          "source": "TechRadar",
-          "type": "📢 促销活动",
-          "summary": "Mattel 的 Intellivision 是我 1981 年的第一台游戏机 - 我很想在这个假期购买 Atari 的重启版 TechRadar",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Nex Playground 与 Mattel 首次合作",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWVpWGs1UGg2VXBQdmhtWHVBRF9fSHZRbDd1Y29hM1NCc1VDdkxwSkFCYjBqUGpOeld0R09QZHFOY3R0VzhrNDNSUHRxdGtWdldwUEp4YUtoTTVrc1FEdW1JeFVfM01FcnZ1Vk9oVUViMGVucC0xOS1hWjVCengtTldhVjNVU1JoRy1pcGVkdVF0bjdfTEhBOFVxWmktb251YjUyag?oc=5",
           "date": "12/26 16:00",
           "source": "Gifts & Decorative Accessories",
           "type": "🤝 品牌合作",
           "summary": "Nex Playground 与美泰礼品及装饰配件首次合作",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "根据专家评审员的说法，2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZkdEWFdvd3ZwWElWNzJLbzJLT0M1NzNONExYd3pORXVWXzVLeE4wdmJ3X0hkcXpNUHZDV01lMV9EalkzampJWkdJMkZWQmZNeDdPTUpZbEF4aGpGaE5ucHVPT3I1OUJhVDBfVlhFYVlwNjJ5U1V4UnVKakdYVFh6OG5aVkdCYjg?oc=5",
+          "date": "12/03 16:00",
+          "source": "New York Post",
+          "type": "📢 促销活动",
+          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
           "regions": [
             "🌍 全球"
           ]
@@ -193,23 +193,12 @@
       ],
       "items": [
         {
-          "title": "本周热门优惠：AirPods、Pixel 10、Google Nest 等",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sZEw3dVZOVzZYTXZKenhWUVhpY0ZqcUMzRlAtUENiOHNrT3h4c1ZLR1ZsaXlrdnFIcmNfZU50Y2F6REJ6aVFPbDdXb3M0RGVKMkZ5VDl4MVA0cEd2allXekRRMzlqbXpLNFNXdzM3dTIxWEwwLUtsRVlVbzU?oc=5",
-          "date": "06/06 21:15",
-          "source": "9to5Toys",
-          "type": "📢 促销活动",
-          "summary": "本周热门优惠：AirPods、Pixel 10、Google Nest 等 9to5Toys",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "这些是目前亚马逊上最好的 Google Pixel 优惠",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1JIVl9wUmhhVmZNX1F2RkgwRU9FMWN1dk8xcEt0aWtLTnJWbmI4XzBxVmY0UUdHX09LVENGU0tCWkNrVklIOTQ1dlNERFdid083MC05NHIwYlpWVnJIZGJ1dk5vNHhXTG5TdUxNTmVpNHV1THhmN04zYmhGSXdlSkx1cVBWTURWWTJkbHk1MVRvYmN1ZVZJ?oc=5",
-          "date": "05/28 15:00",
+          "title": "所有阵亡将士纪念日最佳优惠：Pixel 10 最高折扣 300 美元、Galaxy 装备最高折扣 375 美元、电动自​​行车、Switch 2、Anker 等",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkhxYUFCTmg3SVkxZGcxREtXNDg3RlBQelc5SHpkZEgyalhkeDZfQ1pMeGRjS3FiUVFBZkVsajdFMHFSMDdLeHBlNWxaS1hOVEJ2YVE4YUZlcldtTDQ0VzUwWGQtc3FMWHBtMVJjWjZBcmpmY2tNRGk2bERPNV9raw?oc=5",
+          "date": "05/25 15:00",
           "source": "9to5Google",
           "type": "📢 促销活动",
-          "summary": "这些是目前亚马逊 9to5Google 上最好的 Google Pixel 优惠",
+          "summary": "所有阵亡将士纪念日最佳优惠：Pixel 10 最高折扣 300 美元、Galaxy 装备最高折扣 375 美元、电动自​​行车、Switch 2、Anker 等 9to5Google",
           "regions": [
             "🌍 全球"
           ]
@@ -232,6 +221,17 @@
           "source": "Forbes",
           "type": "🚀 新品发布",
           "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 Google Pixel 9 仍然值得购买吗？",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QZTNwa2VQakFldFNOU1NUN3VBX2ptaE9fNmp4SmxOMXVFN2VWVk1VM0gyTWJVb1Fwa1lidVJYWHg2a2xkaEhDNEVDbmpfNFpCNnpxMExUN3JEcDMtdlQ0STJBVW1GQkQ5SGR6MHkxQWF1ejI5SmRWT1dQMA?oc=5",
+          "date": "05/23 15:00",
+          "source": "SlashGear",
+          "type": "📰 行业资讯",
+          "summary": "2026 年 Google Pixel 9 仍然值得购买吗？斜齿轮",
           "regions": [
             "🌍 全球"
           ]
@@ -322,6 +322,17 @@
           ]
         },
         {
+          "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
+          "date": "03/02 07:04",
+          "source": "Mashable",
+          "type": "🚀 新品发布",
+          "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlSYVdTRllZdnhUYVA5NTRKRlZPT0JOWVQtQjcwTTVXMmpwTDhYazNqSDFub0xxa3dMZThBY1FHb3Q4eWJjU3NGbjFueGlvS3ltN1Z5NWVBWUxDcFBLb2ZMbGR2SkRSVmhqUTkycUg0UWdKbXFOWG9WbWJoQW1saDZwWlZpVWJHd2pKV2dUMmxwZnhVSWRrT3hGM2tUVjh5STdpU29BUDY0R0VmVkp5TENxMA?oc=5",
           "date": "02/07 16:00",
@@ -341,17 +352,6 @@
           "summary": "Steam Deck 及其他：阿联酋和沙特阿拉伯 2026 年最佳手持游戏电脑 PCMag 中东",
           "regions": [
             "🌙 中东"
-          ]
-        },
-        {
-          "title": "2026 年 4 款最佳手持游戏机 | Wirecutter 的评论",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xLS0yOW9SeV90MVRva090ZXQ2c3lxWkZlX2VTWHcwSmw4TlhsTlV5anpZcURwVmkxX3UzZXlISUt5Wi12TGtSWDZkMWFyTXV2NHlZQUY5VWNHSERnVW56RjVYWmRHMEtwMENQWEdvT2F1c1U2Z1R2RmZpWmJGZw?oc=5",
-          "date": "02/17 16:00",
-          "source": "The New York Times",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年 4 款最佳手持游戏机 | Wirecutter 的评论《纽约时报》",
-          "regions": [
-            "🌍 全球"
           ]
         }
       ]
@@ -381,6 +381,17 @@
           ]
         },
         {
+          "title": "韩国 USB C 以太网适配器 - 市场分析、预测、规模、趋势和见解",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUxGS2NUTThDU1lFV0VoQzJhZzE4ZjdRUFBiWGFHbHVYWUxBNWxlcjFzbnRBUVFCSE1QRlFselNkQVkwZDNfNjAyM2p0RVBvdExFN0xuY3RJOVlPaDFLM3lNSEJaY1ozM2FpMGJua2FzWFl4WjNDY0FlWkllejc5bzVmZWV6NWhsYU1lWXlmVkhkcGhvRzRncDZtS3dReGNmdElYdEQ0anJCUi1IaF9yNjdrNjJadkNrcHo4ZHJzaXNEdHFMVzR4dFdR?oc=5",
+          "date": "05/23 15:00",
+          "source": "IndexBox",
+          "type": "📊 市场动态",
+          "summary": "韩国 USB C 以太网适配器适配器 - 市场分析、预测、规模、趋势和见解 IndexBox",
+          "regions": [
+            "🇰🇷 韩国"
+          ]
+        },
+        {
           "title": "美国对USB Type C的需求|全球市场分析报告 - 2035",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1JGVjhvQTBfakdtUHpVd29va1o0MGxrMXIweVlHYTZCVUdqZUNTRVpLajlzZ2hiMm9pNEtLaUtaSEtST00wZE4tZHBXdlJWbU5VVHJJTnJYUHkwQ21Ec0c1UjREc05rR19HYXlGZUVLam1lc2hjUjZEbXRpTFVhWDBR?oc=5",
           "date": "11/20 16:00",
@@ -401,17 +412,6 @@
           "summary": "日本 USB C 转 VGA 适配器 适配器 - 市场分析、预测、尺寸、趋势和见解 IndexBox",
           "regions": [
             "🇯🇵 日本"
-          ]
-        },
-        {
-          "title": "印度便携式 4K 电脑显示器 - 市场分析、预测、规模、趋势和见解",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQODYzcWFXWVBRTUtDX0lJbWpFa0V0d3o2dC13Y1hiOHVVQVU5cGhBbnhlUktsMC13T2lsczFiTGZhVVlEUlFiZktqakF0Ri0tZkNsZGtmbkRHbDN0R3k2MTFhdkhtQ3lOOXV5VkVCWFBUT09HemxZSmt5ZG1XUnRmbWNfZEVxNkV4c2NSemd0SUt6Z1BGbTFWelJEd2R1ekpCU0RHSlpWbUtOd0pjdWFIQzBmakhTRGd1MUJoNmdJTQ?oc=5",
-          "date": "05/29 15:00",
-          "source": "IndexBox",
-          "type": "📊 市场动态",
-          "summary": "印度便携式 4K 电脑显示器 - 市场分析、预测、规模、趋势和见解 IndexBox",
-          "regions": [
-            "🇮🇳 印度"
           ]
         }
       ]
