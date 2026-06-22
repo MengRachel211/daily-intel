@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21 13:56",
+  "updated": "2026-06-22 14:23",
   "brand": "JSAUX",
   "sections": [
     {
@@ -18,10 +18,21 @@
         {
           "title": "Nintendo Direct 推出适用于 Nintendo Switch 2 和 Nintendo Switch 的新游戏和更新，包括《塞尔达传说：时之笛》、《王国之心 IV》、《异度之刃：创世记》等",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNa3hnWWFLRHBfa0laTUVENk5yeDZVb3NzeGx5bUJuUGdnQTZxTERBV00zcl9fSGw5SDhlb3NPVUc0dE9iajh6QjFzdGZ1bDZCVGRTOHB2QzZneGk1N29hSU1qZkQ0d3NValpvZFBrMTBtUUZSUlFNTHB3X2I2eC1ZNnJUM1RudjAtRVdvaGhMN1FKLVdjQ0VlUG16T0lBc2I3NXRUVHpmczZsNHAzT25fb3NRZlBlOXYtZXNoRFk0bTd4UE1UYURfaTRUU3h0Q1hkYmJ1VGlKYjIxRmZocjgyT1FHTXdFM3BuMUhiS0VRbUNuR21ZR29mUmw3NWlqNkxoWWtsUE9NQzBFLVpJX0VHeGFQbzdVOEZYUDlnV0xRcWQ2LWZReTdpQ29iNG0tUzVZRUdjdUR3QVlJcUNG?oc=5",
-          "date": "06/10 01:28",
+          "date": "06/09 15:00",
           "source": "nintendo.com",
           "type": "🚀 新品发布",
-          "summary": "Nintendo Direct 推出适用于 Nintendo Switch 2 和 Nintendo Switch 的新游戏和更新，包括《塞尔达传说：时之笛》、《王国之心 IV》、《异度神剑：创世纪》等 nintendo.com",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "亚马逊Prime Day：年度最佳游戏折扣3天后正式开启",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjVBUWxxNzljZ0I1NEpJVzFhRWx1MU1SZVBrMGp4amg4N1ZpSVFqX1hXNVN0MTM4cElJMFRPcDM5Q0szQUtVRC1ZMjBEc1FXY3UtN0VnR25iajNhN010T0VIdGVfb2pvOFA5U24tc05nQURVSEVWbG5wOUs0anBjRXJqRlBWZw?oc=5",
+          "date": "06/21 07:00",
+          "source": "Polygon.com",
+          "type": "📢 促销活动",
+          "summary": "亚马逊Prime Day：年度最佳游戏折扣3天后正式开启 Polygon.com",
           "regions": [
             "🌍 全球"
           ]
@@ -47,17 +58,6 @@
           "regions": [
             "🌍 全球"
           ]
-        },
-        {
-          "title": "2026 年 Nintendo Switch Prime Day 最佳早期优惠：最大的优惠即将到来",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qVUN3VE9MUDNkNHJRREY2dHgyOHFfUDh5cGNZSllZcl95REZ5V3JoODN5cC1IQ1hwLW9XVnhZMGc1MHQ2U3pQZDBCNGx2WjAtWTR2MXpqV1psYUc3Q01VLVk5ZEZjcE0yeHlJb01weUk4TkxJZERobGc3bTdBNTQ?oc=5",
-          "date": "06/17 22:33",
-          "source": "GamesRadar+",
-          "type": "📢 促销活动",
-          "summary": "2026 年 Nintendo Switch Prime Day 最佳早期优惠：最大的节省即将到来 GamesRadar+",
-          "regions": [
-            "🌍 全球"
-          ]
         }
       ]
     },
@@ -75,23 +75,12 @@
       ],
       "items": [
         {
-          "title": "Steam控制器供应跟不上需求，Valve将订单推迟到2027年",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVF8zd1pWUmpQTVBjalNhZmRCSGZLSWZPcjFRaWEyUWVkQnlUUkM2bmR3VzZBclBycV9qdWd1VTRFWndEa1h1LWtORkdES2s3ZGloVDg1WG1LR3ZZZFNKNFB0YkNZWEY4X3NiQ0hPVXdZbG5WQXZFdWxMTmlES29RbjNfZFZROHBBTDBSWlZiU0JSb0RDS2hwa3VjQXVlOWxsVW4xUXl5aUVIU3VXdlJ4a0M5dXdVNWxpMmxXNWNkcGVZbFU?oc=5",
-          "date": "06/20 03:58",
-          "source": "TweakTown",
+          "title": "Valve 的 Steam 控制器已售罄，新订单要到 2027 年才会发货",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejIxaER5NnJJeWxlc2JBQ0VIbHBWbXNjZmFEbm5WdzJaWER1cVRzckpWcGtkREt0MmFENHliY1p2NUl3bmc1c0JxVWlKeUhzTHdSV3lBMWJrT2ZjYnhaSHBtSm9HQW9tS0VEd016b2E1TkpkQ1JWNFZkMjc5blNROUJR?oc=5",
+          "date": "06/21 16:00",
+          "source": "Hypebeast",
           "type": "📰 行业资讯",
-          "summary": "Steam 控制器供应跟不上需求，Valve 将订单推迟至 2027 年 TweakTown",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Steam Machine 并不是 Valve 2026 年出货困难的唯一硬件",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzRReWtwOUJCcGZqWjBUWEQ0SlRDTXotNkFVVHZ3RjJhUVlZWWJmVklkTm9uZ3dQUUwwVGVpQWY5bEFBdmVmR1BaM0VOdTc0UW9xd250Sl9TdFVXN3Y5b3ZwWFk0eU13MTc1Zko3d2MzdXdPblUyV1BpbjBpZmNPRTZONkpETlFR?oc=5",
-          "date": "06/19 23:20",
-          "source": "Polygon.com",
-          "type": "📰 行业资讯",
-          "summary": "Steam Machine 并不是 Valve 2026 年出货困难的唯一硬件 Polygon.com",
+          "summary": "Valve 的 Steam 控制器已售罄，新订单要到 2027 年才会发货 Hypebeast",
           "regions": [
             "🌍 全球"
           ]
@@ -108,12 +97,23 @@
           ]
         },
         {
-          "title": "这次蒸汽机？ Valve 运送了 70 吨硬件——但有所不同",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEp1LXZXOFU5SGJXVlE5UWtTWEdfMUFVN3o2eGFTNnJPSWRDZ2FXUFBRTGlaSnpRZUEyNjYyMGozSGhpMzQ1clp5M2FTbDVQNldjbG1VVGhVM2pYdXMxRGFnT0ZYRGRiZ1dXNVkyVnFwUmVuSVJBMUFaMTNfV21SNUV1V2p0bkZNdXpIemhiNlB3ZVhxMWg3ZlAwZjdaZXdMNU1OUnJKQnItaXpmblZSTlhfbUtKRzRiQlB4ZnhVRV8tSG5BeXc?oc=5",
-          "date": "06/19 20:59",
-          "source": "Notebookcheck",
+          "title": "Steam Machine 并不是 Valve 2026 年出货困难的唯一硬件",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzRReWtwOUJCcGZqWjBUWEQ0SlRDTXotNkFVVHZ3RjJhUVlZWWJmVklkTm9uZ3dQUUwwVGVpQWY5bEFBdmVmR1BaM0VOdTc0UW9xd250Sl9TdFVXN3Y5b3ZwWFk0eU13MTc1Zko3d2MzdXdPblUyV1BpbjBpZmNPRTZONkpETlFR?oc=5",
+          "date": "06/19 23:20",
+          "source": "Polygon.com",
           "type": "📰 行业资讯",
-          "summary": "这次蒸汽机？ Valve 运送了 70 吨硬件 - 但有些不同 Notebookcheck",
+          "summary": "Steam Machine 并不是 Valve 2026 年出货困难的唯一硬件 Polygon.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Valve 提供有关 Steam 控制器预订的更多详细信息 - 您将等待一段时间",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZG5QdjlTREk1ZUVzb1hBTUU1Z0xZNUZzblZpSk56VXpjSi13M1ZCZ2MxWlV6bFhabDBJYTV2bE1EODJGWDV5dVBWdWNNVEcwek96MW9YQ2s0cTFDTDgtb0pzNXJzZzIyRnB0UG95eHVOY21Kb2hFN3lmbkVCNjJQemV2aEgxWUtHSEw3UENBUHZRNVpYaHQxdGEwQmxPaU5CT2VxaTc4S2RydmdoMVkyWF96UHFnNldNVGtZ?oc=5",
+          "date": "06/19 05:09",
+          "source": "GamingOnLinux",
+          "type": "🎮 游戏动态",
+          "summary": "Valve 提供有关 Steam 控制器预订的更多详细信息 - 您将等待一段时间 GamingOnLinux",
           "regions": [
             "🌍 全球"
           ]
@@ -134,17 +134,6 @@
       ],
       "items": [
         {
-          "title": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
-          "date": "02/06 16:00",
-          "source": "Gadget Flow",
-          "type": "📰 行业资讯",
-          "summary": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？小工具流程",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Nex Playground 与 Mattel 首次合作",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWVpWGs1UGg2VXBQdmhtWHVBRF9fSHZRbDd1Y29hM1NCc1VDdkxwSkFCYjBqUGpOeld0R09QZHFOY3R0VzhrNDNSUHRxdGtWdldwUEp4YUtoTTVrc1FEdW1JeFVfM01FcnZ1Vk9oVUViMGVucC0xOS1hWjVCengtTldhVjNVU1JoRy1pcGVkdVF0bjdfTEhBOFVxWmktb251YjUyag?oc=5",
           "date": "12/26 16:00",
@@ -162,6 +151,17 @@
           "source": "New York Post",
           "type": "📢 促销活动",
           "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
+          "date": "02/06 16:00",
+          "source": "Gadget Flow",
+          "type": "📰 行业资讯",
+          "summary": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？小工具流程",
           "regions": [
             "🌍 全球"
           ]
@@ -215,23 +215,23 @@
           ]
         },
         {
+          "title": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50MVM2MDlDR0R1VjlBYWhxQ21iZ09nQjQ5dV9xQXVpU0wtMEh3RElpOGlCNU5IR0ZqY0ZXSzNUR0dXV282bGdvd25FcG9TSHZ6ZFJmX1pfOUJHcUp6QVNqR1RB?oc=5",
+          "date": "03/06 16:00",
+          "source": "WIRED",
+          "type": "📋 评测推荐",
+          "summary": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JRU5lQi03amlXcmhvYUpPVFJueElXZXQ1X293WHp2VllxRHZJQlNla3hLc0R3TXgwR3lvTy03dFNkSm02cjNzU21Qd2dmMjZlV1Ffc1BTbVJ0cE9qb01OTWRTZ2ZDeU9ZMVhHM0N5Qm9XaWlSRjJENTNQeDN0dw?oc=5",
           "date": "05/26 15:00",
           "source": "bgr.com",
           "type": "📊 市场动态",
           "summary": "2026 年黑莓式物理键盘将成为智能手机趋势，无人预见 bgr.com",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "本周热门优惠：AirPods、Pixel 10、Google Nest 等",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sZEw3dVZOVzZYTXZKenhWUVhpY0ZqcUMzRlAtUENiOHNrT3h4c1ZLR1ZsaXlrdnFIcmNfZU50Y2F6REJ6aVFPbDdXb3M0RGVKMkZ5VDl4MVA0cEd2allXekRRMzlqbXpLNFNXdzM3dTIxWEwwLUtsRVlVbzU?oc=5",
-          "date": "06/06 15:00",
-          "source": "9to5Toys",
-          "type": "📢 促销活动",
-          "summary": "本周热门优惠：AirPods、Pixel 10、Google Nest 等 9to5Toys",
           "regions": [
             "🌍 全球"
           ]
@@ -252,12 +252,12 @@
       ],
       "items": [
         {
-          "title": "我用 2026 年最好的 VR 配件升级了我的 Meta Quest",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZnhhUXg1eHRTandaNkJYZ2ozSFlHNmo5bF9hb1lHcmxhYXYxVmwwX1pGNjN6UjFjSkxON2c0ZUtFUTNQNW45dVJlNXIwdFFWLXVwLVlMVUhKYmFOS24xR1E3YlBoamR1OVoySFBXTGNBanlQT3R0dE9nUEl4RnM?oc=5",
-          "date": "04/29 15:00",
-          "source": "Tom's Guide",
-          "type": "📋 评测推荐",
-          "summary": "我用 2026 年汤姆指南中最好的 VR 配件升级了我的 Meta Quest",
+          "title": "2026 年 6 月 Meta Quest 促销代码和优惠券",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pUWY2OWM4QmJQWVN0WTgxSU5wNlJpSmtQM0tiUjV3VGNmMmVOTGloeG05azlUWHBySmdHRE9paHdNcmJ4cmU5UUpPVUlZbzJHRmVpeGlmWUVSSVZRMFo0?oc=5",
+          "date": "06/19 13:00",
+          "source": "WIRED",
+          "type": "📢 促销活动",
+          "summary": "2026 年 6 月 Meta Quest 促销代码和优惠券 连线",
           "regions": [
             "🌍 全球"
           ]
@@ -285,12 +285,12 @@
           ]
         },
         {
-          "title": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRGpZVUxyZThQOVBXMGJaMnNhWEMyQ0o0SmJRTmhRVkJtNGxUYjcxTHZDQnZkRWlqa1pCM0FxdkpCd0otZUhpY3BHdkZJYlpKUjEwWG9qX200alNfeGE0aEVvTW1xQQ?oc=5",
-          "date": "05/06 15:00",
-          "source": "GamesRadar+",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年最佳 Meta Quest 配件：升级您的 VR 装备 GamesRadar+",
+          "title": "Meta 宣布 Quest 3 耳机涨价",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWxIbUlsSlU5MGVCUlVPOWthZ0tGUTZDUXlDanJvcXhyc0NNTm10VEhyeEptQ3FTWXdheEpkenZVNWtqUEdNbndzTG91ckhLdWtFdWJzQVc4MDg4SWk0Und6a3ZOWk14bTdkbGY1WjlDMFFjc28yeEF2M2xsM25EY0FxM3IzMG5oY1RMak1SLXQ?oc=5",
+          "date": "04/16 15:00",
+          "source": "Game Informer",
+          "type": "🚀 新品发布",
+          "summary": "Meta 宣布 Quest 3 耳机价格上涨 Game Informer",
           "regions": [
             "🌍 全球"
           ]
@@ -311,20 +311,9 @@
       ],
       "items": [
         {
-          "title": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlSYVdTRllZdnhUYVA5NTRKRlZPT0JOWVQtQjcwTTVXMmpwTDhYazNqSDFub0xxa3dMZThBY1FHb3Q4eWJjU3NGbjFueGlvS3ltN1Z5NWVBWUxDcFBLb2ZMbGR2SkRSVmhqUTkycUg0UWdKbXFOWG9WbWJoQW1saDZwWlZpVWJHd2pKV2dUMmxwZnhVSWRrT3hGM2tUVjh5STdpU29BUDY0R0VmVkp5TENxMA?oc=5",
-          "date": "02/07 16:00",
-          "source": "VICE",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）VICE",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "MWC 2026：联想首次推出Legion Go Fold概念手持设备",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LWdEYVJUWThPbnRERHh2TTFDRlFlTGJHMFVMNW9JT0tSUkRacE9vMnVtcGtNOG5zc0t4cHlpUVBzV21ObWc3WkhKZXlkdnZ5bElTMzVXd1h0ay1xa1liemtldFdUdm80ZGxWeG5HV3VNMkx2bUE?oc=5",
-          "date": "03/01 16:00",
+          "date": "06/21 17:00",
           "source": "Mashable",
           "type": "🚀 新品发布",
           "summary": "MWC 2026：联想首次推出 Legion Go Fold 概念手持机 Mashable",
@@ -333,12 +322,12 @@
           ]
         },
         {
-          "title": "2026 年最佳手持游戏机——我们的首要推荐",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGcG5PbkdLRGFqcFFfaXZISUZrWlpQbVRoRDF4eGVDbUtDOEV0NlpRYkNoVjBTQ0JyaHRkblJtVGRHLTlaU29jU3BVZG9wbVdIa1hndlh6RmNMbDFSUHRVUWYzeXl2VThpcXdLWlppYkxDdw?oc=5",
-          "date": "06/01 15:00",
-          "source": "Tom's Guide",
+          "title": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlSYVdTRllZdnhUYVA5NTRKRlZPT0JOWVQtQjcwTTVXMmpwTDhYazNqSDFub0xxa3dMZThBY1FHb3Q4eWJjU3NGbjFueGlvS3ltN1Z5NWVBWUxDcFBLb2ZMbGR2SkRSVmhqUTkycUg0UWdKbXFOWG9WbWJoQW1saDZwWlZpVWJHd2pKV2dUMmxwZnhVSWRrT3hGM2tUVjh5STdpU29BUDY0R0VmVkp5TENxMA?oc=5",
+          "date": "02/07 16:00",
+          "source": "VICE",
           "type": "🎮 游戏动态",
-          "summary": "2026 年最佳手持游戏机 - 我们的热门推荐 Tom's Guide",
+          "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）VICE",
           "regions": [
             "🌍 全球"
           ]
@@ -352,6 +341,17 @@
           "summary": "Steam Deck 及其他：阿联酋和沙特阿拉伯 2026 年最佳手持游戏电脑 PCMag 中东",
           "regions": [
             "🌙 中东"
+          ]
+        },
+        {
+          "title": "2026 年最佳手持游戏机——我们的首要推荐",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGcG5PbkdLRGFqcFFfaXZISUZrWlpQbVRoRDF4eGVDbUtDOEV0NlpRYkNoVjBTQ0JyaHRkblJtVGRHLTlaU29jU3BVZG9wbVdIa1hndlh6RmNMbDFSUHRVUWYzeXl2VThpcXdLWlppYkxDdw?oc=5",
+          "date": "06/01 15:00",
+          "source": "Tom's Guide",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年最佳手持游戏机 - 我们的热门推荐 Tom's Guide",
+          "regions": [
+            "🌍 全球"
           ]
         }
       ]
@@ -378,17 +378,6 @@
           "summary": "美国对USB Type C的需求|全球市场分析报告 - 2035 年未来市场洞察",
           "regions": [
             "🇺🇸 美国",
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "2026 年适用于 Windows 笔记本电脑的最佳扩展坞",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hQjJYZktfTFpjNU1YZEdSY0U0NjgzY2JUTms0bFM3bVNUYndueDdObTFpZ2pCVWJqOVR6WjlkTEV4dkZNd1NZVnI1ZGNfRWU0UzI0VFM5YWJWMm1MSHdQMW5ZckRmdVRXTGdUbUduUGkta0VDN2pEazBsbEJrQQ?oc=5",
-          "date": "09/12 01:41",
-          "source": "PCMag",
-          "type": "📋 评测推荐",
-          "summary": "2026 年 Windows 笔记本电脑的最佳扩展坞 PCMag",
-          "regions": [
             "🌍 全球"
           ]
         }
