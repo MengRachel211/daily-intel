@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05 12:52",
+  "updated": "2026-07-06 13:05",
   "brand": "JSAUX",
   "sections": [
     {
@@ -27,7 +27,7 @@
           ]
         },
         {
-          "title": "Nintendo Direct 推出适用于 Nintendo Switch 2 和 Nintendo Switch 的新游戏和更新，包括《塞尔达传说：时之笛》、《王国之心 IV》、《异度神剑：创世记》等 - 新闻 - Nintendo 官方网站",
+          "title": "Nintendo Direct 推出适用于 Nintendo Switch 2 和 Nintendo Switch 的新游戏和更新，包括《塞尔达传说：时之笛》、《王国之心 IV》、《异度神剑：创世纪》等 - 新闻 - Nintendo 官方网站",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNa3hnWWFLRHBfa0laTUVENk5yeDZVb3NzeGx5bUJuUGdnQTZxTERBV00zcl9fSGw5SDhlb3NPVUc0dE9iajh6QjFzdGZ1bDZCVGRTOHB2QzZneGk1N29hSU1qZkQ0d3NValpvZFBrMTBtUUZSUlFNTHB3X2I2eC1ZNnJUM1RudjAtRVdvaGhMN1FKLVdjQ0VlUG16T0lBc2I3NXRUVHpmczZsNHAzT25fb3NRZlBlOXYtZXNoRFk0bTd4UE1UYURfaTRUU3h0Q1hkYmJ1VGlKYjIxRmZocjgyT1FHTXdFM3BuMUhiS0VRbUNuR21ZR29mUmw3NWlqNkxoWWtsUE9NQzBFLVpJX0VHeGFQbzdVOEZYUDlnV0xRcWQ2LWZReTdpQ29iNG0tUzVZRUdjdUR3QVlJcUNG?oc=5",
           "date": "06/09 15:00",
           "source": "nintendo.com",
@@ -75,6 +75,17 @@
       ],
       "items": [
         {
+          "title": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9uS19HeURrcXBVUkhWeUY3S0hwLXhua1lwM1RTcDlKMkUxV25jYlIxUFV0aWstbU1pbTF4aGp1aw?oc=5",
+          "date": "07/05 14:49",
+          "source": "vr.org",
+          "type": "🚀 新品发布",
+          "summary": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切 vr.org",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "Steam 机器记住游戏机可以既有趣又酷",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEppWmFOQ0VFcXY4T2FwUHVndkczd25yaVgyanpTOUVtVGVVV0luYllwUXBRUk5YNTdkSVhXVU5mRXpxZURFWmc5OVRzLVdyR0otZ29waXlSYmtzN0JIOFdRZGg3T1RKd2wwdFUtUWw0RVpuTXRPb0lYSkZWVmJmU2tvcEdMVHAtRVdpcGtjRUdLblo3NlRvbmp3?oc=5",
           "date": "07/01 04:30",
@@ -86,34 +97,23 @@
           ]
         },
         {
+          "title": "为 Valve 的蒸汽机制作 DIY 电子墨水面板",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTBENVVJWG1neGZKWm41R1g2TldkOG50SHFuY0xUa041MXljU2VvWXVTZlN2MGN3VWNiM2ZIbXFQQmRXS3FXNm12TDBBcXFHdTdsckp6STRqTnBhRl9mWU85cmtRQUU0eVNFcFRmcmh0U0Vscm12Y0FsUXk3Skl1T0R4M3lzRHRQMkZ6Vg?oc=5",
+          "date": "07/05 13:00",
+          "source": "Hackaday",
+          "type": "📰 行业资讯",
+          "summary": "为 Valve 的蒸汽机制作 DIY 电子墨水面板 Hackaday",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "惊喜：Valve的新款蒸汽机来了，但价格才是真正令人震惊的",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzlNQUlySFg2UXVYOS1fNVN1UTJITmFudmlVakJaNjJTX0hWblFrWXRuWWhvS080U0J0Q1dsTWE5bG9YMFNUM1JCd29DT3RNWEhpdUdqUnNqSFMtdE4zR09OV2RYeUxMQ2NxOC0welM1c0Y3VG53bThxbVF1SUZFd0ZaMFJKMEdjQlRwMDBfeTRrUmlEZFVMUUp1R0VxVWh0YklkSTU2NFBzZw?oc=5",
           "date": "06/22 15:00",
           "source": "GeekWire",
           "type": "📰 行业资讯",
           "summary": "惊喜：Valve的新款Steam Machine来了，但价格才是真正令人震惊的 GeekWire",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Steam Machine 领先 Valve 所有游戏畅销榜，但高价格有助于迷你 PC",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZk4zNDdvakhpSmtPVHZRSy00Y3owR3R6dm80Z0I4NEF2aGV0Mk1LSS16eHBzMks3LThsM0t0SHdRajljYkJyX1lXYlBhRGk0YnNiNUdnY0k4Z3FHX2NYRmp2WXJrYXl1WEF1RjdjeHc2Yy1lMGQzeVFsbE5NY3JkaExtZmM0ZVBfSGgxZnVmV29CNF9WaF81NFJLcjZsMDcya0dMMkg4OVdad3VCdHNHaWEyeUQ4WW9BbDdxSThDQTVCaXZ6?oc=5",
-          "date": "07/03 08:34",
-          "source": "Notebookcheck",
-          "type": "🎮 游戏动态",
-          "summary": "Steam Machine 领先 Valve 所有游戏畅销榜，但高价有助于迷你 PC 笔记本检查",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Steam 机器预订：1,049 美元，6 月 30 日发货 [2026] - tech-insider.org",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBITHpfbGZjQUxFdGROY2xBM0g1NFZjOUxIQ1A5ZFdHVE1iRTl5WHZnZ0RQS19BOUdSYi1fY1ZFdjZmb1lzSmE3dzA0M19FLVNKNHlXY3VfUi1YbTJMdGRSR0xQODlEQQ?oc=5",
-          "date": "06/25 19:44",
-          "source": "tech-insider.org",
-          "type": "📰 行业资讯",
-          "summary": "Steam 机器预订：1,049 美元，6 月 30 日发货 [2026] tech-insider.org",
           "regions": [
             "🌍 全球"
           ]
@@ -156,23 +156,23 @@
           ]
         },
         {
-          "title": "根据专家评审员的说法，2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZkdEWFdvd3ZwWElWNzJLbzJLT0M1NzNONExYd3pORXVWXzVLeE4wdmJ3X0hkcXpNUHZDV01lMV9EalkzampJWkdJMkZWQmZNeDdPTUpZbEF4aGpGaE5ucHVPT3I1OUJhVDBfVlhFYVlwNjJ5U1V4UnVKakdYVFh6OG5aVkdCYjg?oc=5",
-          "date": "12/03 16:00",
-          "source": "New York Post",
-          "type": "📢 促销活动",
-          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
           "date": "02/06 16:00",
           "source": "Gadget Flow",
           "type": "📰 行业资讯",
           "summary": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？小工具流程",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Nex Playground 推出全新假日游戏阵容",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVZkellWNVR3X01GY1VHMzBySDBRYmRNWFdUNDVvcXdHUEFtMTQ5ZEVhOFhfVllTRUs1Qm5aTjJvN0lTaWEzR1kzUE5Dd2x6SWp6QW15ckJwaHhqUXFVTzRaVkJpOEc2YS1xbE1RVm5QSldMalVlcXF3TUIwMk1wLUQ0Y200My1UdnFSZjhGak9rVEFq?oc=5",
+          "date": "10/16 15:00",
+          "source": "License Global",
+          "type": "🚀 新品发布",
+          "summary": "Nex Playground 推出全新假日游戏阵容 全球授权",
           "regions": [
             "🌍 全球"
           ]
@@ -193,17 +193,6 @@
       ],
       "items": [
         {
-          "title": "2026 年即将推出的最佳手机：寻找您的下一款手机",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BNWRDWjZMcXdpZTB0dEhiMV9qendGb3B0MnJnbW10T0V6UHpCcmJzSGdpZUlGZ0tPTXFxZS1DUjM2SDhnYjJIeGRsSi1oUHMyZnR4SVB2enJFWnhVVjZEUVJ5UXc3UlZQaHliaWd3RVk?oc=5",
-          "date": "06/23 15:00",
-          "source": "stuff.tv",
-          "type": "📋 评测推荐",
-          "summary": "2026 年即将推出的最佳手机：找到您的下一款手机 stuff.tv",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "谷歌推出 Pixel 10A——它具有必备的设计功能",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU21VZ19Sa2t2TTEwNnlpYlRoN0ZfQU82Zl9YVmV6OTkxUjN3RjFRY3Z1dDRMR3BqZ0FNYjFOVXI5QmxoV1V6N0ZGT3FZSVRRQlhMQ1RwS3l3VTVKcjRFTVBlRk0zazZZMTZWOTJTTzROeDNibXdkMWxjM3ExMVJPVFFCOHF0cWt1TGpUTjl6ZThtUQ?oc=5",
           "date": "02/18 16:00",
@@ -215,23 +204,34 @@
           ]
         },
         {
+          "title": "2026 年即将推出的最佳手机：寻找您的下一款手机",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BNWRDWjZMcXdpZTB0dEhiMV9qendGb3B0MnJnbW10T0V6UHpCcmJzSGdpZUlGZ0tPTXFxZS1DUjM2SDhnYjJIeGRsSi1oUHMyZnR4SVB2enJFWnhVVjZEUVJ5UXc3UlZQaHliaWd3RVk?oc=5",
+          "date": "06/23 15:00",
+          "source": "stuff.tv",
+          "type": "📋 评测推荐",
+          "summary": "2026 年即将推出的最佳手机：找到您的下一款手机 stuff.tv",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50MVM2MDlDR0R1VjlBYWhxQ21iZ09nQjQ5dV9xQXVpU0wtMEh3RElpOGlCNU5IR0ZqY0ZXSzNUR0dXV282bGdvd25FcG9TSHZ6ZFJmX1pfOUJHcUp6QVNqR1RB?oc=5",
+          "date": "03/06 16:00",
+          "source": "WIRED",
+          "type": "📋 评测推荐",
+          "summary": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "亚马逊推出全新 Google Pixel 10a 保护壳促销活动，Prime 运费 24 美元",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3NncTN6dFdENl9zaUJpQkRreGhGSC0yUFdNRDJLZ3IxWmVfR2RzNUFXZFJpRC1uSjlaWEJ3Qk5uRXpYM3ljWlRhdXFpMXhtWFV2VFRBV3pvMWhKOW1HUFVCT1BoU0lPWTc0R1o3QU0wemt6QmhBX1R6YW1nUGNKR01BTmtDdw?oc=5",
           "date": "02/18 16:00",
           "source": "9to5Toys",
           "type": "🚀 新品发布",
           "summary": "亚马逊推出全新 Google Pixel 10a 保护壳促销活动，Prime 发货价格为 24 美元 9to5Toys",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "这些是目前亚马逊上最好的 Google Pixel 优惠",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1JIVl9wUmhhVmZNX1F2RkgwRU9FMWN1dk8xcEt0aWtLTnJWbmI4XzBxVmY0UUdHX09LVENGU0tCWkNrVklIOTQ1dlNERFdid083MC05NHIwYlpWVnJIZGJ1dk5vNHhXTG5TdUxNTmVpNHV1THhmN04zYmhGSXdlSkx1cVBWTURWWTJkbHk1MVRvYmN1ZVZJ?oc=5",
-          "date": "05/28 15:00",
-          "source": "9to5Google",
-          "type": "📢 促销活动",
-          "summary": "这些是目前亚马逊 9to5Google 上最好的 Google Pixel 优惠",
           "regions": [
             "🌍 全球"
           ]
@@ -263,6 +263,17 @@
           ]
         },
         {
+          "title": "VR 发布日期 2026 年：所有耳机、游戏和配件均已问世",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQZ0xCelplVmJaNHp4Vk5tTjdPS3VLTHlwLVZYaHh0SHJCNG1GWEF4V0FhNURCMHFkZlg0QmkxeDNPei1pMXc?oc=5",
+          "date": "07/05 06:52",
+          "source": "vr.org",
+          "type": "🚀 新品发布",
+          "summary": "VR 发布日期 2026 年：每款耳机、游戏和配件均即将问世 vr.org",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "2026 年最值得购买的 Meta Quest 3 和 3S 配件",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGg4ZnVGS2N3eGxSUS1yVFQ5cTZCQ0c3a1hXMmxEUmRDVE8ya0JORi1ocTl4d2hzd29EaklFcVFBdWhGN1dFZW5FT2NuMFN2cUpXcmQzMDNxWHUta2hPWXNnOS1fZFl3c0dRWldlc0ZmT3BxaGppYnl1VS1GU1RGM21LZC1uOEZuelFz?oc=5",
           "date": "06/29 21:49",
@@ -283,17 +294,6 @@
           "regions": [
             "🌍 全球"
           ]
-        },
-        {
-          "title": "2026 年 7 月 Meta Quest 促销代码和优惠券",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pUWY2OWM4QmJQWVN0WTgxSU5wNlJpSmtQM0tiUjV3VGNmMmVOTGloeG05azlUWHBySmdHRE9paHdNcmJ4cmU5UUpPVUlZbzJHRmVpeGlmWUVSSVZRMFo0?oc=5",
-          "date": "06/19 15:00",
-          "source": "WIRED",
-          "type": "📢 促销活动",
-          "summary": "2026 年 7 月 Meta Quest 促销代码和优惠券 连线",
-          "regions": [
-            "🌍 全球"
-          ]
         }
       ]
     },
@@ -311,23 +311,23 @@
       ],
       "items": [
         {
-          "title": "适合随时随地玩游戏的最佳手持游戏电脑",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaERWQnlBS1VnNXZRNTQ3aGd6d2pVdk5aR2NiZUNBbjdjMHhVcnNQN1FjcVNlUWRWaTZ3bVpYM1ByVnBodW1aQWhQbGhuYXJCU01TWGRLWDdFRmlvUmplR2pn?oc=5",
-          "date": "07/01 03:07",
-          "source": "IGN",
-          "type": "🎮 游戏动态",
-          "summary": "适合随时随地玩游戏的最佳掌上游戏电脑 IGN",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Ayaneo 预告两款新游戏手持设备将在全球发布",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1Z4S3hUY2FPclVDMWhoX19JdnlPNWVIUmFCaEFscVIwa2ZYMzNBa0tNV1hxQlFJbkNyUk1ucjVHaDJyaXNQMHJyWFRJZ182VUZoaHg3MGx2Unl1eWk0NWpvdi1YWXJ3b0ItUU5oSWsyT05TQVRDQzFEUEI3S3RSLUJNOGgtOVFUazRQSEtVYkptbFVXV1hvN0E3cXA5N0VrbFZweVF1SDFXOGh3WkNpLVRKOA?oc=5",
           "date": "07/04 09:03",
           "source": "Notebookcheck",
           "type": "🚀 新品发布",
           "summary": "Ayaneo 预告两款新游戏掌上电脑，并在全球范围内发布 Notebookcheck",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "适合随时随地玩游戏的最佳手持游戏电脑",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaERWQnlBS1VnNXZRNTQ3aGd6d2pVdk5aR2NiZUNBbjdjMHhVcnNQN1FjcVNlUWRWaTZ3bVpYM1ByVnBodW1aQWhQbGhuYXJCU01TWGRLWDdFRmlvUmplR2pn?oc=5",
+          "date": "07/01 03:07",
+          "source": "IGN",
+          "type": "🎮 游戏动态",
+          "summary": "适合随时随地玩游戏的最佳掌上游戏电脑 IGN",
           "regions": [
             "🌍 全球"
           ]
@@ -349,7 +349,7 @@
           "date": "06/23 15:00",
           "source": "Tom's Guide",
           "type": "🎮 游戏动态",
-          "summary": "我们在 2026 年最好的手持游戏机上玩了 100 多个小时 - 以下是我们精选的物超所值的汤姆指南",
+          "summary": "我们在 2026 年最好的掌上游戏机上玩了 100 多个小时 - 以下是我们精选的物超所值的汤姆指南",
           "regions": [
             "🌍 全球"
           ]
@@ -393,6 +393,17 @@
           ]
         },
         {
+          "title": "最佳无线 HDMI 流媒体发射器",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVGRmQTcxOURzczhXUTBNOFZOY2tBTGdjdEpfOFd5UzdMM2xEQUxCR3F1VWpNaWlPNmZ5c1VBdTBKcW96TEhyZ3hvem1oME52TDBtclRRSUJGd0gwekRmd3YtSDRyT1o2bnfSAW9BVV95cUxPSnQ1eUJ3OF9TMmhOZFg0MkVKTDluNmNzblhybnM2NlVsOVhuSUs5VjBGUEF6c2x6RGhnSVBqUzl1UUg5VU1TdU95OXk1VHp2Qzc4UnJCSkVZdEViVjFCcGsta3hWbGtCZ2RIRmV3UU0?oc=5",
+          "date": "04/03 15:00",
+          "source": "Gagadget.com",
+          "type": "📋 评测推荐",
+          "summary": "最佳无线 HDMI 流媒体发射器 Gagadget.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "印度坞站市场规模、份额和 2034 年展望",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1XzJCMUQ4b2dEbURkcWxUdlZGQVJyVEZYbkUwOWc3SUZlOGFVM1ZucFJIc3pWMWxuVldVU0dsRzB0V1Y3TjNSMndpR19BeWw3elZFLTVIS21iTlU4Qlc2RVV3Vl9kdw?oc=5",
           "date": "03/27 05:08",
@@ -401,17 +412,6 @@
           "summary": "印度坞站市场规模、份额和 2034 年展望 IMARC Group",
           "regions": [
             "🇮🇳 印度"
-          ]
-        },
-        {
-          "title": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1J1X2xzWnNEUmpJbm5mOTFMc1hQbGVlSmZGcXFsSjR5Q2N2R1lxWnp1RFRXMEpKSVFnVm53dnRHTkwxRTBpLUZTaU5QWjFUeXA4ZzY4NFA1LTRoODJQeWNnTFU0VEVMc3J1Tzlra1RHbnFJUU1FZ1gyaXB1VGxzYm9IN01lbmJ0Z1pfVTRaRXlYR1Bz?oc=5",
-          "date": "06/29 23:50",
-          "source": "openPR.com",
-          "type": "📊 市场动态",
-          "summary": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位 openPR.com",
-          "regions": [
-            "🌍 全球"
           ]
         }
       ]
