@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08 12:10",
+  "updated": "2026-07-09 12:45",
   "brand": "JSAUX",
   "sections": [
     {
@@ -19,9 +19,9 @@
           "title": "有关即将对某些任天堂产品进行电池相关修订的信息",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc1dnYm9yNzhfSXdqTGpZbC0xd1VmWDN1eTJ0cFhUMFdrdERJWTBIcU01MUZ2VVd3NUUteW8yb2UxeFJ0UVdOWlZnNnlSZlZiYWJYYUp4bTZ5WVdnRTJpcjdaZFMwdjN2RnFWdWo4ZWVkME5lejhjeEtSWm1jcmtrTHJUWG1aOVJIMUxMZTFBREJrSzVGOVN2Q1E4cFBiTUgydmRETFlPUG05R1plOGpMZEMzZUdyUzJCNmhEWEpfSFJrdmZDdkNMOHQ0cC0zbHpuVGU1cUdZTEMwLUdmR2kzREdB?oc=5",
           "date": "07/06 21:08",
-          "source": "nintendo.com",
+          "source": "Nintendo",
           "type": "📰 行业资讯",
-          "summary": "有关即将对某些任天堂产品进行电池相关修订的信息 nintendo.com",
+          "summary": "有关即将对某些任天堂产品进行电池相关修订的信息 Nintendo",
           "regions": [
             "🌍 全球"
           ]
@@ -86,17 +86,6 @@
           ]
         },
         {
-          "title": "Steam Machine 现在可以使用官方 Valve 驱动程序运行 Windows",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUxRMWdBUUpGZGRZbGdyaVVDNkpadXRVUC14RGZSejg2VEdIaktHYThraDVZdXp5XzRmcTByeElBem05aDdwdTc2ZHdwZUdBNWw2amZfU25tWkR0UVpjRGo2MTlMeVNJejdtVW4xSnVwVWhyNnZLZXVhc2Nvd3dWSDZRVXphb3pNajU0WGlkM0VRelM5NWZteGQwNXM4Tl8tbVBnR3BoQjItUQ?oc=5",
-          "date": "07/07 20:29",
-          "source": "Notebookcheck",
-          "type": "📰 行业资讯",
-          "summary": "Steam Machine 现在可以使用官方 Valve 驱动程序运行 Windows Notebookcheck",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Valve 可能已准备好透露 Steam 框架的价格和发布日期",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnFzSHVfbnpZbFBiWENXd0ttcWRJYmo4elBtaE5GSC1kWm1oYWRkMjhFc1JVc3JoZjFOUm9ueWpNbUJYYWhZWXNOYjB5Y3dJRzc5RjE4Tmp2Rl8xbXJfMkcwNGhRdFhNR0o2MlRBczdQaE5kXzBkb2FSVWUxLWNWYTNPQkNOTDVucUVNdUptVkw5MEpU?oc=5",
           "date": "07/05 17:59",
@@ -114,6 +103,17 @@
           "source": "Hackaday",
           "type": "📰 行业资讯",
           "summary": "为 Valve 的蒸汽机制作 DIY 电子墨水面板 Hackaday",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "惊喜：Valve的新款蒸汽机来了，但价格才是真正令人震惊的",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzlNQUlySFg2UXVYOS1fNVN1UTJITmFudmlVakJaNjJTX0hWblFrWXRuWWhvS080U0J0Q1dsTWE5bG9YMFNUM1JCd29DT3RNWEhpdUdqUnNqSFMtdE4zR09OV2RYeUxMQ2NxOC0welM1c0Y3VG53bThxbVF1SUZFd0ZaMFJKMEdjQlRwMDBfeTRrUmlEZFVMUUp1R0VxVWh0YklkSTU2NFBzZw?oc=5",
+          "date": "06/22 15:00",
+          "source": "GeekWire",
+          "type": "📰 行业资讯",
+          "summary": "惊喜：Valve的新款Steam Machine来了，但价格才是真正令人震惊的 GeekWire",
           "regions": [
             "🌍 全球"
           ]
@@ -193,17 +193,6 @@
       ],
       "items": [
         {
-          "title": "谷歌推出 Pixel 10A——它具有必备的设计功能",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU21VZ19Sa2t2TTEwNnlpYlRoN0ZfQU82Zl9YVmV6OTkxUjN3RjFRY3Z1dDRMR3BqZ0FNYjFOVXI5QmxoV1V6N0ZGT3FZSVRRQlhMQ1RwS3l3VTVKcjRFTVBlRk0zazZZMTZWOTJTTzROeDNibXdkMWxjM3ExMVJPVFFCOHF0cWt1TGpUTjl6ZThtUQ?oc=5",
-          "date": "02/18 16:00",
-          "source": "Forbes",
-          "type": "🚀 新品发布",
-          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "所有最佳 Prime Day 优惠：Pixel 10、Galaxy 装备、科技配件等等 [最后一天更新]",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00N3FQbi1Mc3VEQlM0czlhYXlOTnlHM0YzajM1emFNMEx5a3BWU0g4NmZEOWpMdy1seDAwWkJkVThoNTVpRnVQV2ZuUG5YV3kyTV94bTBvYUxtYjRJUHJlcWhleVZpaDVSVlh2MzVkQ1d4OEh1blh3?oc=5",
           "date": "06/26 15:00",
@@ -232,6 +221,17 @@
           "source": "WIRED",
           "type": "📋 评测推荐",
           "summary": "我已经尝试过所有的 Pixel 手机——以下是目前最值得购买的手机",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "谷歌推出 Pixel 10A——它具有必备的设计功能",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU21VZ19Sa2t2TTEwNnlpYlRoN0ZfQU82Zl9YVmV6OTkxUjN3RjFRY3Z1dDRMR3BqZ0FNYjFOVXI5QmxoV1V6N0ZGT3FZSVRRQlhMQ1RwS3l3VTVKcjRFTVBlRk0zazZZMTZWOTJTTzROeDNibXdkMWxjM3ExMVJPVFFCOHF0cWt1TGpUTjl6ZThtUQ?oc=5",
+          "date": "02/18 16:00",
+          "source": "Forbes",
+          "type": "🚀 新品发布",
+          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
           "regions": [
             "🌍 全球"
           ]
@@ -274,12 +274,12 @@
           ]
         },
         {
-          "title": "终极 Meta Quest 3 和 Quest 3S 配件套件：带来巅峰 VR 体验的 9 款圣杯产品",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3FySk96Y1pfNkdEMUV0OGllRTlNWFBrSXBYdWJFTXhDVVp3RUFwV3RnUERiZ1V5SHZkOHhGbGZYTzI4NzRuaW8wX0RJVXVieS0xaGJxZWw2Qk9GZUd5MjN5eVZFRUd5SmEzb1JmLWNSZ3pxYld1M25yTU5fenBJQUY3eVotUkNZcWtFTURmZGVkN1Y1Q2FNOXJ0Mnd1YXVRNUZTSDBfdWRqZGlEZW1SYWhwck5mUlljN25v?oc=5",
-          "date": "06/23 15:00",
+          "title": "2026 年最值得购买的 Meta Quest 3 和 3S 配件",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGg4ZnVGS2N3eGxSUS1yVFQ5cTZCQ0c3a1hXMmxEUmRDVE8ya0JORi1ocTl4d2hzd29EaklFcVFBdWhGN1dFZW5FT2NuMFN2cUpXcmQzMDNxWHUta2hPWXNnOS1fZFl3c0dRWldlc0ZmT3BxaGppYnl1VS1GU1RGM21LZC1uOEZuelFz?oc=5",
+          "date": "06/29 15:00",
           "source": "Android Central",
-          "type": "📰 行业资讯",
-          "summary": "终极 Meta Quest 3 和 Quest 3S 配件套件：实现巅峰 VR 体验的 9 款圣杯产品 Android Central",
+          "type": "📋 评测推荐",
+          "summary": "2026 年最值得购买的 Meta Quest 3 和 3S 配件 Android Central",
           "regions": [
             "🌍 全球"
           ]
@@ -324,10 +324,21 @@
         {
           "title": "适合随时随地玩游戏的最佳手持游戏电脑",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaERWQnlBS1VnNXZRNTQ3aGd6d2pVdk5aR2NiZUNBbjdjMHhVcnNQN1FjcVNlUWRWaTZ3bVpYM1ByVnBodW1aQWhQbGhuYXJCU01TWGRLWDdFRmlvUmplR2pn?oc=5",
-          "date": "07/01 03:07",
+          "date": "06/30 15:00",
           "source": "IGN",
           "type": "🎮 游戏动态",
           "summary": "适合随时随地玩游戏的最佳掌上游戏电脑 IGN",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "我们在 2026 年最好的手持游戏机上玩了 100 多个小时 - 以下是我们精选的物超所值的游戏机",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGcG5PbkdLRGFqcFFfaXZISUZrWlpQbVRoRDF4eGVDbUtDOEV0NlpRYkNoVjBTQ0JyaHRkblJtVGRHLTlaU29jU3BVZG9wbVdIa1hndlh6RmNMbDFSUHRVUWYzeXl2VThpcXdLWlppYkxDdw?oc=5",
+          "date": "06/23 15:00",
+          "source": "Tom's Guide",
+          "type": "🎮 游戏动态",
+          "summary": "我们在 2026 年最好的手持游戏机上玩了 100 多个小时 - 这是我们精选的物超所值的汤姆指南",
           "regions": [
             "🌍 全球"
           ]
@@ -339,17 +350,6 @@
           "source": "TechPowerUp",
           "type": "🚀 新品发布",
           "summary": "Ayaneo 于 6 月 26 日星期五推出 Pocket Micro 2 水平复古手持设备 TechPowerUp",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "我们在 2026 年最好的手持游戏机上玩了 100 多个小时 - 以下是我们精选的物超所值的游戏机",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGcG5PbkdLRGFqcFFfaXZISUZrWlpQbVRoRDF4eGVDbUtDOEV0NlpRYkNoVjBTQ0JyaHRkblJtVGRHLTlaU29jU3BVZG9wbVdIa1hndlh6RmNMbDFSUHRVUWYzeXl2VThpcXdLWlppYkxDdw?oc=5",
-          "date": "06/23 15:00",
-          "source": "Tom's Guide",
-          "type": "🎮 游戏动态",
-          "summary": "我们在 2026 年最好的掌上游戏机上玩了 100 多个小时 - 以下是我们精选的物超所值的汤姆指南",
           "regions": [
             "🌍 全球"
           ]
@@ -393,17 +393,6 @@
           ]
         },
         {
-          "title": "最佳无线 HDMI 流媒体发射器",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVGRmQTcxOURzczhXUTBNOFZOY2tBTGdjdEpfOFd5UzdMM2xEQUxCR3F1VWpNaWlPNmZ5c1VBdTBKcW96TEhyZ3hvem1oME52TDBtclRRSUJGd0gwekRmd3YtSDRyT1o2bnfSAW9BVV95cUxPSnQ1eUJ3OF9TMmhOZFg0MkVKTDluNmNzblhybnM2NlVsOVhuSUs5VjBGUEF6c2x6RGhnSVBqUzl1UUg5VU1TdU95OXk1VHp2Qzc4UnJCSkVZdEViVjFCcGsta3hWbGtCZ2RIRmV3UU0?oc=5",
-          "date": "04/03 15:00",
-          "source": "Gagadget.com",
-          "type": "📋 评测推荐",
-          "summary": "最佳无线 HDMI 流媒体发射器 Gagadget.com",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "印度坞站市场规模、份额和 2034 年展望",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1XzJCMUQ4b2dEbURkcWxUdlZGQVJyVEZYbkUwOWc3SUZlOGFVM1ZucFJIc3pWMWxuVldVU0dsRzB0V1Y3TjNSMndpR19BeWw3elZFLTVIS21iTlU4Qlc2RVV3Vl9kdw?oc=5",
           "date": "03/27 05:08",
@@ -412,6 +401,17 @@
           "summary": "印度坞站市场规模、份额和 2034 年展望 IMARC Group",
           "regions": [
             "🇮🇳 印度"
+          ]
+        },
+        {
+          "title": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1J1X2xzWnNEUmpJbm5mOTFMc1hQbGVlSmZGcXFsSjR5Q2N2R1lxWnp1RFRXMEpKSVFnVm53dnRHTkwxRTBpLUZTaU5QWjFUeXA4ZzY4NFA1LTRoODJQeWNnTFU0VEVMc3J1Tzlra1RHbnFJUU1FZ1gyaXB1VGxzYm9IN01lbmJ0Z1pfVTRaRXlYR1Bz?oc=5",
+          "date": "06/29 23:50",
+          "source": "openPR.com",
+          "type": "📊 市场动态",
+          "summary": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位 openPR.com",
+          "regions": [
+            "🌍 全球"
           ]
         }
       ]
