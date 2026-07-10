@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09 12:45",
+  "updated": "2026-07-10 12:44",
   "brand": "JSAUX",
   "sections": [
     {
@@ -19,9 +19,9 @@
           "title": "有关即将对某些任天堂产品进行电池相关修订的信息",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc1dnYm9yNzhfSXdqTGpZbC0xd1VmWDN1eTJ0cFhUMFdrdERJWTBIcU01MUZ2VVd3NUUteW8yb2UxeFJ0UVdOWlZnNnlSZlZiYWJYYUp4bTZ5WVdnRTJpcjdaZFMwdjN2RnFWdWo4ZWVkME5lejhjeEtSWm1jcmtrTHJUWG1aOVJIMUxMZTFBREJrSzVGOVN2Q1E4cFBiTUgydmRETFlPUG05R1plOGpMZEMzZUdyUzJCNmhEWEpfSFJrdmZDdkNMOHQ0cC0zbHpuVGU1cUdZTEMwLUdmR2kzREdB?oc=5",
           "date": "07/06 21:08",
-          "source": "Nintendo",
+          "source": "nintendo.com",
           "type": "📰 行业资讯",
-          "summary": "有关即将对某些任天堂产品进行电池相关修订的信息 Nintendo",
+          "summary": "有关即将对某些任天堂产品进行电池相关修订的信息 nintendo.com",
           "regions": [
             "🌍 全球"
           ]
@@ -40,7 +40,7 @@
         {
           "title": "2026 年及以后即将推出的 Switch 2 游戏",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13d0JvWWNlMm9OZ1EyaFlFUE1uRFJiNVVnam0xTlpvQU5UdFpQTXBUMTJBMzNHMGFNbmJiRXJYS0FrRmYxZjZNdlNBQlVON2JsWG9uaFJFYjFmQWd3d3hPZg?oc=5",
-          "date": "07/01 21:58",
+          "date": "07/01 15:00",
           "source": "GamesRadar+",
           "type": "🎮 游戏动态",
           "summary": "2026 年及以后即将推出的 Switch 2 游戏 GamesRadar+",
@@ -86,23 +86,12 @@
           ]
         },
         {
-          "title": "Valve 可能已准备好透露 Steam 框架的价格和发布日期",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnFzSHVfbnpZbFBiWENXd0ttcWRJYmo4elBtaE5GSC1kWm1oYWRkMjhFc1JVc3JoZjFOUm9ueWpNbUJYYWhZWXNOYjB5Y3dJRzc5RjE4Tmp2Rl8xbXJfMkcwNGhRdFhNR0o2MlRBczdQaE5kXzBkb2FSVWUxLWNWYTNPQkNOTDVucUVNdUptVkw5MEpU?oc=5",
-          "date": "07/05 17:59",
-          "source": "MIXED Reality News",
-          "type": "🚀 新品发布",
-          "summary": "Valve 可能已准备好透露 Steam 框架的价格和发布日期 混合现实新闻",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "为 Valve 的蒸汽机制作 DIY 电子墨水面板",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTBENVVJWG1neGZKWm41R1g2TldkOG50SHFuY0xUa041MXljU2VvWXVTZlN2MGN3VWNiM2ZIbXFQQmRXS3FXNm12TDBBcXFHdTdsckp6STRqTnBhRl9mWU85cmtRQUU0eVNFcFRmcmh0U0Vscm12Y0FsUXk3Skl1T0R4M3lzRHRQMkZ6Vg?oc=5",
-          "date": "07/05 13:00",
-          "source": "Hackaday",
+          "title": "Valve 免费赠送 SteamOS，为何还要购买价值 1000 美元的 Steam 机器？",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ01xN3o4TFBOeHNBU1hzLW9NSXdqa1NwWnBHLTBJZWd0cHJxTEtuTDNHc21VcHhzcFA1U2hpMTBzU2VEZnVYaVNIMzRkNFdUckZ6TEI3Y3RyLWpOQUlyaE9SVVl6bUg4Q3lGUXFOSVhrTVZuaVEyczNvcW1OenNkT2FuMUNORzBhQmVHUGQ5OExuQVZOeE0xX1RlUXdlT3hjcXc?oc=5",
+          "date": "07/08 15:00",
+          "source": "PCMag",
           "type": "📰 行业资讯",
-          "summary": "为 Valve 的蒸汽机制作 DIY 电子墨水面板 Hackaday",
+          "summary": "Valve 免费赠送 SteamOS，为何还要购买价值 1000 美元的 Steam 机器？ PCMag",
           "regions": [
             "🌍 全球"
           ]
@@ -114,6 +103,17 @@
           "source": "GeekWire",
           "type": "📰 行业资讯",
           "summary": "惊喜：Valve的新款Steam Machine来了，但价格才是真正令人震惊的 GeekWire",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Valve 可能已准备好透露 Steam 框架的价格和发布日期",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnFzSHVfbnpZbFBiWENXd0ttcWRJYmo4elBtaE5GSC1kWm1oYWRkMjhFc1JVc3JoZjFOUm9ueWpNbUJYYWhZWXNOYjB5Y3dJRzc5RjE4Tmp2Rl8xbXJfMkcwNGhRdFhNR0o2MlRBczdQaE5kXzBkb2FSVWUxLWNWYTNPQkNOTDVucUVNdUptVkw5MEpU?oc=5",
+          "date": "07/05 17:59",
+          "source": "MIXED Reality News",
+          "type": "🚀 新品发布",
+          "summary": "Valve 可能已准备好透露 Steam 框架的价格和发布日期 混合现实新闻",
           "regions": [
             "🌍 全球"
           ]
@@ -204,12 +204,12 @@
           ]
         },
         {
-          "title": "2026 年即将推出的最佳手机：寻找您的下一款手机",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BNWRDWjZMcXdpZTB0dEhiMV9qendGb3B0MnJnbW10T0V6UHpCcmJzSGdpZUlGZ0tPTXFxZS1DUjM2SDhnYjJIeGRsSi1oUHMyZnR4SVB2enJFWnhVVjZEUVJ5UXc3UlZQaHliaWd3RVk?oc=5",
-          "date": "06/23 15:00",
-          "source": "stuff.tv",
-          "type": "📋 评测推荐",
-          "summary": "2026 年即将推出的最佳手机：找到您的下一款手机 stuff.tv",
+          "title": "谷歌推出 Pixel 10A——它具有必备的设计功能",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU21VZ19Sa2t2TTEwNnlpYlRoN0ZfQU82Zl9YVmV6OTkxUjN3RjFRY3Z1dDRMR3BqZ0FNYjFOVXI5QmxoV1V6N0ZGT3FZSVRRQlhMQ1RwS3l3VTVKcjRFTVBlRk0zazZZMTZWOTJTTzROeDNibXdkMWxjM3ExMVJPVFFCOHF0cWt1TGpUTjl6ZThtUQ?oc=5",
+          "date": "02/18 16:00",
+          "source": "Forbes",
+          "type": "🚀 新品发布",
+          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
           "regions": [
             "🌍 全球"
           ]
@@ -226,12 +226,12 @@
           ]
         },
         {
-          "title": "谷歌推出 Pixel 10A——它具有必备的设计功能",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU21VZ19Sa2t2TTEwNnlpYlRoN0ZfQU82Zl9YVmV6OTkxUjN3RjFRY3Z1dDRMR3BqZ0FNYjFOVXI5QmxoV1V6N0ZGT3FZSVRRQlhMQ1RwS3l3VTVKcjRFTVBlRk0zazZZMTZWOTJTTzROeDNibXdkMWxjM3ExMVJPVFFCOHF0cWt1TGpUTjl6ZThtUQ?oc=5",
+          "title": "亚马逊推出全新 Google Pixel 10a 保护壳促销活动，Prime 运费 24 美元",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3NncTN6dFdENl9zaUJpQkRreGhGSC0yUFdNRDJLZ3IxWmVfR2RzNUFXZFJpRC1uSjlaWEJ3Qk5uRXpYM3ljWlRhdXFpMXhtWFV2VFRBV3pvMWhKOW1HUFVCT1BoU0lPWTc0R1o3QU0wemt6QmhBX1R6YW1nUGNKR01BTmtDdw?oc=5",
           "date": "02/18 16:00",
-          "source": "Forbes",
+          "source": "9to5Toys",
           "type": "🚀 新品发布",
-          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
+          "summary": "亚马逊推出全新 Google Pixel 10a 保护壳促销活动，Prime 发货价格为 24 美元 9to5Toys",
           "regions": [
             "🌍 全球"
           ]
@@ -287,7 +287,7 @@
         {
           "title": "Meta Quest 的玩法：2026 年 6 月回顾",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KR19lbEtQZUtVek5MTnpQQlVhTEVPSjQ0WjgtSmdiTGhqZE5jUGNZbmE1TG1Kb2J4a2Fvc29JdnB3OURGMFJvc0pSUkpVYkdLMXhNRzZIOUFDU2tBUGpyRXVNa3JOeUNmTnY0SUhXS0g4SjVLMFc4bg?oc=5",
-          "date": "07/01 04:43",
+          "date": "06/30 15:00",
           "source": "Meta Store",
           "type": "📰 行业资讯",
           "summary": "Meta Quest 的玩法：2026 年 6 月 Meta Store 回顾",
@@ -338,7 +338,7 @@
           "date": "06/23 15:00",
           "source": "Tom's Guide",
           "type": "🎮 游戏动态",
-          "summary": "我们在 2026 年最好的手持游戏机上玩了 100 多个小时 - 这是我们精选的物超所值的汤姆指南",
+          "summary": "我们在 2026 年最好的手持游戏机上玩了 100 多个小时 - 以下是我们精选的物超所值的汤姆指南",
           "regions": [
             "🌍 全球"
           ]
@@ -382,6 +382,17 @@
           ]
         },
         {
+          "title": "最佳无线 HDMI 流媒体发射器",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVGRmQTcxOURzczhXUTBNOFZOY2tBTGdjdEpfOFd5UzdMM2xEQUxCR3F1VWpNaWlPNmZ5c1VBdTBKcW96TEhyZ3hvem1oME52TDBtclRRSUJGd0gwekRmd3YtSDRyT1o2bnfSAW9BVV95cUxPSnQ1eUJ3OF9TMmhOZFg0MkVKTDluNmNzblhybnM2NlVsOVhuSUs5VjBGUEF6c2x6RGhnSVBqUzl1UUg5VU1TdU95OXk1VHp2Qzc4UnJCSkVZdEViVjFCcGsta3hWbGtCZ2RIRmV3UU0?oc=5",
+          "date": "04/03 15:00",
+          "source": "Gagadget.com",
+          "type": "📋 评测推荐",
+          "summary": "最佳无线 HDMI 流媒体发射器 Gagadget.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "2026 年智能设备：五款真正让生活更轻松的设备",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZlFBOGhncVhMQXZwUERwWlpnU0FtQnRpVXRzcHlneEFXdC1zdWxTSEtMQ1NIbi01RXNaYVBrQjdPMldJWHJsaFdpTno?oc=5",
           "date": "06/30 01:20",
@@ -401,17 +412,6 @@
           "summary": "印度坞站市场规模、份额和 2034 年展望 IMARC Group",
           "regions": [
             "🇮🇳 印度"
-          ]
-        },
-        {
-          "title": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1J1X2xzWnNEUmpJbm5mOTFMc1hQbGVlSmZGcXFsSjR5Q2N2R1lxWnp1RFRXMEpKSVFnVm53dnRHTkwxRTBpLUZTaU5QWjFUeXA4ZzY4NFA1LTRoODJQeWNnTFU0VEVMc3J1Tzlra1RHbnFJUU1FZ1gyaXB1VGxzYm9IN01lbmJ0Z1pfVTRaRXlYR1Bz?oc=5",
-          "date": "06/29 23:50",
-          "source": "openPR.com",
-          "type": "📊 市场动态",
-          "summary": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位 openPR.com",
-          "regions": [
-            "🌍 全球"
           ]
         }
       ]
