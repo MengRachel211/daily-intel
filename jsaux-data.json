@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 12:08",
+  "updated": "2026-07-12 12:21",
   "brand": "JSAUX",
   "sections": [
     {
@@ -49,12 +49,12 @@
           ]
         },
         {
-          "title": "2026 年及以后即将推出的 Switch 2 游戏",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13d0JvWWNlMm9OZ1EyaFlFUE1uRFJiNVVnam0xTlpvQU5UdFpQTXBUMTJBMzNHMGFNbmJiRXJYS0FrRmYxZjZNdlNBQlVON2JsWG9uaFJFYjFmQWd3d3hPZg?oc=5",
-          "date": "07/01 15:00",
-          "source": "GamesRadar+",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年及以后即将推出的 Switch 2 游戏 GamesRadar+",
+          "title": "Splatoon Raiders Nintendo Switch 2 配件现已上市！小袋和卡包将于 7 月 23 日推出",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWF8zZ3E0NC1qRjlpUnhpTU4zcUFNMk1jSGlzRFZDNjg0WFUyQU52bG00NDZkN2ZVa2xKUnJmMXJGa3dsQTZSRlg3dGdyN05hRU00NzNSTmprZmJvT1k2Wmc1TVVaSlBZSFlacEc1VzlaQVE4RGxBZm1IMko1YVhid9IBhgFBVV95cUxOS0VoZUpEcm5MRUdtejJLZVpyemFPVHVYTmt4ZXpjV2tLVWZzM0RiZVg1T3JPYmxPVWFPZktYSEwtblFmQWJxc2U4UHFZR3VSR25zY2U0RTVtMjhaWmkzTTktWEY4RjVNeDlKNWFINGg0X0NQYUxLY2VIaXdWdmdBblRZSGYwZw?oc=5",
+          "date": "06/13 15:00",
+          "source": "Saiga NAK",
+          "type": "🚀 新品发布",
+          "summary": "Splatoon Raiders Nintendo Switch 2 配件现已上市！小袋和卡包将于 7 月 23 日推出 Saiga NAK",
           "regions": [
             "🌍 全球"
           ]
@@ -75,12 +75,23 @@
       ],
       "items": [
         {
-          "title": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9uS19HeURrcXBVUkhWeUY3S0hwLXhua1lwM1RTcDlKMkUxV25jYlIxUFV0aWstbU1pbTF4aGp1aw?oc=5",
-          "date": "07/05 14:49",
-          "source": "vr.org",
-          "type": "🚀 新品发布",
-          "summary": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切 vr.org",
+          "title": "阀门蒸汽机评论：这在五年前就很完美了",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sa1RvTWFOREdDMEVGaGYxQ0V4RXpVdTg0SGxIOUtWX2ZXLWcwNTJiMDQ4RmJwdGhZQTdFeHdBc2IwQjBzU1VjcF92RHk5eUE2dll1eXlzMHBmeFJSd3lVbWw5cVZlU0VPSzdrVQ?oc=5",
+          "date": "07/09 03:00",
+          "source": "Engadget",
+          "type": "📋 评测推荐",
+          "summary": "Valve 蒸汽机评论：这在五年前就很完美了",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Valve 的新 Steam 机器验证系统对这些 Steam Deck-busters 保持沉默",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTNmd1dyV3ZBS05wZEtUQ3NkSGsxLUNYMTdvaHR6bnJsQS1YVmNFeTNOa18xT19JZE1nS3pYUXoyZ1BfS2RHdGJJLWhBQ0prNzVNYk9RNlcyM1VqT3FiaXd1WEdsUy05RlFXWUtoal81ajM2b3RJbUhpYm53UlRqYjFWYWFSR2RybEFBY0d0NU1MS3p2b1NDTWJkdVNFUG16VzlqYmpnd01uUlFCZ3gxUQ?oc=5",
+          "date": "07/11 00:53",
+          "source": "Ars Technica",
+          "type": "📰 行业资讯",
+          "summary": "Valve 的新 Steam 机器验证系统对这些 Steam Deck 破坏者保持沉默 Ars Technica",
           "regions": [
             "🌍 全球"
           ]
@@ -97,23 +108,12 @@
           ]
         },
         {
-          "title": "惊喜：Valve的新款蒸汽机来了，但价格才是真正令人震惊的",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzlNQUlySFg2UXVYOS1fNVN1UTJITmFudmlVakJaNjJTX0hWblFrWXRuWWhvS080U0J0Q1dsTWE5bG9YMFNUM1JCd29DT3RNWEhpdUdqUnNqSFMtdE4zR09OV2RYeUxMQ2NxOC0welM1c0Y3VG53bThxbVF1SUZFd0ZaMFJKMEdjQlRwMDBfeTRrUmlEZFVMUUp1R0VxVWh0YklkSTU2NFBzZw?oc=5",
-          "date": "06/22 15:00",
-          "source": "GeekWire",
-          "type": "📰 行业资讯",
-          "summary": "惊喜：Valve的新款Steam Machine来了，但价格才是真正令人震惊的 GeekWire",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Valve 可能已准备好透露 Steam 框架的价格和发布日期",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnFzSHVfbnpZbFBiWENXd0ttcWRJYmo4elBtaE5GSC1kWm1oYWRkMjhFc1JVc3JoZjFOUm9ueWpNbUJYYWhZWXNOYjB5Y3dJRzc5RjE4Tmp2Rl8xbXJfMkcwNGhRdFhNR0o2MlRBczdQaE5kXzBkb2FSVWUxLWNWYTNPQkNOTDVucUVNdUptVkw5MEpU?oc=5",
-          "date": "07/05 17:59",
-          "source": "MIXED Reality News",
+          "title": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9uS19HeURrcXBVUkhWeUY3S0hwLXhua1lwM1RTcDlKMkUxV25jYlIxUFV0aWstbU1pbTF4aGp1aw?oc=5",
+          "date": "07/05 14:49",
+          "source": "vr.org",
           "type": "🚀 新品发布",
-          "summary": "Valve 可能已准备好透露 Steam 框架的价格和发布日期 混合现实新闻",
+          "summary": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切 vr.org",
           "regions": [
             "🌍 全球"
           ]
@@ -226,12 +226,12 @@
           ]
         },
         {
-          "title": "亚马逊推出全新 Google Pixel 10a 保护壳促销活动，Prime 运费 24 美元",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3NncTN6dFdENl9zaUJpQkRreGhGSC0yUFdNRDJLZ3IxWmVfR2RzNUFXZFJpRC1uSjlaWEJ3Qk5uRXpYM3ljWlRhdXFpMXhtWFV2VFRBV3pvMWhKOW1HUFVCT1BoU0lPWTc0R1o3QU0wemt6QmhBX1R6YW1nUGNKR01BTmtDdw?oc=5",
-          "date": "02/18 16:00",
-          "source": "9to5Toys",
-          "type": "🚀 新品发布",
-          "summary": "亚马逊推出全新 Google Pixel 10a 保护壳促销活动，Prime 发货价格为 24 美元 9to5Toys",
+          "title": "2026 年即将推出的最佳手机：寻找您的下一款手机",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BNWRDWjZMcXdpZTB0dEhiMV9qendGb3B0MnJnbW10T0V6UHpCcmJzSGdpZUlGZ0tPTXFxZS1DUjM2SDhnYjJIeGRsSi1oUHMyZnR4SVB2enJFWnhVVjZEUVJ5UXc3UlZQaHliaWd3RVk?oc=5",
+          "date": "06/23 15:00",
+          "source": "stuff.tv",
+          "type": "📋 评测推荐",
+          "summary": "2026 年即将推出的最佳手机：找到您的下一款手机 stuff.tv",
           "regions": [
             "🌍 全球"
           ]
@@ -252,17 +252,6 @@
       ],
       "items": [
         {
-          "title": "2026 年 6 月“VR 游戏展示”回顾：每个 Meta Quest VR 游戏公告",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFpzVGxBSHJadk5HUXV5MzlGM3lDQjY3SFRBamY1eDNaNmxnVG1MQnp6U2lNTjBveElVcFdfXzB1X1RXOVJfbm1SZjdCOTNnMHVWU1NkaWdSWUVFQU5uY21jQkk5bUZHWFFlR0I4b2lhQ3VDOFIzVXdsM015bV9veUs5SHktNWNTcWVIYXhDM2JWZ0hfVzU2MGpaOWpOSnM?oc=5",
-          "date": "06/23 15:00",
-          "source": "Meta Store",
-          "type": "🚀 新品发布",
-          "summary": "“VR 游戏展示”2026 年 6 月回顾：每个 Meta Quest VR 游戏公告 Meta Store",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "我们测试过的 2026 年最佳 VR 耳机",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUUliX3VRUWxkdEZ0TkNLbm53RV83R2lUdkpWRUFKbFFpb3lpYjQ5dEJaTWJXY3dsRkNjV2tPeGo4SGNoeWZ0UFh0azZuOG90SzVaNUVvdDByZXd5?oc=5",
           "date": "07/08 15:00",
@@ -274,12 +263,23 @@
           ]
         },
         {
-          "title": "VR 发布日期 2026 年：所有耳机、游戏和配件均已问世",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQZ0xCelplVmJaNHp4Vk5tTjdPS3VLTHlwLVZYaHh0SHJCNG1GWEF4V0FhNURCMHFkZlg0QmkxeDNPei1pMXc?oc=5",
-          "date": "07/05 06:52",
+          "title": "Meta Quest 的玩法：2026 年 6 月回顾",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KR19lbEtQZUtVek5MTnpQQlVhTEVPSjQ0WjgtSmdiTGhqZE5jUGNZbmE1TG1Kb2J4a2Fvc29JdnB3OURGMFJvc0pSUkpVYkdLMXhNRzZIOUFDU2tBUGpyRXVNa3JOeUNmTnY0SUhXS0g4SjVLMFc4bg?oc=5",
+          "date": "06/30 15:00",
+          "source": "Meta Store",
+          "type": "📰 行业资讯",
+          "summary": "Meta Quest 的玩法：2026 年 6 月 Meta Store 回顾",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年即将推出的 VR 耳机：新品发布及下一步计划",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UYWdvRDRiLUVScXVrdTZ0V21yRzJFVS0wRWdYd3Q1QmJPbXlTTEc1Y0dhU1BRTFNLQ1lEZWtpYlozbXBPX2ItUXpCb2hFQlVCOEE?oc=5",
+          "date": "06/20 15:00",
           "source": "vr.org",
           "type": "🚀 新品发布",
-          "summary": "VR 发布日期 2026 年：每款耳机、游戏和配件均即将问世 vr.org",
+          "summary": "2026 年即将推出的 VR 耳机：新版本以及下一步的计划 vr.org",
           "regions": [
             "🌍 全球"
           ]
@@ -311,6 +311,28 @@
       ],
       "items": [
         {
+          "title": "Ayaneo 公布了其受 Game Boy Advance 启发的掌上电脑的名称",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjFHZ0ZYNUFwQUVmRFlIblNXdHJWekZXREY3WGgzRHp3ZGZ0OEJuTE5CQlhla1VQWVYxalJ1ekRaLXBsQ3hTdWxxZENXNDRvejNPcU41VWNSb0d2Qk5VRjZfTUtIeUV5Q0JOeC1pZDdid0x4MV9iOVlWNm4tWkVYNTBpMGpfOXc2LV9kUGhqOHdTSUdseElhcmRJbE1TcjJuUjZUby03MGlLNmZlMDVr?oc=5",
+          "date": "07/09 22:42",
+          "source": "Notebookcheck",
+          "type": "🚀 新品发布",
+          "summary": "Ayaneo 公布了其受 Game Boy Advance 启发的手持式 Notebookcheck 的名称",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "新一批Ayaneo Pocket Micro 2便携游戏机再次瞬间售空",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRTgtcGJqelltQkRfd3FlZVJRQkE4TjB2N2I4QkVjdTZZek8wc09FT25oMmVCM1JaZlphOWJob21uS1Y5UVZETkIxOE4wdl9TRXA5S3BmVmlPdzJaeUZwaklXeGFCX0EtNm5BT2dJWGVMTjMxRXh2RUZ5U01vWWVCSC1NbzBvTU5KeGQ1TjZERFRFbzZMWnVJSnJJc2RQaVIwNU91RjExVlJtcEhKcUlKRGJ0ZHZhdVJhTVNUakQ1bk5yUdIBxwFBVV95cUxQTXBmMFJ6V0Z5NjdEVGFfeUs4eEk0TXl4Nk1YSjgySkgzcGN0aFB1bVFCbXowbEZMMjFreUI2Q1pwT0pPb1FqdTFxei1kTVUwWkozWHZIcF9PT192WmMxWUxnQUY3LXlISVotVXRNOXVvY05ydHNzMjVMLVloWncyV3FFX2RiNEszRm9kN0h0U28tcFhwcU9IOFBXRGgtcG4weUZ4c1VQamFTT2Nael9WNEcxelJTY29yNWNyOHIyQ2ZHbktRR3pB?oc=5",
+          "date": "07/11 13:24",
+          "source": "ixbt.games",
+          "type": "🎮 游戏动态",
+          "summary": "新一批Ayaneo Pocket Micro 2便携游戏机再次瞬间售空 ixbt.games",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "适合随时随地玩游戏的最佳手持游戏电脑",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaERWQnlBS1VnNXZRNTQ3aGd6d2pVdk5aR2NiZUNBbjdjMHhVcnNQN1FjcVNlUWRWaTZ3bVpYM1ByVnBodW1aQWhQbGhuYXJCU01TWGRLWDdFRmlvUmplR2pn?oc=5",
           "date": "06/30 15:00",
@@ -328,28 +350,6 @@
           "source": "Tom's Guide",
           "type": "🎮 游戏动态",
           "summary": "我们在 2026 年最好的手持游戏机上玩了 100 多个小时 - 以下是我们精选的物超所值的汤姆指南",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Ayaneo 预告两款新游戏手持设备将在全球发布",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1Z4S3hUY2FPclVDMWhoX19JdnlPNWVIUmFCaEFscVIwa2ZYMzNBa0tNV1hxQlFJbkNyUk1ucjVHaDJyaXNQMHJyWFRJZ182VUZoaHg3MGx2Unl1eWk0NWpvdi1YWXJ3b0ItUU5oSWsyT05TQVRDQzFEUEI3S3RSLUJNOGgtOVFUazRQSEtVYkptbFVXV1hvN0E3cXA5N0VrbFZweVF1SDFXOGh3WkNpLVRKOA?oc=5",
-          "date": "07/04 09:03",
-          "source": "Notebookcheck",
-          "type": "🚀 新品发布",
-          "summary": "Ayaneo 预告两款新游戏掌上电脑，并在全球范围内发布 Notebookcheck",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlSYVdTRllZdnhUYVA5NTRKRlZPT0JOWVQtQjcwTTVXMmpwTDhYazNqSDFub0xxa3dMZThBY1FHb3Q4eWJjU3NGbjFueGlvS3ltN1Z5NWVBWUxDcFBLb2ZMbGR2SkRSVmhqUTkycUg0UWdKbXFOWG9WbWJoQW1saDZwWlZpVWJHd2pKV2dUMmxwZnhVSWRrT3hGM2tUVjh5STdpU29BUDY0R0VmVkp5TENxMA?oc=5",
-          "date": "02/07 16:00",
-          "source": "VICE",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年您应该购买哪种游戏掌机？ （价格、功率和电池比较）VICE",
           "regions": [
             "🌍 全球"
           ]
@@ -382,36 +382,14 @@
           ]
         },
         {
-          "title": "最佳无线 HDMI 流媒体发射器",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVGRmQTcxOURzczhXUTBNOFZOY2tBTGdjdEpfOFd5UzdMM2xEQUxCR3F1VWpNaWlPNmZ5c1VBdTBKcW96TEhyZ3hvem1oME52TDBtclRRSUJGd0gwekRmd3YtSDRyT1o2bnfSAW9BVV95cUxPSnQ1eUJ3OF9TMmhOZFg0MkVKTDluNmNzblhybnM2NlVsOVhuSUs5VjBGUEF6c2x6RGhnSVBqUzl1UUg5VU1TdU95OXk1VHp2Qzc4UnJCSkVZdEViVjFCcGsta3hWbGtCZ2RIRmV3UU0?oc=5",
-          "date": "04/03 15:00",
-          "source": "Gagadget.com",
-          "type": "📋 评测推荐",
-          "summary": "最佳无线 HDMI 流媒体发射器 Gagadget.com",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "2026 年智能设备：五款真正让生活更轻松的设备",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZlFBOGhncVhMQXZwUERwWlpnU0FtQnRpVXRzcHlneEFXdC1zdWxTSEtMQ1NIbi01RXNaYVBrQjdPMldJWHJsaFdpTno?oc=5",
-          "date": "06/30 01:20",
-          "source": "NEWS.am TECH",
-          "type": "📰 行业资讯",
-          "summary": "2026 年智能设备：五种真正让生活更轻松的设备 NEWS.am TECH",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "印度坞站市场规模、份额和 2034 年展望",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1XzJCMUQ4b2dEbURkcWxUdlZGQVJyVEZYbkUwOWc3SUZlOGFVM1ZucFJIc3pWMWxuVldVU0dsRzB0V1Y3TjNSMndpR19BeWw3elZFLTVIS21iTlU4Qlc2RVV3Vl9kdw?oc=5",
-          "date": "03/27 05:08",
-          "source": "IMARC Group",
+          "title": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1J1X2xzWnNEUmpJbm5mOTFMc1hQbGVlSmZGcXFsSjR5Q2N2R1lxWnp1RFRXMEpKSVFnVm53dnRHTkwxRTBpLUZTaU5QWjFUeXA4ZzY4NFA1LTRoODJQeWNnTFU0VEVMc3J1Tzlra1RHbnFJUU1FZ1gyaXB1VGxzYm9IN01lbmJ0Z1pfVTRaRXlYR1Bz?oc=5",
+          "date": "06/29 23:50",
+          "source": "openPR.com",
           "type": "📊 市场动态",
-          "summary": "印度坞站市场规模、份额和 2034 年展望 IMARC Group",
+          "summary": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位 openPR.com",
           "regions": [
-            "🇮🇳 印度"
+            "🌍 全球"
           ]
         }
       ]
