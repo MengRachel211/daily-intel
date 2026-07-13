@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 12:22",
+  "updated": "2026-07-13 12:27",
   "brand": "Aecooly",
   "sections": [
     {
@@ -75,6 +75,17 @@
       ],
       "items": [
         {
+          "title": "我测试了亚马逊上 20 英镑以下的最佳粉丝——它们是抵御炎热的天才方式",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0UHJYX1NMeVdKRXZwRkhmQmhNUG1tWmViSWtMczBURWh6LVRLay03Z3FMamRERXRvQ0FObnBJUjE0d2E4M0IySTU0U08yc1hlbmpxMnk1MFgzVU94Q0VRaGRNQ0k3SWVYeEE?oc=5",
+          "date": "07/09 19:04",
+          "source": "Woman & Home",
+          "type": "📋 评测推荐",
+          "summary": "我测试了亚马逊上 20 英镑以下的最佳粉丝——它们是战胜炎热的天才方式 Woman & Home",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "经专家测试的 9 款最佳手持风扇，让您在旅途中保持凉爽",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEY4SGYxNUpSYnNiOFVpUk9wVVJCVkRXWWUxWndGd1JLVUVfLVVBdkp6cGZwX3ZMRTZJNE5DS1NMaEM1Nm9PSFhGaDJrb3BRWEZoU0Rrak9EOUFtdEVJZDBSRV9sR2ZKcmlVY3BqWEJ4VlZsRTQwUWVtQ3BqVm5LcEFXYjdvd0xtSmVwb3hDdTgwWC1TZ3ZpdnFR?oc=5",
           "date": "07/01 15:00",
@@ -103,17 +114,6 @@
           "source": "WIRED",
           "type": "📰 行业资讯",
           "summary": "最终更换落满灰尘的旧风扇的案例连线",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "在出汗的夏季漫步时，这些是我们喜欢的颈扇",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBcGNMYW45aXRmaGRvRGF2WFUwcDJxcTZ6VS10a1pJcVhoYVhTb1JRZ1JwVUhua1pPSHRxZVh1M1BHMXZfTXI2RDlhYVhJY0VBdGlySWV0cnh5aGwwaVVjN1NDLXJ4ZFJVZGc?oc=5",
-          "date": "04/17 15:00",
-          "source": "The New York Times",
-          "type": "📰 行业资讯",
-          "summary": "在满头大汗的夏日漫步时，这些是我们喜爱的颈迷 纽约时报",
           "regions": [
             "🌍 全球"
           ]
@@ -159,17 +159,6 @@
           ]
         },
         {
-          "title": "韩国人不抗暑。他们给它配上配饰",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UREMyNmhrQnlvOW9jdmRYeTZEOFoxZlIwZkREUXFHZGpaUlBGT3p4R25hU2dDN1B1Yko5RktFT1U1ajduVl9BODhMWG1od21hZ1NpTmZHRdIBV0FVX3lxTE5UREMyNmhrQnlvOW9jdmRYeTZEOFoxZlIwZkREUXFHZGpaUlBGT3p4R25hU2dDN1B1Yko5RktFT1U1ajduVl9BODhMWG1od21hZ1NpTmZHRQ?oc=5",
-          "date": "07/09 17:02",
-          "source": "Aju Press",
-          "type": "📰 行业资讯",
-          "summary": "韩国人不抗暑。他们为它配饰 Aju Press",
-          "regions": [
-            "🇰🇷 韩国"
-          ]
-        },
-        {
           "title": "英国人今年将购买 800 万台迷你风扇，但几乎一半最终会被扔进垃圾填埋场",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1ZGSmZ6Mm5IdEJGaFB2WDBneGxMQXEyZ0phLWYxak5FY0p0dnJ3WVA2WmhBYnhuYmlyUV9COUU3RWExLURKZkdFRERyMUxwUEF6SkF1Vm90VTVYcmcwODFMTjYyWkp6ME0yZWE1RE53V04tcE5rMkt0S2VNeWFvb2RR?oc=5",
           "date": "07/08 15:24",
@@ -181,14 +170,25 @@
           ]
         },
         {
-          "title": "DIY Noctua 驱动的冷却帽在欧洲热浪中首次亮相",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQlZ2STdjYUVwbTctanZhOExGc2FFaDRsbGNkREJBMUZpQTZqM21RTlJ5VVNiLUZsZTFybnhDUE51d0JIeHBUN1k1TFNURjRuNGs1OUd3U0s3VWZrc3Z0UDdTWlNlUzBSZXFFTVJES2toYnpTYnVKYllVZEw5YTVHSlMwQlJFdXRpcjRGYVZOUFdaRzZOX1NqVlV6ZHA1cGdsaEkxU2hNNHd5alRNM2ZiNnptTEphZlFpZUNvOFBtR0FTd2RVdmV6XzNINWRDV2kzbExIdjBWVXZjVTRWdGVTUm9Kd0x0T2JyTTVNeHZwUzItZw?oc=5",
-          "date": "07/07 01:12",
-          "source": "MSN",
-          "type": "🚀 新品发布",
-          "summary": "DIY Noctua 驱动的冷却帽在欧洲热浪中首次亮相 MSN",
+          "title": "我们推荐 6 款最适合度过本周热浪的塔式风扇",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGdtYXFhaHcwY1ZDTHZsUUpmcGZFZ2xaNklkM3Zhd3NNMTh0WllYSGoyLUVKNzg2a2ZIZ21pU3JJQmlDVmJfWlZ5UFdvckIybmtOc2dPVGUzYzE4UUNMOXNZeHFQbFdZY2d0cmd2TzR6eThrdjVuOEt0Vk1Pd253b21R?oc=5",
+          "date": "07/01 15:00",
+          "source": "Forbes",
+          "type": "📋 评测推荐",
+          "summary": "《福布斯》杂志推荐的 6 名最适合度过本周热浪的塔式球迷",
           "regions": [
-            "🇪🇺 欧洲"
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "韩国人不抗暑。他们给它配上配饰",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NeHloaFpwSjRDaThPT3F1QjMwb015OU5HNUVHUDVrek5nYTVBcVFPZE5JSUN5SVBRZUZvR2dNTThDWUlqa25oQXUwTlp2VFY0Rm1iTHBJWUxvZVHSAVdBVV95cUxOVERDMjZoa0J5bzlvY3ZkWHk2RDhaMWZSMGZERFFxR2RqWlJQRk96eEduYVNnQzdQdWJKOUZLRU9VNWo3blZfQTg4TFhtaHdtYWdTaU5mR0U?oc=5",
+          "date": "07/09 17:02",
+          "source": "Aju Press",
+          "type": "📰 行业资讯",
+          "summary": "韩国人不抗暑。他们为它配饰 Aju Press",
+          "regions": [
+            "🇰🇷 韩国"
           ]
         }
       ]
