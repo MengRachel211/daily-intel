@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 12:32",
+  "updated": "2026-07-21 12:11",
   "brand": "JSAUX",
   "sections": [
     {
@@ -19,9 +19,31 @@
           "title": "有关即将对某些任天堂产品进行电池相关修订的信息",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc1dnYm9yNzhfSXdqTGpZbC0xd1VmWDN1eTJ0cFhUMFdrdERJWTBIcU01MUZ2VVd3NUUteW8yb2UxeFJ0UVdOWlZnNnlSZlZiYWJYYUp4bTZ5WVdnRTJpcjdaZFMwdjN2RnFWdWo4ZWVkME5lejhjeEtSWm1jcmtrTHJUWG1aOVJIMUxMZTFBREJrSzVGOVN2Q1E4cFBiTUgydmRETFlPUG05R1plOGpMZEMzZUdyUzJCNmhEWEpfSFJrdmZDdkNMOHQ0cC0zbHpuVGU1cUdZTEMwLUdmR2kzREdB?oc=5",
           "date": "07/06 21:08",
-          "source": "nintendo.com",
+          "source": "Nintendo",
           "type": "📰 行业资讯",
-          "summary": "有关即将对某些任天堂产品进行电池相关修订的信息 nintendo.com",
+          "summary": "有关即将对某些任天堂产品进行电池相关修订的信息 Nintendo",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 7 月和 8 月即将推出的 Nintendo Switch 2 游戏和配件",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmNhZXFucVhITHplNXFPSmtVTC1va3llUWJoUXI0bkJvcl9zaXl3M3c0VHE4OHJmd2tRNWhqRXJxMWotWW81VlFDbURXbHRrMFY3b0FCaEprUjFLSGo5NGc1dF9tX2dITXNITW9kVTdmOU5ySGdlRTZRQzFSN1VuM09vUktHMjJpSUlER0ItZk1SYUJNVHNHdE90QVlhekEzclhCOWo4bmc3RVBWd1E?oc=5",
+          "date": "07/01 15:00",
+          "source": "nintendolife.com",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年 7 月和 8 月即将推出的 Nintendo Switch 2 游戏和配件 nintendolife.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年及以后即将推出的 Switch 2 游戏",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13d0JvWWNlMm9OZ1EyaFlFUE1uRFJiNVVnam0xTlpvQU5UdFpQTXBUMTJBMzNHMGFNbmJiRXJYS0FrRmYxZjZNdlNBQlVON2JsWG9uaFJFYjFmQWd3d3hPZg?oc=5",
+          "date": "07/15 19:43",
+          "source": "GamesRadar+",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年及以后即将推出的 Switch 2 游戏 GamesRadar+",
           "regions": [
             "🌍 全球"
           ]
@@ -35,28 +57,6 @@
           "summary": "任天堂将于 2027 年在欧洲停售 Switch",
           "regions": [
             "🇪🇺 欧洲"
-          ]
-        },
-        {
-          "title": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXBPMExYM3VkQUx2R2RHWnZ5cVI5eGRMRWdrR0Z3RlUtRWROcXFRYWlOTlFwRFQ2OGVwWFVNdm9kQ2VUSGdyRlVqeTEtRVduUVNDenNMcEF4dGNPZHFnMU12dUNPMWxrakc3LVJYSmtXbDNxQXVzUXlLYktDVVNxNTU3R2l2a0pJYlJXMUhzSTM?oc=5",
-          "date": "07/10 15:00",
-          "source": "GamesRadar+",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意 GamesRadar+",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Splatoon Raiders Nintendo Switch 2 配件现已上市！小袋和卡包将于 7 月 23 日推出",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWF8zZ3E0NC1qRjlpUnhpTU4zcUFNMk1jSGlzRFZDNjg0WFUyQU52bG00NDZkN2ZVa2xKUnJmMXJGa3dsQTZSRlg3dGdyN05hRU00NzNSTmprZmJvT1k2Wmc1TVVaSlBZSFlacEc1VzlaQVE4RGxBZm1IMko1YVhid9IBhgFBVV95cUxOS0VoZUpEcm5MRUdtejJLZVpyemFPVHVYTmt4ZXpjV2tLVWZzM0RiZVg1T3JPYmxPVWFPZktYSEwtblFmQWJxc2U4UHFZR3VSR25zY2U0RTVtMjhaWmkzTTktWEY4RjVNeDlKNWFINGg0X0NQYUxLY2VIaXdWdmdBblRZSGYwZw?oc=5",
-          "date": "06/13 15:00",
-          "source": "Saiga NAK",
-          "type": "🚀 新品发布",
-          "summary": "Splatoon Raiders Nintendo Switch 2 配件现已上市！小袋和卡包将于 7 月 23 日推出 Saiga NAK",
-          "regions": [
-            "🌍 全球"
           ]
         }
       ]
@@ -86,12 +86,23 @@
           ]
         },
         {
-          "title": "被盗的高价蒸汽机被 Valve 取代，但运输政策松懈",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbngwcjI3blVRbWZBNDlZRzdtVXhrQktWMTctRXJSVDFMQW4td0xuNTRhTnh5cDh5cjJIaGZRSUVGM0pvcDVLX0pWZjhPa29qemhwM1h0MGphVnpzUk9aWUxZUnBvWlpBNllJSnJWd1k2aUVpZl9vb29oeXJXcFRkdTFDbmhVTUZldUVlSXFvNGJpN0U5d3NQSDJmTks5WXJ0aS1aRFpwRzFlanJJOFRlTlBZbmEtQktzbWJmWUNfRWw1VUdO?oc=5",
-          "date": "07/20 05:08",
-          "source": "Notebookcheck",
-          "type": "⚠️ 政策法规",
-          "summary": "被盗的高价蒸汽机被 Valve 取代，但宽松的运输政策归咎于 Notebookcheck",
+          "title": "Valve 加倍降低蒸汽机定价悲观情绪",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmF2a0dGZEpZX001V3Z5QVUzV1hqU3ZRdUhYUGhGc21lM2FiUHRhU0Z4ZlNsdWdmRkYwdDlyWVNTQUZoMl94M0lOU3lESkpQZ2l5R2dNUjU0cXc4LXBOT3VGdkpHYWJOTkdja0ZXTnFmbktuMzNNNXlaUzY3X2NTdnAyXzVPWUVuaTdTYVFPTko1d9IBlwFBVV95cUxOU0N6X3dZcWdlcXh6S1Q4ekFIeDlnTEUybUFkeDhxbE5kdG9zYjlJOEtVU2Z1bFl4cXY1azFDSlhoTVFvdDV0d3JiTDFFR0JBY3Q2enZseEN3MnlKeXlQaHVSMDRyMlppa05BLV9hVVJnZzJFMjdoS2N5Vkd1eW1HM2h2Y2NGMWdjUFFSYlM1TDZ5bTlKSm84?oc=5",
+          "date": "07/21 04:45",
+          "source": "TechPowerUp",
+          "type": "📰 行业资讯",
+          "summary": "Valve 加倍下调蒸汽机定价悲观情绪 TechPowerUp",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "蒸汽机评测正在进行中：这么小的盒子有这么多问题",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXJVaWdDdGFfTE8xWmw2MFBIRTVHWXdVbVZTUzh6eDlZUFVJajE2blQ5NDR6N3JMbURqMDZXdS00RzdRUkFjVjBXUXVPOVhHeDRwWW8xelBhZThKdDQzdVlXMEp6X1VXenNKd25CekhmaXVnZ25iazJhQWk5QjA3ZFplMVZ4cFk?oc=5",
+          "date": "07/08 15:00",
+          "source": "CNET",
+          "type": "📋 评测推荐",
+          "summary": "Steam 机器评测正在进行中：这么小的盒子有这么多问题 CNET",
           "regions": [
             "🌍 全球"
           ]
@@ -103,17 +114,6 @@
           "source": "Engadget",
           "type": "📋 评测推荐",
           "summary": "Valve 蒸汽机评论：这在五年前就很完美了",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "据报道 Valve 每周销售 12-15K 台蒸汽机",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFI3VVY1d3RvQXFjazBnTk5PQlJEMGtqZFc1aDdlbE14a05yZm1uQmI4OTNRcVdxV3BncGpSQ0U4S1JVdUZ3cDY1S01mUzdUdVZZRlg1NDludDliSkVnYjdING9VbUlFeDVnOENxbko0Rm9CRzctSFJ5SHN6OTlMQk9VZGtoSFFHeWhDYUZXUjU2cEV3ZlBQLdIBngFBVV95cUxQd1k0VTk3R1dOUTBzQThwdVJNLVZ0enRBWVFkb0JBQVZvTk0xODBFVjRNY1otWGpKdFNzSUpvU0xqNWdEb293bDlMOGIxcXluOXpxTzZGNklRQS12Rk9ZQW5OTFA3RVNfX2xOMElYTXVmQjBqdTFDUzNUQ1F5alFDVTNSb2h2WnRtcUlmdzIxZ1hDemRSS0dyZ3VMbXBtUQ?oc=5",
-          "date": "07/19 05:38",
-          "source": "TechPowerUp",
-          "type": "📊 市场动态",
-          "summary": "据报道 Valve 每周销售 12-15K 台蒸汽机 TechPowerUp",
           "regions": [
             "🌍 全球"
           ]
@@ -150,7 +150,7 @@
           "date": "12/03 16:00",
           "source": "New York Post",
           "type": "📢 促销活动",
-          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
+          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 种最热门的节日玩具",
           "regions": [
             "🌍 全球"
           ]
@@ -231,7 +231,7 @@
           "date": "02/18 16:00",
           "source": "Forbes",
           "type": "🚀 新品发布",
-          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
+          "summary": "谷歌推出 Pixel 10A——它配备了福布斯必备的设计功能",
           "regions": [
             "🌍 全球"
           ]
@@ -274,23 +274,23 @@
           ]
         },
         {
+          "title": "2026 年最好的 VR 耳机：所有最新设备的比较",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85SGZpSkYxclV4SlV4ZGNLSVBiREZoSTltYXVKRDE1Q1hUbzRqUV9IS0xPc2pOVUotRVBYNDh4MlFXX1puTFJLMG83bmV6TldoYjJWVWtrejFSQ28?oc=5",
+          "date": "07/17 22:59",
+          "source": "GamesRadar+",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年最佳 VR 耳机：所有最新设备对比 GamesRadar+",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "2026 年最值得购买的 Meta Quest 3 和 3S 配件",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGg4ZnVGS2N3eGxSUS1yVFQ5cTZCQ0c3a1hXMmxEUmRDVE8ya0JORi1ocTl4d2hzd29EaklFcVFBdWhGN1dFZW5FT2NuMFN2cUpXcmQzMDNxWHUta2hPWXNnOS1fZFl3c0dRWldlc0ZmT3BxaGppYnl1VS1GU1RGM21LZC1uOEZuelFz?oc=5",
           "date": "06/29 15:00",
           "source": "Android Central",
           "type": "📋 评测推荐",
           "summary": "2026 年最值得购买的 Meta Quest 3 和 3S 配件 Android Central",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "我们测试过的 2026 年最佳 VR 耳机",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUUliX3VRUWxkdEZ0TkNLbm53RV83R2lUdkpWRUFKbFFpb3lpYjQ5dEJaTWJXY3dsRkNjV2tPeGo4SGNoeWZ0UFh0azZuOG90SzVaNUVvdDByZXd5?oc=5",
-          "date": "07/08 15:00",
-          "source": "PCMag",
-          "type": "📋 评测推荐",
-          "summary": "我们测试过的 2026 年最佳 VR 耳机",
           "regions": [
             "🌍 全球"
           ]
