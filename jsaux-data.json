@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 12:11",
+  "updated": "2026-07-22 12:12",
   "brand": "JSAUX",
   "sections": [
     {
@@ -86,17 +86,6 @@
           ]
         },
         {
-          "title": "Valve 加倍降低蒸汽机定价悲观情绪",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmF2a0dGZEpZX001V3Z5QVUzV1hqU3ZRdUhYUGhGc21lM2FiUHRhU0Z4ZlNsdWdmRkYwdDlyWVNTQUZoMl94M0lOU3lESkpQZ2l5R2dNUjU0cXc4LXBOT3VGdkpHYWJOTkdja0ZXTnFmbktuMzNNNXlaUzY3X2NTdnAyXzVPWUVuaTdTYVFPTko1d9IBlwFBVV95cUxOU0N6X3dZcWdlcXh6S1Q4ekFIeDlnTEUybUFkeDhxbE5kdG9zYjlJOEtVU2Z1bFl4cXY1azFDSlhoTVFvdDV0d3JiTDFFR0JBY3Q2enZseEN3MnlKeXlQaHVSMDRyMlppa05BLV9hVVJnZzJFMjdoS2N5Vkd1eW1HM2h2Y2NGMWdjUFFSYlM1TDZ5bTlKSm84?oc=5",
-          "date": "07/21 04:45",
-          "source": "TechPowerUp",
-          "type": "📰 行业资讯",
-          "summary": "Valve 加倍下调蒸汽机定价悲观情绪 TechPowerUp",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "蒸汽机评测正在进行中：这么小的盒子有这么多问题",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXJVaWdDdGFfTE8xWmw2MFBIRTVHWXdVbVZTUzh6eDlZUFVJajE2blQ5NDR6N3JMbURqMDZXdS00RzdRUkFjVjBXUXVPOVhHeDRwWW8xelBhZThKdDQzdVlXMEp6X1VXenNKd25CekhmaXVnZ25iazJhQWk5QjA3ZFplMVZ4cFk?oc=5",
           "date": "07/08 15:00",
@@ -114,6 +103,17 @@
           "source": "Engadget",
           "type": "📋 评测推荐",
           "summary": "Valve 蒸汽机评论：这在五年前就很完美了",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Valve 加倍降低蒸汽机定价悲观情绪",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmF2a0dGZEpZX001V3Z5QVUzV1hqU3ZRdUhYUGhGc21lM2FiUHRhU0Z4ZlNsdWdmRkYwdDlyWVNTQUZoMl94M0lOU3lESkpQZ2l5R2dNUjU0cXc4LXBOT3VGdkpHYWJOTkdja0ZXTnFmbktuMzNNNXlaUzY3X2NTdnAyXzVPWUVuaTdTYVFPTko1d9IBlwFBVV95cUxOU0N6X3dZcWdlcXh6S1Q4ekFIeDlnTEUybUFkeDhxbE5kdG9zYjlJOEtVU2Z1bFl4cXY1azFDSlhoTVFvdDV0d3JiTDFFR0JBY3Q2enZseEN3MnlKeXlQaHVSMDRyMlppa05BLV9hVVJnZzJFMjdoS2N5Vkd1eW1HM2h2Y2NGMWdjUFFSYlM1TDZ5bTlKSm84?oc=5",
+          "date": "07/21 04:45",
+          "source": "TechPowerUp",
+          "type": "📰 行业资讯",
+          "summary": "Valve 加倍下调蒸汽机定价悲观情绪 TechPowerUp",
           "regions": [
             "🌍 全球"
           ]
@@ -150,7 +150,7 @@
           "date": "12/03 16:00",
           "source": "New York Post",
           "type": "📢 促销活动",
-          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 种最热门的节日玩具",
+          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
           "regions": [
             "🌍 全球"
           ]
@@ -231,7 +231,7 @@
           "date": "02/18 16:00",
           "source": "Forbes",
           "type": "🚀 新品发布",
-          "summary": "谷歌推出 Pixel 10A——它配备了福布斯必备的设计功能",
+          "summary": "谷歌首次推出 Pixel 10A——它配备了福布斯必备的设计功能",
           "regions": [
             "🌍 全球"
           ]
@@ -252,23 +252,23 @@
       ],
       "items": [
         {
+          "title": "Meta Horizo​​n+ 新增 XBOX 游戏通行证",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHTnVCUW51dFBfc1dVNXZYLUNMeDg3cUJZSjFkaXR2aHFJSmxqaUhnRk5ta0hUNjAtVi1VU1EycGx0ZGhYTzBlNlFIT0paSHNjWWphVDRCX3l2UXFoVTBCc0pwdXdRVFdTNHpVSy1hOUxTTHNt?oc=5",
+          "date": "07/21 23:44",
+          "source": "Meta Store",
+          "type": "🎮 游戏动态",
+          "summary": "Meta Horizo​​n+ 新增 XBOX 游戏通行证 Meta Store",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "2026 年即将推出的 VR 耳机：新品发布及下一步计划",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UYWdvRDRiLUVScXVrdTZ0V21yRzJFVS0wRWdYd3Q1QmJPbXlTTEc1Y0dhU1BRTFNLQ1lEZWtpYlozbXBPX2ItUXpCb2hFQlVCOEE?oc=5",
           "date": "07/17 15:00",
           "source": "vr.org",
           "type": "🚀 新品发布",
           "summary": "2026 年即将推出的 VR 耳机：新版本以及下一步的计划 vr.org",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Meta Quest 的玩法：2026 年 6 月回顾",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KR19lbEtQZUtVek5MTnpQQlVhTEVPSjQ0WjgtSmdiTGhqZE5jUGNZbmE1TG1Kb2J4a2Fvc29JdnB3OURGMFJvc0pSUkpVYkdLMXhNRzZIOUFDU2tBUGpyRXVNa3JOeUNmTnY0SUhXS0g4SjVLMFc4bg?oc=5",
-          "date": "06/30 15:00",
-          "source": "Meta Store",
-          "type": "📰 行业资讯",
-          "summary": "Meta Quest 的玩法：2026 年 6 月 Meta Store 回顾",
           "regions": [
             "🌍 全球"
           ]
@@ -382,6 +382,17 @@
           ]
         },
         {
+          "title": "最佳无线 HDMI 流媒体发射器",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVGRmQTcxOURzczhXUTBNOFZOY2tBTGdjdEpfOFd5UzdMM2xEQUxCR3F1VWpNaWlPNmZ5c1VBdTBKcW96TEhyZ3hvem1oME52TDBtclRRSUJGd0gwekRmd3YtSDRyT1o2bnfSAW9BVV95cUxPSnQ1eUJ3OF9TMmhOZFg0MkVKTDluNmNzblhybnM2NlVsOVhuSUs5VjBGUEF6c2x6RGhnSVBqUzl1UUg5VU1TdU95OXk1VHp2Qzc4UnJCSkVZdEViVjFCcGsta3hWbGtCZ2RIRmV3UU0?oc=5",
+          "date": "04/03 15:00",
+          "source": "Gagadget.com",
+          "type": "📋 评测推荐",
+          "summary": "最佳无线 HDMI 流媒体发射器 Gagadget.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "印度坞站市场规模、份额和 2034 年展望",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1XzJCMUQ4b2dEbURkcWxUdlZGQVJyVEZYbkUwOWc3SUZlOGFVM1ZucFJIc3pWMWxuVldVU0dsRzB0V1Y3TjNSMndpR19BeWw3elZFLTVIS21iTlU4Qlc2RVV3Vl9kdw?oc=5",
           "date": "03/27 05:08",
@@ -399,17 +410,6 @@
           "source": "PCMag",
           "type": "📋 评测推荐",
           "summary": "2026 年 Windows 笔记本电脑的最佳扩展坞 PCMag",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1J1X2xzWnNEUmpJbm5mOTFMc1hQbGVlSmZGcXFsSjR5Q2N2R1lxWnp1RFRXMEpKSVFnVm53dnRHTkwxRTBpLUZTaU5QWjFUeXA4ZzY4NFA1LTRoODJQeWNnTFU0VEVMc3J1Tzlra1RHbnFJUU1FZ1gyaXB1VGxzYm9IN01lbmJ0Z1pfVTRaRXlYR1Bz?oc=5",
-          "date": "06/29 23:50",
-          "source": "openPR.com",
-          "type": "📊 市场动态",
-          "summary": "USB-C 充电电缆市场洞察凸显细分市场扩张和市场领先地位 openPR.com",
           "regions": [
             "🌍 全球"
           ]
