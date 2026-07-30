@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 11:59",
+  "updated": "2026-07-30 11:51",
   "brand": "JSAUX",
   "sections": [
     {
@@ -19,20 +19,9 @@
           "title": "《Splatoon Raiders》今天在 Nintendo Switch 2 上独家推出！",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3dMTThmZWttcTk4VGM3ajZzT0VFOTJlYzNZcXV0OVJMTkpVbGN1SDU4TWMtRHFJbkMzZFVLV0VmN2FMdDctaXAyak5PTWNlRnBhOERSUE1Ha3doYWFXaDNERG5TY2xNTEx0anE1eEMxTlM4VE1vQndtYUZZNWdPOWo2UUQyMTNnUGcxdTdINzAwSXR3T2EzUWh0VGtHU1JpdnYwWUpMd1hQZ3VjOF9Bdw?oc=5",
           "date": "07/23 14:20",
-          "source": "nintendo.com",
+          "source": "Nintendo",
           "type": "🚀 新品发布",
-          "summary": "《Splatoon Raiders》今天在 Nintendo Switch 2 上独家推出！任天堂网",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "据报道《时之笛》重制版《塞尔达传说》Switch 2 主机泄露",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjBkcnJVaVg5X2F6TllqVmdFVGdLM0lzQ1VRVk9VejlYMFFuak5kd0NiT2hVX0pGeWNVQm1DYkVuMHR1a2pEXzNJV01KNjlPcWlaRFJ4SWRGUTFKUE9sWVNCQkFoNzZISHFPbjRaYmd3SkRaUG9lZVcxU3VVaEQ4RDhrOHI?oc=5",
-          "date": "07/24 21:31",
-          "source": "VICE",
-          "type": "🚀 新品发布",
-          "summary": "据报道《时之笛》重制版《塞尔达传说》Switch 2 主机泄露 VICE",
+          "summary": "《Splatoon Raiders》今天在 Nintendo Switch 2 上独家推出！任天堂",
           "regions": [
             "🌍 全球"
           ]
@@ -58,6 +47,17 @@
           "regions": [
             "🌍 全球"
           ]
+        },
+        {
+          "title": "任天堂将于 2027 年在欧洲停产 Switch",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVpWZUM5Ym00MU1oQzlOVHdUbDBRMWttYzNpMHQxb3FocDZKMnJETjgyZV83aHYyZWFpTnQxWEpoYnBjbF9QbmVhYU5Pb0p5NTNSZnhlRVZ4bVBfcVRVUnN4dXRxR1l3SjVtVTc0bWRjTXV3TXJGY2p2bDM1ajBqUGNFT0w4czB6QlNXd3JzdlU?oc=5",
+          "date": "07/07 15:00",
+          "source": "Hypebeast",
+          "type": "📰 行业资讯",
+          "summary": "任天堂将于 2027 年在欧洲停售 Switch",
+          "regions": [
+            "🇪🇺 欧洲"
+          ]
         }
       ]
     },
@@ -75,23 +75,23 @@
       ],
       "items": [
         {
-          "title": "Steam 框架发布日期：2026 年 7 月仍未知 - tech-insider.org",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EZXdkSTNTSEV1UzkxNE1TRjlla0pBRzhST3hmQl9TYWh1M3dNVHoyRVppV01RS1FCYjRBTkdTQXFySlVGaDhHZTV5RkVEeHJYSnhRd3Z2UnpXT3lhZnVvR212enprZw?oc=5",
-          "date": "07/24 09:34",
-          "source": "tech-insider.org",
-          "type": "🚀 新品发布",
-          "summary": "Steam 框架发布日期：2026 年 7 月仍未知 tech-insider.org",
+          "title": "Valve 表示，Steam Machine 预订队列应该会在 2026 年底前赶上",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlViMVk1X25KajJ4T1V3NGEydG9adG5Menc0SGtzQ2xhMFduV2hJYlVMVWFXbmUyd0N1NjhGR2ZCR1pHU3c3bXhDTzNlLVNGVDBJeEpZbTIzWlpwM2xBUUhoWmg0b2tMZndGWktNdDJDdERKamVCSEdfRnhwNklkU0xXaTZhcUdnUjhfN0pjYlN4LUJBaTZLOGk0VUpicEs3ME5QR0tCeWVFSlY4MFNkRjFyR2oxR3BJNm1FQkNXTEJodXBIREZjRzln?oc=5",
+          "date": "07/30 03:30",
+          "source": "PC Gamer",
+          "type": "🎮 游戏动态",
+          "summary": "Valve 表示 PC Gamer 预计 Steam 机预订队列将在 2026 年底前赶上",
           "regions": [
             "🌍 全球"
           ]
         },
         {
-          "title": "高通宣布大幅提价——对 Valve 的 Steam Frame 来说是个坏消息",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFJkMkpnU1d0TGZ0OGV5N2hOcjI2TXQtYVRES1BSdWw2Q3ZwOGRXTzVrbmQ3MHRFem02d01qeElFZ1BETWwzaGY0SW56TjU5WkxUX0d6c1luUU1rWTl3TEE4Y1hGYXpkUXFod3NidnFHTHdaQzVsTWFzdGJadWVfOG02YUN2RzZZNk8tR2w4V2MxbFZfcmtuclJoUENWdXl3VmhJeDZDbDE?oc=5",
-          "date": "07/27 18:37",
-          "source": "GamingOnLinux",
-          "type": "🚀 新品发布",
-          "summary": "高通宣布大幅提价——对 Valve 的 Steam Frame 来说是个坏消息",
+          "title": "Valve 承诺在 2026 年底前清理 Steam 机器预订队列",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUpvZF9LbDRXNG5RYmllbHJSSlRicUNvNGhzUFdvSU1mSmpvVG9haWR1M28xMWxpY1l3SDhpbUV1bW5uRExGWG5SQUhQQWxwSzZuYVRMTUp2SW5udlZSa1puUjc3ZmtUbTdZV2xJVHlBQmlRY2c1ZHpoZkJmR2pqM2J2YU93S3RUUmVaSFhFTnI3bDlWTUVRR0d5SQ?oc=5",
+          "date": "07/29 23:34",
+          "source": "Club386",
+          "type": "📰 行业资讯",
+          "summary": "Valve 承诺在 2026 年底前清理 Steam 机预订队列 Club386",
           "regions": [
             "🌍 全球"
           ]
@@ -137,9 +137,9 @@
           "title": "Nex Playground 与 Mattel 首次合作",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWVpWGs1UGg2VXBQdmhtWHVBRF9fSHZRbDd1Y29hM1NCc1VDdkxwSkFCYjBqUGpOeld0R09QZHFOY3R0VzhrNDNSUHRxdGtWdldwUEp4YUtoTTVrc1FEdW1JeFVfM01FcnZ1Vk9oVUViMGVucC0xOS1hWjVCengtTldhVjNVU1JoRy1pcGVkdVF0bjdfTEhBOFVxWmktb251YjUyag?oc=5",
           "date": "12/26 16:00",
-          "source": "Gifts & Decorative Accessories",
+          "source": "giftsanddec.com",
           "type": "🤝 品牌合作",
-          "summary": "Nex Playground 与美泰礼品及装饰配件首次合作",
+          "summary": "Nex Playground 与 Mattel 首次合作“跳舞”giftanddec.com",
           "regions": [
             "🌍 全球"
           ]
@@ -159,9 +159,9 @@
           "title": "“我们已确保今年的组件安全”——Nex Playground 希望避免人工智能相关价格进一步上涨",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmJiS21rS29janFpWU1fQnJFRnNNaEwtN1ItOVpKdWh0Q1hHbEY5d3YwX1Boay1xNWNVam9ZZEUyWXRDenZvd2VZNzUyVnJVMTdUSGNrRk9EQ29UUGVyaGxSd1hFMzRQejMzcDNscVZmNlY5S25uQ3NnbzlLSkVKNzQtNWNPNDhNLTJLVmF2VTVMWDZqQW8ybjZ3dlRpTl8wcjExdkMyc3pVYk91Njc0OW5vd1dHZkY0QTZZclYwODhSV1Q5TW5vQjQ2czh4Mk1lOUxkdDln?oc=5",
           "date": "06/05 15:00",
-          "source": "GamesIndustry.biz",
+          "source": "gamesindustry.biz",
           "type": "🎮 游戏动态",
-          "summary": "“我们已经确保了今年的组件”——Nex Playground 希望避免任何与人工智能相关的价格进一步上涨 GamesIndustry.biz",
+          "summary": "“我们已经确保了今年的组件”——Nex Playground 希望避免任何与人工智能相关的价格进一步上涨 gamesindustry.biz",
           "regions": [
             "🌍 全球"
           ]
@@ -204,6 +204,17 @@
           ]
         },
         {
+          "title": "三星不断假装 Galaxy 手机配备 Qi2 磁铁和新配件",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXp1LWg3VU9GOXNXQ2FYRVF2TTEtdUZtemp4eHJfTVA2TTRGWFJUelZEUnB4bDh5Mmxnb0VYSk8zYXNFVTFkNkd5cXZpdl91R0xPRFIybkFZZXBLYzE3MlRqTXBZMDhfLWNXT09pQnVNVVYtd19VeW1jT0NmTnFmTnlNLWJ0bVpqOW9sSm51Nk5aWUVHUm14TmxEdzMzX2JiMzlWdUwtT1drOUt4VzdaWg?oc=5",
+          "date": "07/28 22:50",
+          "source": "9to5Google",
+          "type": "📰 行业资讯",
+          "summary": "三星不断假装 Galaxy 手机配备 Qi2 磁铁和新配件 9to5Google",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "在 8 月发布会之前，大量官方 Google Pixel 10 装备以清仓价出售，优惠价 11 美元起",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByYzhYenM5Vldicm5yMVROUmJJOGNER3JRWjV6VmE3ZHZnNi1rdkxxQ0FQck9ycm04RkdlTjZfaDdIUjFtbDVFUFdydTBGMXpnS0xnRmJSMENoRmVyR1NwaUd5d3d4Y0xEQzhnWTQ4bXBaa1c1cm1SdQ?oc=5",
           "date": "07/24 01:48",
@@ -224,17 +235,6 @@
           "regions": [
             "🌍 全球"
           ]
-        },
-        {
-          "title": "所有最佳 Prime Day 优惠：Pixel 10、Galaxy 装备、科技配件等等 [最后一天更新]",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00N3FQbi1Mc3VEQlM0czlhYXlOTnlHM0YzajM1emFNMEx5a3BWU0g4NmZEOWpMdy1seDAwWkJkVThoNTVpRnVQV2ZuUG5YV3kyTV94bTBvYUxtYjRJUHJlcWhleVZpaDVSVlh2MzVkQ1d4OEh1blh3?oc=5",
-          "date": "06/26 15:00",
-          "source": "9to5Google",
-          "type": "📢 促销活动",
-          "summary": "所有最佳 Prime Day 优惠：Pixel 10、Galaxy 装备、科技配件等 [最后一天更新] 9to5Google",
-          "regions": [
-            "🌍 全球"
-          ]
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "items": [
         {
-          "title": "与朋友一起玩 Walkabout Mini Golf 的一晚让我想起了 Meta Quest VR 耳机的最大缺陷之一",
+          "title": "与朋友一起玩迷你高尔夫的一晚让我想起了 Meta Quest VR 耳机的最大缺陷之一",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa0UwODVhRTRxYVh6STJ5bHZkZUQ5b29zU3JTSWE3dHVLYjhvcmNjU3daTjZZNlBwbGpPUmh1WlA4NmNCOWUwTjhsQXlrVmIzemVUby1JWnV0TXozODVLdFo4NTRoYWtmVzJpVFpEdFNxU2hZN29CNjR6UWVOU2RrUmp3NXFUc0ZpWTZNT2VCUHB0Y2dXTjV1cjZCeUZkS2lOMWxNM3JfdWxyOVo5dXFPQmkzbFhNQTU0bF9adEdZUWJmdHV1bm53eGpXUDFxdVdFRFB6bmNaX0JVak91YkthUmd5MHh2ZVBCZVcw?oc=5",
           "date": "07/24 23:50",
           "source": "GamesRadar+",
