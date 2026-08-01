@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 12:17",
+  "updated": "2026-08-01 12:17",
   "brand": "JSAUX",
   "sections": [
     {
@@ -16,20 +16,9 @@
       ],
       "items": [
         {
-          "title": "Nintendo Switch 在线杂志：七月版",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObVhhLVJ4Tk01bVRmc21USVZQam96TU1TNjNVaVdfOU9jUmI1YVdfWVZWOXpDMEszVkpTVnl1TXFqbG9uc09hQjRrN0MxdEcyR2ZMUFg0OERwbDZTY1Iya2FNbFBFOXNaUjR5M3NpbVpKNXVBRTRhYUlRdnhTNG1yZDFfZHRMRVlwdjRUalVuaFFfVTc5SmM3VmIyeFM?oc=5",
-          "date": "07/29 12:31",
-          "source": "Nintendo",
-          "type": "📰 行业资讯",
-          "summary": "Nintendo Switch 在线杂志：七月版 Nintendo",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "《Splatoon Raiders》今天在 Nintendo Switch 2 上独家推出！",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3dMTThmZWttcTk4VGM3ajZzT0VFOTJlYzNZcXV0OVJMTkpVbGN1SDU4TWMtRHFJbkMzZFVLV0VmN2FMdDctaXAyak5PTWNlRnBhOERSUE1Ha3doYWFXaDNERG5TY2xNTEx0anE1eEMxTlM4VE1vQndtYUZZNWdPOWo2UUQyMTNnUGcxdTdINzAwSXR3T2EzUWh0VGtHU1JpdnYwWUpMd1hQZ3VjOF9Bdw?oc=5",
-          "date": "07/23 14:20",
+          "date": "07/23 15:00",
           "source": "Nintendo",
           "type": "🚀 新品发布",
           "summary": "《Splatoon Raiders》今天在 Nintendo Switch 2 上独家推出！任天堂",
@@ -38,12 +27,12 @@
           ]
         },
         {
-          "title": "2026 年 7 月和 8 月即将推出的 Nintendo Switch 2 游戏和配件",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmNhZXFucVhITHplNXFPSmtVTC1va3llUWJoUXI0bkJvcl9zaXl3M3c0VHE4OHJmd2tRNWhqRXJxMWotWW81VlFDbURXbHRrMFY3b0FCaEprUjFLSGo5NGc1dF9tX2dITXNITW9kVTdmOU5ySGdlRTZRQzFSN1VuM09vUktHMjJpSUlER0ItZk1SYUJNVHNHdE90QVlhekEzclhCOWo4bmc3RVBWd1E?oc=5",
-          "date": "07/01 15:00",
-          "source": "Nintendo Life",
+          "title": "2026 年及以后即将推出的 Switch 2 游戏",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13d0JvWWNlMm9OZ1EyaFlFUE1uRFJiNVVnam0xTlpvQU5UdFpQTXBUMTJBMzNHMGFNbmJiRXJYS0FrRmYxZjZNdlNBQlVON2JsWG9uaFJFYjFmQWd3d3hPZg?oc=5",
+          "date": "07/30 17:19",
+          "source": "GamesRadar+",
           "type": "🎮 游戏动态",
-          "summary": "2026 年 7 月和 8 月即将推出的 Nintendo Switch 2 游戏和配件 Nintendo Life",
+          "summary": "2026 年及以后即将推出的 Switch 2 游戏 GamesRadar+",
           "regions": [
             "🌍 全球"
           ]
@@ -55,6 +44,17 @@
           "source": "TechRadar",
           "type": "🎮 游戏动态",
           "summary": "2026 年 17 款最佳 Nintendo Switch 2 游戏 TechRadar",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "2026 年 7 月和 8 月即将推出的 Nintendo Switch 2 游戏和配件",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmNhZXFucVhITHplNXFPSmtVTC1va3llUWJoUXI0bkJvcl9zaXl3M3c0VHE4OHJmd2tRNWhqRXJxMWotWW81VlFDbURXbHRrMFY3b0FCaEprUjFLSGo5NGc1dF9tX2dITXNITW9kVTdmOU5ySGdlRTZRQzFSN1VuM09vUktHMjJpSUlER0ItZk1SYUJNVHNHdE90QVlhekEzclhCOWo4bmc3RVBWd1E?oc=5",
+          "date": "07/01 15:00",
+          "source": "Nintendo Life",
+          "type": "🎮 游戏动态",
+          "summary": "2026 年 7 月和 8 月即将推出的 Nintendo Switch 2 游戏和配件 Nintendo Life",
           "regions": [
             "🌍 全球"
           ]
@@ -78,9 +78,20 @@
           "title": "Valve 表示，Steam Machine 预订队列应该会在 2026 年底前赶上",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlViMVk1X25KajJ4T1V3NGEydG9adG5Menc0SGtzQ2xhMFduV2hJYlVMVWFXbmUyd0N1NjhGR2ZCR1pHU3c3bXhDTzNlLVNGVDBJeEpZbTIzWlpwM2xBUUhoWmg0b2tMZndGWktNdDJDdERKamVCSEdfRnhwNklkU0xXaTZhcUdnUjhfN0pjYlN4LUJBaTZLOGk0VUpicEs3ME5QR0tCeWVFSlY4MFNkRjFyR2oxR3BJNm1FQkNXTEJodXBIREZjRzln?oc=5",
           "date": "07/30 03:30",
-          "source": "PC Gamer",
+          "source": "pcgamer.com",
           "type": "🎮 游戏动态",
-          "summary": "Valve 表示 PC Gamer 预计 Steam 机预订队列将在 2026 年底前赶上",
+          "summary": "Valve 称 pcgamer.com 表示 Steam 机预订队列应该会在 2026 年底前赶上",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "夏季仅剩 54 天，Steam Frame 已通过最后一道监管大门",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR3A2dXY5aEZiTUtwWTFlb3dhRGkyLVVsUXNUeHR1NjdXMDRVaHZyV2VDN0dicXY1eHJmM3RITmQ2bV9DV3ZyWXk4VXlNQUtPQWtBR193c3BiTW9uZHNseXlJS0xYS2kxWHo5aWFrNkFXeEdKQlhUT1JINERnOTZ0NFlyMXZrdw?oc=5",
+          "date": "07/31 01:57",
+          "source": "vr.org",
+          "type": "📰 行业资讯",
+          "summary": "Steam Frame 扫清最后一道监管大门，夏季仅剩 54 天 vr.org",
           "regions": [
             "🌍 全球"
           ]
@@ -97,23 +108,12 @@
           ]
         },
         {
-          "title": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9uS19HeURrcXBVUkhWeUY3S0hwLXhua1lwM1RTcDlKMkUxV25jYlIxUFV0aWstbU1pbTF4aGp1aw?oc=5",
-          "date": "07/18 15:00",
-          "source": "vr.org",
-          "type": "🚀 新品发布",
-          "summary": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切 vr.org",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "高通宣布大幅提价——对 Valve 的 Steam Frame 来说是个坏消息",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFJkMkpnU1d0TGZ0OGV5N2hOcjI2TXQtYVRES1BSdWw2Q3ZwOGRXTzVrbmQ3MHRFem02d01qeElFZ1BETWwzaGY0SW56TjU5WkxUX0d6c1luUU1rWTl3TEE4Y1hGYXpkUXFod3NidnFHTHdaQzVsTWFzdGJadWVfOG02YUN2RzZZNk8tR2w4V2MxbFZfcmtuclJoUENWdXl3VmhJeDZDbDE?oc=5",
-          "date": "07/27 18:37",
-          "source": "GamingOnLinux",
-          "type": "🚀 新品发布",
-          "summary": "高通宣布大幅提价——对 Valve 的 Steam Frame 来说是个坏消息",
+          "title": "阀门蒸汽机评论：这在五年前就很完美了",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sa1RvTWFOREdDMEVGaGYxQ0V4RXpVdTg0SGxIOUtWX2ZXLWcwNTJiMDQ4RmJwdGhZQTdFeHdBc2IwQjBzU1VjcF92RHk5eUE2dll1eXlzMHBmeFJSd3lVbWw5cVZlU0VPSzdrVQ?oc=5",
+          "date": "07/08 15:00",
+          "source": "Engadget",
+          "type": "📋 评测推荐",
+          "summary": "Valve 蒸汽机评论：这在五年前就很完美了",
           "regions": [
             "🌍 全球"
           ]
@@ -137,9 +137,9 @@
           "title": "Nex Playground 与 Mattel 首次合作",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWVpWGs1UGg2VXBQdmhtWHVBRF9fSHZRbDd1Y29hM1NCc1VDdkxwSkFCYjBqUGpOeld0R09QZHFOY3R0VzhrNDNSUHRxdGtWdldwUEp4YUtoTTVrc1FEdW1JeFVfM01FcnZ1Vk9oVUViMGVucC0xOS1hWjVCengtTldhVjNVU1JoRy1pcGVkdVF0bjdfTEhBOFVxWmktb251YjUyag?oc=5",
           "date": "12/26 16:00",
-          "source": "giftsanddec.com",
+          "source": "Gifts & Decorative Accessories",
           "type": "🤝 品牌合作",
-          "summary": "Nex Playground 与 Mattel 首次合作“跳舞”giftanddec.com",
+          "summary": "Nex Playground 与美泰礼品及装饰配件首次合作",
           "regions": [
             "🌍 全球"
           ]
@@ -193,6 +193,17 @@
       ],
       "items": [
         {
+          "title": "泄露：Google Pixel Tag 将与 Pixel 11 和 Pixel Watch 5 一起推出",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGJRZjNSSG9OSDhacjRHNXQwVFgyS013REFKSUsxY2gtVzcwVVZxUjZBOVU4N3lVbnA5X0N1enBUclFQVUlheVlZTlNPRFFDVTVrZnJIWEhreGRQYm5EX0VMUXNtcnNDTGlSRGU4RDFJQmR1dzRHZTRreE11VkhSNVlHa3l3cFA2c2NuYzFHeXg0UUFOamRHNkhGTDYzUzRNTGhPQnpBQzEtMWhR?oc=5",
+          "date": "08/01 03:23",
+          "source": "Notebookcheck",
+          "type": "🚀 新品发布",
+          "summary": "泄露：Google Pixel Tag 将与 Pixel 11 和 Pixel Watch 5 一起推出",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "谷歌“Pixel Tag”最终可能成为 AirTag 的竞争对手",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnN5aldNVkpzUGVraEtiNjlJYkR4MlB3U1ZzdWFQNjdkYTNHWFNjbmVCV2lHTG1CV1hvLUgzVlUzNV9vakRURmR6N2h5bldlLXFwM0l1MWlJR3QxWW5lam8wbmVLOGNjcEJ0cGdseVJUNlR4S21YeDdPQk1DN2xEQ280OU9pMHpTcUxqTnhTekRCVTc2elRuME5iMkpvZTczUElsZw?oc=5",
           "date": "07/28 16:48",
@@ -207,9 +218,9 @@
           "title": "三星不断假装 Galaxy 手机配备 Qi2 磁铁和新配件",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXp1LWg3VU9GOXNXQ2FYRVF2TTEtdUZtemp4eHJfTVA2TTRGWFJUelZEUnB4bDh5Mmxnb0VYSk8zYXNFVTFkNkd5cXZpdl91R0xPRFIybkFZZXBLYzE3MlRqTXBZMDhfLWNXT09pQnVNVVYtd19VeW1jT0NmTnFmTnlNLWJ0bVpqOW9sSm51Nk5aWUVHUm14TmxEdzMzX2JiMzlWdUwtT1drOUt4VzdaWg?oc=5",
           "date": "07/28 22:50",
-          "source": "9to5google.com",
+          "source": "9to5Google",
           "type": "📰 行业资讯",
-          "summary": "三星不断假装 Galaxy 手机配备 Qi2 磁铁和新配件 9to5google.com",
+          "summary": "三星不断假装 Galaxy 手机配备 Qi2 磁铁和新配件 9to5Google",
           "regions": [
             "🌍 全球"
           ]
@@ -221,17 +232,6 @@
           "source": "9to5Toys",
           "type": "🚀 新品发布",
           "summary": "8 月发布会前大量 Google Pixel 10 官方装备清仓价，售价 11 美元起 9to5Toys",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "可折叠手机仍然非常昂贵。但它们最终值得购买。",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlR3Vvbnl5eTNtUGpaLWF0Q1VxbV83blp3MVJQR0hnS1RidmZzaVBySkxvVjI4OURSOU5SUkltcmF6QTU5X213VGJQN3RfU0JIWGQ3SkdwTk82bVZIc3ZBTjZCaWJ6S05lUDlqa1BBRWJDZw?oc=5",
-          "date": "07/22 21:00",
-          "source": "nytimes.com",
-          "type": "📰 行业资讯",
-          "summary": "可折叠手机仍然非常昂贵。但它们最终值得购买。纽约时报网",
           "regions": [
             "🌍 全球"
           ]
@@ -285,12 +285,12 @@
           ]
         },
         {
-          "title": "我们测试过的 2026 年最佳 VR 耳机",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUUliX3VRUWxkdEZ0TkNLbm53RV83R2lUdkpWRUFKbFFpb3lpYjQ5dEJaTWJXY3dsRkNjV2tPeGo4SGNoeWZ0UFh0azZuOG90SzVaNUVvdDByZXd5?oc=5",
-          "date": "07/21 15:00",
-          "source": "PCMag",
-          "type": "📋 评测推荐",
-          "summary": "我们测试过的 2026 年最佳 VR 耳机",
+          "title": "Meta Quest 3S 耳机在 Prime Day 之前跌至涨价以来的最低价，起价为 297 美元",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWplaGJWYmNfcnZGMEVfNUVzME11cWlHV1VtR0VodFMweS1ZaldRbmtJdGlpM0ZuMzhYZnNlRUxqMHB0cTZqclBFamJZbHFkMk5oUFhTR2h0UllyWHBiZVhoLWVEWGhxWFFfT05DMUJsYzhpWHNySVlmR1h5cFdTRkRiRXlXZlhrcXRlLUVvZWcyR2VWODY1bg?oc=5",
+          "date": "06/22 15:00",
+          "source": "9to5Toys",
+          "type": "📢 促销活动",
+          "summary": "Meta Quest 3S 耳机在 Prime Day 之前跌至涨价以来的最低价，起价 297 美元 9to5Toys",
           "regions": [
             "🌍 全球"
           ]
@@ -393,17 +393,6 @@
           ]
         },
         {
-          "title": "最佳无线 HDMI 流媒体发射器",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVGRmQTcxOURzczhXUTBNOFZOY2tBTGdjdEpfOFd5UzdMM2xEQUxCR3F1VWpNaWlPNmZ5c1VBdTBKcW96TEhyZ3hvem1oME52TDBtclRRSUJGd0gwekRmd3YtSDRyT1o2bnfSAW9BVV95cUxPSnQ1eUJ3OF9TMmhOZFg0MkVKTDluNmNzblhybnM2NlVsOVhuSUs5VjBGUEF6c2x6RGhnSVBqUzl1UUg5VU1TdU95OXk1VHp2Qzc4UnJCSkVZdEViVjFCcGsta3hWbGtCZ2RIRmV3UU0?oc=5",
-          "date": "04/03 15:00",
-          "source": "Gagadget.com",
-          "type": "📋 评测推荐",
-          "summary": "最佳无线 HDMI 流媒体发射器 Gagadget.com",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "印度坞站市场规模、份额和 2034 年展望",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1XzJCMUQ4b2dEbURkcWxUdlZGQVJyVEZYbkUwOWc3SUZlOGFVM1ZucFJIc3pWMWxuVldVU0dsRzB0V1Y3TjNSMndpR19BeWw3elZFLTVIS21iTlU4Qlc2RVV3Vl9kdw?oc=5",
           "date": "03/27 05:08",
@@ -412,6 +401,17 @@
           "summary": "印度坞站市场规模、份额和 2034 年展望 IMARC Group",
           "regions": [
             "🇮🇳 印度"
+          ]
+        },
+        {
+          "title": "2026 年适用于 Windows 笔记本电脑的最佳扩展坞",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hQjJYZktfTFpjNU1YZEdSY0U0NjgzY2JUTms0bFM3bVNUYndueDdObTFpZ2pCVWJqOVR6WjlkTEV4dkZNd1NZVnI1ZGNfRWU0UzI0VFM5YWJWMm1MSHdQMW5ZckRmdVRXTGdUbUduUGkta0VDN2pEazBsbEJrQQ?oc=5",
+          "date": "09/12 01:41",
+          "source": "PCMag",
+          "type": "📋 评测推荐",
+          "summary": "2026 年 Windows 笔记本电脑的最佳扩展坞 PCMag",
+          "regions": [
+            "🌍 全球"
           ]
         }
       ]
