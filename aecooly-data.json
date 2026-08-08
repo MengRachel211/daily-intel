@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 11:45",
+  "updated": "2026-08-08 10:52",
   "brand": "Aecooly",
   "sections": [
     {
@@ -21,7 +21,7 @@
           "date": "07/13 15:00",
           "source": "Fortune Business Insights",
           "type": "📊 市场动态",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "台扇市场规模、份额|行业报告[2026-2034]财富商业洞察",
           "regions": [
             "🌍 全球"
           ]
@@ -52,9 +52,9 @@
           "title": "2026 年行业状况：玉米饼片小幅上涨",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1pTVDZyMVpJUkZzbjVka2lEU3phaDBfaGVGMTFxRURfbk1PWE9tOTRpUEcyNlFCeERfVnkyeDJNZTZSYlVpQ2JRaW5ZVDFibk5JWnZyRl9aZlFSbjJiZWUtcEpGaDB2MzBmSHc0dExhRWFodDMzXzVvaWMxRDlVYkdOX3UtbTlaUThyZlltWHFGaFJmcW1RVHc4Tm5VbDIwc1ZHQVN0bk5pYWV0Xzc4?oc=5",
           "date": "07/30 12:00",
-          "source": "snackandbakery.com",
-          "type": "📊 市场动态",
-          "summary": "2026 年行业状况：玉米饼片小幅增长 Snackandbakery.com",
+          "source": "Snack Food & Wholesale Bakery",
+          "type": "📢 促销活动",
+          "summary": "2026 年行业状况：玉米饼片小幅上涨 休闲食品和批发面包店",
           "regions": [
             "🌍 全球"
           ]
@@ -132,7 +132,19 @@
         "Shopee：东南亚5月促销节密集，直播+Flash Deal组合效果最佳",
         "Mercado Libre：巴西、墨西哥旺季，与北半球并行，需差异化备货策略"
       ],
-      "items": []
+      "items": [
+        {
+          "title": "美国消费者沉迷于电商直播间：解读这一上升趋势",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtWUsyMVRXT2gtOE5KeTBiazR2MlhINnc4ekFKNVh5b0dXeWZZN1NVUV9MVEVvbWlfNE9pYlNpWE83V1lEV3ByQ0tPTS1tZktQd1VV?oc=5",
+          "date": "07/29 18:30",
+          "source": "36 Kr",
+          "type": "📊 市场动态",
+          "summary": "美国消费者沉迷于电商直播间：揭秘新兴趋势 36氪",
+          "regions": [
+            "🌍 全球"
+          ]
+        }
+      ]
     },
     {
       "id": "trend",
@@ -184,9 +196,9 @@
           "title": "我们测试了 20 款便携式风扇，选出最适合每位旅行者的 10 款",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYRkdYb1BOR09uSDM4eW9DRnlTbExfRXpZcGtqLTNWNHJKNVE4NTFLU2pVdGVqeWpOeVlmMmRDTzdlLTladTlIeXZCOHVJR2l2Uk16clF0TlVtRjJUSldqUDI2OHFkZUsybHJZenZfZ2lFVnM?oc=5",
           "date": "06/18 15:00",
-          "source": "travelandleisure.com",
+          "source": "Travel + Leisure",
           "type": "📋 评测推荐",
-          "summary": "我们测试了 20 款便携式风扇，找出最适合每位旅行者的 10 款 Travelandleisure.com",
+          "summary": "我们测试了 20 款便携式风扇，找出最适合每位旅行者旅行和休闲的 10 款",
           "regions": [
             "🌍 全球"
           ]
