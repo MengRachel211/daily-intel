@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08 10:51",
+  "updated": "2026-08-09 10:59",
   "brand": "JSAUX",
   "sections": [
     {
@@ -32,7 +32,7 @@
           "date": "07/23 15:00",
           "source": "nintendo.com",
           "type": "🚀 新品发布",
-          "summary": "《Splatoon Raiders》今天在 Nintendo Switch 2 上独家推出！任天堂网",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "regions": [
             "🌍 全球"
           ]
@@ -41,9 +41,9 @@
           "title": "据报道《时之笛》重制版《塞尔达传说》Switch 2 主机泄露",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjBkcnJVaVg5X2F6TllqVmdFVGdLM0lzQ1VRVk9VejlYMFFuak5kd0NiT2hVX0pGeWNVQm1DYkVuMHR1a2pEXzNJV01KNjlPcWlaRFJ4SWRGUTFKUE9sWVNCQkFoNzZISHFPbjRaYmd3SkRaUG9lZVcxU3VVaEQ4RDhrOHI?oc=5",
           "date": "07/24 15:00",
-          "source": "vice.com",
+          "source": "VICE",
           "type": "🚀 新品发布",
-          "summary": "据报道《时之笛》重制版《塞尔达传说》Switch 2 控制台泄露 Vice.com",
+          "summary": "据报道《时之笛》重制版《塞尔达传说》Switch 2 主机泄露 VICE",
           "regions": [
             "🌍 全球"
           ]
@@ -52,9 +52,9 @@
           "title": "Splatoon Raiders Nintendo Switch 2 配件现已上市！小袋和卡包将于 7 月 23 日推出",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWF8zZ3E0NC1qRjlpUnhpTU4zcUFNMk1jSGlzRFZDNjg0WFUyQU52bG00NDZkN2ZVa2xKUnJmMXJGa3dsQTZSRlg3dGdyN05hRU00NzNSTmprZmJvT1k2Wmc1TVVaSlBZSFlacEc1VzlaQVE4RGxBZm1IMko1YVhid9IBhgFBVV95cUxOS0VoZUpEcm5MRUdtejJLZVpyemFPVHVYTmt4ZXpjV2tLVWZzM0RiZVg1T3JPYmxPVWFPZktYSEwtblFmQWJxc2U4UHFZR3VSR25zY2U0RTVtMjhaWmkzTTktWEY4RjVNeDlKNWFINGg0X0NQYUxLY2VIaXdWdmdBblRZSGYwZw?oc=5",
           "date": "06/13 15:00",
-          "source": "saiganak.com",
+          "source": "Saiga NAK",
           "type": "🚀 新品发布",
-          "summary": "Splatoon Raiders Nintendo Switch 2 配件现已上市！ 7 月 23 日推出小包和卡包 saiganak.com",
+          "summary": "Splatoon Raiders Nintendo Switch 2 配件现已上市！小袋和卡包将于 7 月 23 日推出 Saiga NAK",
           "regions": [
             "🌍 全球"
           ]
@@ -74,6 +74,17 @@
         "Steam Frame VR上市后，VR配件可与Quest系列共线开发，降低研发成本"
       ],
       "items": [
+        {
+          "title": "Steam 机器评论综述：62/100 分数 [2026] - tech-insider.org",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNTTRJWHBnRnRGUkVQUmNKYUlCNmJDejRKR2FSWUlxaC1Jd25VUWVQclpLMy02eXZQakFiV2xHNkV5dUVzVU5USFRRVUR0NHRPQzZmeTVQMDVzQUZKTkc3Yw?oc=5",
+          "date": "08/08 19:49",
+          "source": "tech-insider.org",
+          "type": "📋 评测推荐",
+          "summary": "Steam 机器评论综述：62/100 分数 [2026] tech-insider.org",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
         {
           "title": "Valve 收到了另一批 Steam Frame，粉丝们正在等待发布日期",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUt2ZGJBbUloWk9pOVZPSUc4MGpRRHhkc0RaYWk0eUhPMWFsNXVYempleVEtVXBxUVpjQjJrbmdmb3lTcTBuaHB2eXZGbzZmQUNjcU1GMUFnSW4yYUo4WjNsOHZhTDBSWklFb2VGOTR3emRFX1lMMF9UZ3FaRlQ4ZUh3eHpFZG5VU0EyMkxHeXd0SEFlaDF5WnJnREhjUENTLUFLOV9veTFUMDg5Qi1JbWgtUGQ3RHEyX2Vfag?oc=5",
@@ -106,17 +117,6 @@
           "regions": [
             "🌍 全球"
           ]
-        },
-        {
-          "title": "阀门蒸汽机评论：这在五年前就很完美了",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sa1RvTWFOREdDMEVGaGYxQ0V4RXpVdTg0SGxIOUtWX2ZXLWcwNTJiMDQ4RmJwdGhZQTdFeHdBc2IwQjBzU1VjcF92RHk5eUE2dll1eXlzMHBmeFJSd3lVbWw5cVZlU0VPSzdrVQ?oc=5",
-          "date": "07/08 15:00",
-          "source": "Engadget",
-          "type": "📋 评测推荐",
-          "summary": "Valve 蒸汽机评论：这在五年前就很完美了",
-          "regions": [
-            "🌍 全球"
-          ]
         }
       ]
     },
@@ -145,18 +145,7 @@
           ]
         },
         {
-          "title": "根据专家评审员的说法，2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZkdEWFdvd3ZwWElWNzJLbzJLT0M1NzNONExYd3pORXVWXzVLeE4wdmJ3X0hkcXpNUHZDV01lMV9EalkzampJWkdJMkZWQmZNeDdPTUpZbEF4aGpGaE5ucHVPT3I1OUJhVDBfVlhFYVlwNjJ5U1V4UnVKakdYVFh6OG5aVkdCYjg?oc=5",
-          "date": "12/03 16:00",
-          "source": "New York Post",
-          "type": "📢 促销活动",
-          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "“我们已经确保了今年的组件”——Nex Playground 希望避免人工智能相关价格进一步上涨",
+          "title": "“我们已确保今年的组件安全”——Nex Playground 希望避免人工智能相关价格进一步上涨",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmJiS21rS29janFpWU1fQnJFRnNNaEwtN1ItOVpKdWh0Q1hHbEY5d3YwX1Boay1xNWNVam9ZZEUyWXRDenZvd2VZNzUyVnJVMTdUSGNrRk9EQ29UUGVyaGxSd1hFMzRQejMzcDNscVZmNlY5S25uQ3NnbzlLSkVKNzQtNWNPNDhNLTJLVmF2VTVMWDZqQW8ybjZ3dlRpTl8wcjExdkMyc3pVYk91Njc0OW5vd1dHZkY0QTZZclYwODhSV1Q5TW5vQjQ2czh4Mk1lOUxkdDln?oc=5",
           "date": "06/05 15:00",
           "source": "GamesIndustry.biz",
@@ -173,6 +162,17 @@
           "source": "Gadget Flow",
           "type": "📰 行业资讯",
           "summary": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？小工具流程",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Nex Playground 推出全新假日游戏阵容",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVZkellWNVR3X01GY1VHMzBySDBRYmRNWFdUNDVvcXdHUEFtMTQ5ZEVhOFhfVllTRUs1Qm5aTjJvN0lTaWEzR1kzUE5Dd2x6SWp6QW15ckJwaHhqUXFVTzRaVkJpOEc2YS1xbE1RVm5QSldMalVlcXF3TUIwMk1wLUQ0Y200My1UdnFSZjhGak9rVEFq?oc=5",
+          "date": "10/16 15:00",
+          "source": "License Global",
+          "type": "🚀 新品发布",
+          "summary": "Nex Playground 推出全新假日游戏阵容 全球授权",
           "regions": [
             "🌍 全球"
           ]
@@ -204,7 +204,7 @@
           ]
         },
         {
-          "title": "谷歌全新 Pixel 配件在发布前泄露",
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFRLdklWdUZYel9NajUwSkdfZ3FIOFRsTkRhM0JDb0RkRVg5aktMT3NTSFU1QkFzel9aM2NvbVRMaFJ3XzMwbnBYcHlVdno1dDJFdF8wQnhRRXh6dFVuSjd6Mi1lcTVTQy1oM3FMRmZHOVRKa0NKUThDb1RILUw3bUpvMDhrUUZxa1dDX1FOS3FNMVZN?oc=5",
           "date": "08/03 17:07",
           "source": "Tech Advisor",
@@ -217,7 +217,7 @@
         {
           "title": "泄露：Google Pixel Tag 将与 Pixel 11 和 Pixel Watch 5 一起推出",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGJRZjNSSG9OSDhacjRHNXQwVFgyS013REFKSUsxY2gtVzcwVVZxUjZBOVU4N3lVbnA5X0N1enBUclFQVUlheVlZTlNPRFFDVTVrZnJIWEhreGRQYm5EX0VMUXNtcnNDTGlSRGU4RDFJQmR1dzRHZTRreE11VkhSNVlHa3l3cFA2c2NuYzFHeXg0UUFOamRHNkhGTDYzUzRNTGhPQnpBQzEtMWhR?oc=5",
-          "date": "08/01 03:23",
+          "date": "07/31 15:00",
           "source": "Notebookcheck",
           "type": "🚀 新品发布",
           "summary": "泄露：Google Pixel Tag 将与 Pixel 11 和 Pixel Watch 5 一起推出",
@@ -226,12 +226,12 @@
           ]
         },
         {
-          "title": "三星不断假装 Galaxy 手机配备 Qi2 磁铁和新配件",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXp1LWg3VU9GOXNXQ2FYRVF2TTEtdUZtemp4eHJfTVA2TTRGWFJUelZEUnB4bDh5Mmxnb0VYSk8zYXNFVTFkNkd5cXZpdl91R0xPRFIybkFZZXBLYzE3MlRqTXBZMDhfLWNXT09pQnVNVVYtd19VeW1jT0NmTnFmTnlNLWJ0bVpqOW9sSm51Nk5aWUVHUm14TmxEdzMzX2JiMzlWdUwtT1drOUt4VzdaWg?oc=5",
-          "date": "07/28 22:50",
-          "source": "9to5Google",
-          "type": "📰 行业资讯",
-          "summary": "三星不断假装 Galaxy 手机配备 Qi2 磁铁和新配件 9to5Google",
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSnVTSnNWS0Q4Mk0tYnoxRGZBRkU3czhJNHNTbUNwY3FwWVpuTVlOcjBNY09WQ2JuODlCdVhSRTgyTzdRRFBjaGlfc1MyeTZLVzdNSVpyZjNnZ2U3SFZKa2d2TlVqeUpWRzZxdWhDR2FWSERCbW1HNXVGYjN2eFZlWUtKMW9LZFk2aGxpZTZtMGY?oc=5",
+          "date": "08/08 21:18",
+          "source": "9to5Toys",
+          "type": "📢 促销活动",
+          "summary": "9to5Toys 精选 – 本周热门优惠：Pixelsnap Charger、MacBook Neo、AirPods Pro 3、LG OLED、更多 9to5Toys",
           "regions": [
             "🌍 全球"
           ]
@@ -263,18 +263,18 @@
           ]
         },
         {
-          "title": "Meta Horizo​​n+ 新增 5 款新游戏，以及 50 多款 XBOX 游戏通行证游戏！",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZy1ibnY4YnM0TlBZbV85NWlyN0pTd2FQUThDQkMtaURhOTQ2UVFyOVhlaEJ4SXVpdWM1enBPT3V6RnNjOWNsR1lrRFQ0V2tMLWw3eDdTV3RTcWhmZ2h2b2lKSm9NTUJpbGliaHJPNVJsbURqdm9Gay1TdUxhc055ajZMbGwtdjhUV1NfT1dHMlo4LXg5TEt0a1RyMzF6Mkg0LWpNWXNpbFRUcjJLaE9jczJfMkhXdVRSZmNkQnEtRGtYT1FYdG1V?oc=5",
-          "date": "08/02 01:06",
-          "source": "meta.com",
-          "type": "🎮 游戏动态",
-          "summary": "Meta Horizo​​n+ 新增 5 款新游戏，以及 50 多款 XBOX 游戏通行证游戏！元网",
+          "title": "Meta Quest 的玩法：2026 年 4 月回顾",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92RUo0YW42d01iN2s1RGU4dU8yZkpiamVtbFE0MmNQN1BJN05lWkpDR0F6WXNnQ01abzZSOGVLbU43UC1qaG00Z3g3UGVGajZ1eHJWWDhQWEFpV2xvcTdPZjVCbHBpTTZ3cmk2cjJXU204dDlydDR0MXpn?oc=5",
+          "date": "04/30 15:00",
+          "source": "Meta Store",
+          "type": "📰 行业资讯",
+          "summary": "Meta Quest 的玩法：2026 年 4 月 Meta Store 回顾",
           "regions": [
             "🌍 全球"
           ]
         },
         {
-          "title": "VR、AR 和 XR 发布日期 2026 年：所有耳机、游戏和配件均已问世",
+          "title": "VR、AR 和 XR 发布日期 2026 年：每款耳机、游戏和配件均已问世",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQZ0xCelplVmJaNHp4Vk5tTjdPS3VLTHlwLVZYaHh0SHJCNG1GWEF4V0FhNURCMHFkZlg0QmkxeDNPei1pMXc?oc=5",
           "date": "08/01 15:00",
           "source": "vr.org",
@@ -285,12 +285,12 @@
           ]
         },
         {
-          "title": "我们测试过的 2026 年最佳 VR 耳机",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUUliX3VRUWxkdEZ0TkNLbm53RV83R2lUdkpWRUFKbFFpb3lpYjQ5dEJaTWJXY3dsRkNjV2tPeGo4SGNoeWZ0UFh0azZuOG90SzVaNUVvdDByZXd5?oc=5",
-          "date": "07/21 15:00",
-          "source": "PCMag",
-          "type": "📋 评测推荐",
-          "summary": "我们测试过的 2026 年最佳 VR 耳机",
+          "title": "与朋友一起玩 Walkabout Mini Golf 的一晚让我想起了 Meta Quest VR 耳机的最大缺陷之一",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa0UwODVhRTRxYVh6STJ5bHZkZUQ5b29zU3JTSWE3dHVLYjhvcmNjU3daTjZZNlBwbGpPUmh1WlA4NmNCOWUwTjhsQXlrVmIzemVUby1JWnV0TXozODVLdFo4NTRoYWtmVzJpVFpEdFNxU2hZN29CNjR6UWVOU2RrUmp3NXFUc0ZpWTZNT2VCUHB0Y2dXTjV1cjZCeUZkS2lOMWxNM3JfdWxyOVo5dXFPQmkzbFhNQTU0bF9adEdZUWJmdHV1bm53eGpXUDFxdVdFRFB6bmNaX0JVak91YkthUmd5MHh2ZVBCZVcw?oc=5",
+          "date": "07/24 15:00",
+          "source": "GamesRadar+",
+          "type": "🎮 游戏动态",
+          "summary": "与朋友一起玩 Walkabout Mini Golf 的一晚让我想起了 Meta Quest VR 耳机的最大缺陷之一 GamesRadar+",
           "regions": [
             "🌍 全球"
           ]
@@ -322,23 +322,23 @@
           ]
         },
         {
-          "title": "2025 年 20 款最佳复古手持设备 [全部评测]",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IamJ2OW9KdVZBb3Fwc0VfR0hmVkQtVVU4T01YbV9QMzVVc0hnWVFBVS1CNGRhLU5Ra2YxZ0RWcmtZZE1TbmxsQkNXREVYSmxNV1gtek5B?oc=5",
-          "date": "08/03 15:00",
-          "source": "Retro Dodo",
-          "type": "📋 评测推荐",
-          "summary": "2025 年 20 款最佳复古手持设备 [全部评测] Retro Dodo",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "游戏手持设备价格飙升：MSI Claw 1,799 美元 [2026] - tech-insider.org",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44VkU4RzVNc2dqRmI4ODUzTzBuQzV4eldwZGxvM0RjWlQ2eU5zNDRmWFRENXVVTGRlZ2dyaVhSa1RnTWo5M1RBQnhvTzJCUnh5TW5lYWgxSV9aLVRYcHg0MmhURQ?oc=5",
           "date": "07/01 15:00",
           "source": "tech-insider.org",
           "type": "🎮 游戏动态",
           "summary": "游戏手持设备价格飙升：MSI Claw 1,799 美元 [2026] tech-insider.org",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IamJ2OW9KdVZBb3Fwc0VfR0hmVkQtVVU4T01YbV9QMzVVc0hnWVFBVS1CNGRhLU5Ra2YxZ0RWcmtZZE1TbmxsQkNXREVYSmxNV1gtek5B?oc=5",
+          "date": "08/03 15:00",
+          "source": "Retro Dodo",
+          "type": "📋 评测推荐",
+          "summary": "2025 年 20 款最佳复古手持设备 [全部评测] Retro Dodo",
           "regions": [
             "🌍 全球"
           ]
@@ -396,9 +396,9 @@
           "title": "印度坞站市场规模、份额和 2034 年展望",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1XzJCMUQ4b2dEbURkcWxUdlZGQVJyVEZYbkUwOWc3SUZlOGFVM1ZucFJIc3pWMWxuVldVU0dsRzB0V1Y3TjNSMndpR19BeWw3elZFLTVIS21iTlU4Qlc2RVV3Vl9kdw?oc=5",
           "date": "03/27 05:08",
-          "source": "IMARC Group",
+          "source": "imarcgroup.com",
           "type": "📊 市场动态",
-          "summary": "印度坞站市场规模、份额和 2034 年展望 IMARC Group",
+          "summary": "印度坞站市场规模、份额和展望 2034 年 imarcgroup.com",
           "regions": [
             "🇮🇳 印度"
           ]
