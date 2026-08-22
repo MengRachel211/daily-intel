@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 10:20",
+  "updated": "2026-08-22 10:12",
   "brand": "JSAUX",
   "sections": [
     {
@@ -19,9 +19,9 @@
           "title": "《ELDEN RING 暗黑版》崛起，将于 8 月 28 日在 Nintendo Switch 2 上推出",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZlBjcEVPNDJjX0xYZVM5YllYYVZtck1lLU9NRU5rWndQeWFPRFp2bTFiemxXRlNyWlA4d2dVS3g1R21OQ0tueXdnbGxjUjBwNVRzWUk3TThhQ1pZeV82ZWVDSXFQUzd3YWRvYnZ2N3BUT0haMXdPM3pDS2g4TGd0TWtkaEVMU2tZS1NldWM2X3I5dVF3aEZxYjIzeEFrT2RESmF3OEozRmRrUDk1cTUzekZFUTBWU2RsV0kzMWtMX21FX1JoY0FJ?oc=5",
           "date": "08/17 08:31",
-          "source": "Nintendo",
+          "source": "nintendo.com",
           "type": "🚀 新品发布",
-          "summary": "《ELDEN RING 暗黑版》崛起，将于 8 月 28 日在 Nintendo Switch 2 上推出 Nintendo",
+          "summary": "《ELDEN RING 暗黑版》崛起，将于 8 月 28 日在 Nintendo Switch 2 上推出 nintendo.com",
           "regions": [
             "🌍 全球"
           ]
@@ -38,23 +38,23 @@
           ]
         },
         {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXBPMExYM3VkQUx2R2RHWnZ5cVI5eGRMRWdrR0Z3RlUtRWROcXFRYWlOTlFwRFQ2OGVwWFVNdm9kQ2VUSGdyRlVqeTEtRVduUVNDenNMcEF4dGNPZHFnMU12dUNPMWxrakc3LVJYSmtXbDNxQXVzUXlLYktDVVNxNTU3R2l2a0pJYlJXMUhzSTM?oc=5",
-          "date": "08/10 15:00",
-          "source": "GamesRadar+",
-          "type": "🎮 游戏动态",
-          "summary": "2026 年最佳 Nintendo Switch 2 配件：我的日常随身携带的顶级小玩意 GamesRadar+",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Splatoon Raiders Nintendo Switch 2 配件现已上市！小袋和卡包将于 7 月 23 日推出",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWF8zZ3E0NC1qRjlpUnhpTU4zcUFNMk1jSGlzRFZDNjg0WFUyQU52bG00NDZkN2ZVa2xKUnJmMXJGa3dsQTZSRlg3dGdyN05hRU00NzNSTmprZmJvT1k2Wmc1TVVaSlBZSFlacEc1VzlaQVE4RGxBZm1IMko1YVhid9IBhgFBVV95cUxOS0VoZUpEcm5MRUdtejJLZVpyemFPVHVYTmt4ZXpjV2tLVWZzM0RiZVg1T3JPYmxPVWFPZktYSEwtblFmQWJxc2U4UHFZR3VSR25zY2U0RTVtMjhaWmkzTTktWEY4RjVNeDlKNWFINGg0X0NQYUxLY2VIaXdWdmdBblRZSGYwZw?oc=5",
           "date": "06/13 15:00",
           "source": "Saiga NAK",
           "type": "🚀 新品发布",
           "summary": "Splatoon Raiders Nintendo Switch 2 配件现已上市！小袋和卡包将于 7 月 23 日推出 Saiga NAK",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "任天堂宣布一系列涨价，不仅仅是 Switch 2",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTNKelcwTzZxdW9wOXZVcmYzdm11T3AwNnJWQ196SlVZNkViMDZxcDBWZVR3VEc1a1Q5aWlNOExqN0hUdVVnc1ZpVW9WOE1fbTloZGc2aDRnTXpMZkJtREZhakFjUmZYVjNPaUdRMlNRVGIyalE1N3E4QTd5cDhaVDUtVEMtTUkwcFZr?oc=5",
+          "date": "05/08 15:00",
+          "source": "Game File | Stephen Totilo",
+          "type": "🚀 新品发布",
+          "summary": "任天堂宣布一系列价格上涨，不仅仅是 Switch 2 游戏文件 |斯蒂芬·托蒂洛",
           "regions": [
             "🌍 全球"
           ]
@@ -75,17 +75,6 @@
       ],
       "items": [
         {
-          "title": "Steam Frame 拆箱视频泄露，暗示即将发布",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVh6bkZEWmQ4ODRPQmpUQXZCR1ZPR1F5UkdPQjRhVlM5cFZia0FHSHI4NVlqbGJJNHVEY3hRaU5RVnZ5NkNNVEdxV0k3dFNhWkloZ0V2WnRfVlRhYVdDQXRKVWtVTHN3S1VuZGtNLUcwUTdlUktXc1Q5SXNZV3ZXem9UZG9nS2VmMjQ5ZkNYZ2YyTmc5NWI4Z0ZOSG3SAZwBQVVfeXFMTk1Yem5GRFpkODg0T0JqVEF2QkdWT0dReVJHT0I0YVZTOXBWYmtBR0hyODVZamxiSTR1RGN4UWlOUVZ2eTZDTVRHcVdJN3RTYVpJaGdFdlp0X1ZUYWFXQ0F0SlVrVUxzd0tVbmRrTS1HMFE3ZVJLV3NUOUlzWVd2V3pvVGRvZ0tlZjI0OWZDWGdmMk5nOTViOGdGTkht?oc=5",
-          "date": "08/20 17:40",
-          "source": "TechPowerUp",
-          "type": "🚀 新品发布",
-          "summary": "Steam Frame 拆箱视频泄露，暗示即将推出 TechPowerUp",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "阀门蒸汽框架：发布日期、价格、规格和我们所知道的一切",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9uS19HeURrcXBVUkhWeUY3S0hwLXhua1lwM1RTcDlKMkUxV25jYlIxUFV0aWstbU1pbTF4aGp1aw?oc=5",
           "date": "08/10 15:00",
@@ -97,23 +86,34 @@
           ]
         },
         {
-          "title": "Steam 控制器 (2026) 以 99 美元售罄 [补货指南] - tech-insider.org",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEVlM0Yk5pYk9fOURGa041T1U0emlPMVV2b2ZTSUxyYnBOMzc0ZG1zRjBydVNLQjFJdVFWZUsxSHlhZ2ZKZ0ZHUnFTNEtubmZZN29RN3BrRVdDSlhjc19LWkFzZkhrMEVr?oc=5",
-          "date": "08/10 19:54",
-          "source": "tech-insider.org",
-          "type": "📋 评测推荐",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "title": "Steam Frame 拆箱视频泄露，暗示即将发布",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVh6bkZEWmQ4ODRPQmpUQXZCR1ZPR1F5UkdPQjRhVlM5cFZia0FHSHI4NVlqbGJJNHVEY3hRaU5RVnZ5NkNNVEdxV0k3dFNhWkloZ0V2WnRfVlRhYVdDQXRKVWtVTHN3S1VuZGtNLUcwUTdlUktXc1Q5SXNZV3ZXem9UZG9nS2VmMjQ5ZkNYZ2YyTmc5NWI4Z0ZOSG3SAZwBQVVfeXFMTk1Yem5GRFpkODg0T0JqVEF2QkdWT0dReVJHT0I0YVZTOXBWYmtBR0hyODVZamxiSTR1RGN4UWlOUVZ2eTZDTVRHcVdJN3RTYVpJaGdFdlp0X1ZUYWFXQ0F0SlVrVUxzd0tVbmRrTS1HMFE3ZVJLV3NUOUlzWVd2V3pvVGRvZ0tlZjI0OWZDWGdmMk5nOTViOGdGTkht?oc=5",
+          "date": "08/20 17:40",
+          "source": "TechPowerUp",
+          "type": "🚀 新品发布",
+          "summary": "Steam Frame 拆箱视频泄露，暗示即将推出 TechPowerUp",
           "regions": [
             "🌍 全球"
           ]
         },
         {
-          "title": "Valve 警告蒸汽机买家注意网络攻击后的诈骗消息",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0ZlN3FabjQxTFpacTVvdURXQ2w2aUlPRmVVUXEwUWtNRnk4OEJWSmVQendNYmh0SUstUkNkTEhLS2lKRlNYWTY4Zi1CRDg0ZG1SXzg2d3hEajVwaGRtWmd5SGRMbnJBc3lZRFhZVTBMV0RkMjUyQjk5N2pTSWhuVXk0R1JBZU1wc0VPZVU2a1FmeE11Um5uVXlJT3JyRUZkV05oREIxMA?oc=5",
-          "date": "08/10 15:00",
-          "source": "CNET",
-          "type": "📰 行业资讯",
-          "summary": "Valve 警告蒸汽机买家注意网络攻击后的诈骗消息 CNET",
+          "title": "Steam Frame 拆箱视频泄露，暗示 Valve VR 耳机的发布日期",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVYydm9BZW5sVnU5NEVoWEwtRzF0b3RNTUpRQzZFM3pBRDFkRGNSVHlKVDNXd1BxZS1kNXVmenBpemZqUktfSzR6MjNGRVF2TElJR0x2blUzeHBBN1NFR2VJYlJRVm5FU2R2VlRaNVhvTXl6TjdpMkh6dzNabGliZkxpRDFfNjV4dWNMMWpGUnJmN3ZpamxTZUpNYXYzUWRYZW5LMFlxc0NQMF9iTnZSaXhsNEtIc2xfWWU4azF3?oc=5",
+          "date": "08/20 00:00",
+          "source": "Notebookcheck",
+          "type": "🚀 新品发布",
+          "summary": "Steam Frame 拆箱视频泄露，暗示 Valve VR 耳机的发布日期 Notebookcheck",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Steam 控制器 (2026) 以 99 美元售罄 [补货指南] - tech-insider.org",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEVlM0Yk5pYk9fOURGa041T1U0emlPMVV2b2ZTSUxyYnBOMzc0ZG1zRjBydVNLQjFJdVFWZUsxSHlhZ2ZKZ0ZHUnFTNEtubmZZN29RN3BrRVdDSlhjc19LWkFzZkhrMEVr?oc=5",
+          "date": "08/10 19:54",
+          "source": "tech-insider.org",
+          "type": "📋 评测推荐",
+          "summary": "Steam 控制器 (2026) 以 99 美元售罄 [补货指南] tech-insider.org",
           "regions": [
             "🌍 全球"
           ]
@@ -134,12 +134,23 @@
       ],
       "items": [
         {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "title": "Nex Playground 与 Mattel 首次合作",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWVpWGs1UGg2VXBQdmhtWHVBRF9fSHZRbDd1Y29hM1NCc1VDdkxwSkFCYjBqUGpOeld0R09QZHFOY3R0VzhrNDNSUHRxdGtWdldwUEp4YUtoTTVrc1FEdW1JeFVfM01FcnZ1Vk9oVUViMGVucC0xOS1hWjVCengtTldhVjNVU1JoRy1pcGVkdVF0bjdfTEhBOFVxWmktb251YjUyag?oc=5",
           "date": "12/26 16:00",
           "source": "Gifts & Decorative Accessories",
           "type": "🤝 品牌合作",
           "summary": "Nex Playground 与美泰礼品及装饰配件首次合作",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
+          "date": "02/06 16:00",
+          "source": "Gadget Flow",
+          "type": "📰 行业资讯",
+          "summary": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？小工具流程",
           "regions": [
             "🌍 全球"
           ]
@@ -156,23 +167,12 @@
           ]
         },
         {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
-          "date": "02/06 16:00",
-          "source": "Gadget Flow",
-          "type": "📰 行业资讯",
-          "summary": "Nex Playground 真的能与 Xbox 或 PS5 竞争吗？小工具流程",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONjQ3SVhGLUFqbWk2ZnU1N1piRGRoWGxzWHZUUFhJY1JFQTExbzF3NEtRZVRZV2Z1MnFNVkswSzFEQ1dzNHFRdEhqNGVjUkxyal9vS2pqUTR1Q1QwVmFieEIzRHFieW1wM3F2eDFIUVlSQS1NdGdPS28tUl90YnZwbjNyMU1LYkVaVGgzNDI2amNiMkpjQVZaQzhISDROUlJtOUtsSHhQVUNFQ2FOVG9ZZGI0YlVPZU16TFVENVh3ZlU0YzdVNm5TUHJwMDdnZklVaXFmbFp1N2JrY2Z4VjlDdVRBWW5HRlhwT096dUd3?oc=5",
-          "date": "04/10 15:00",
-          "source": "Creative Bloq",
-          "type": "🎮 游戏动态",
-          "summary": "如果苹果制造了一款游戏机，那它就是 Nex Playground——但它到底是什么？创意博客",
+          "title": "根据专家评审员的说法，2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZkdEWFdvd3ZwWElWNzJLbzJLT0M1NzNONExYd3pORXVWXzVLeE4wdmJ3X0hkcXpNUHZDV01lMV9EalkzampJWkdJMkZWQmZNeDdPTUpZbEF4aGpGaE5ucHVPT3I1OUJhVDBfVlhFYVlwNjJ5U1V4UnVKakdYVFh6OG5aVkdCYjg?oc=5",
+          "date": "12/03 16:00",
+          "source": "New York Post",
+          "type": "📢 促销活动",
+          "summary": "《纽约邮报》专家评审员指出 2025 年每个孩子的愿望清单上有 29 个最热门的节日玩具",
           "regions": [
             "🌍 全球"
           ]
@@ -204,34 +204,34 @@
           ]
         },
         {
+          "title": "使用 Google Pixel Tag 密切关注您的贵重物品",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tdzZab0JuVF9BRTdwOGxkMzVwYWllZ2FQakdmN1Q1UTRMd0RoZmNMeEZvT3NnZmYwVTFlX0tpWktkSk92VkNHNG9OcWpBdXpyOTQwek5qbEtxX1dNck02cHF6eDV1bjJRRUZlMVdDU2FxaU1SVlRCdDVmUHNwZW8?oc=5",
+          "date": "08/12 15:00",
+          "source": "blog.google",
+          "type": "📰 行业资讯",
+          "summary": "使用 Google Pixel Tag 密切关注您的贵重物品 blog.google",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "谷歌在下个月的新 iPhone 发布之前推出了新的 Pixel 产品",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41RWdFSnMwZ3lqWkNLNmx3bmZkTm1PVzlUeEtIdVFBcWIzbUVvNGs2UUwtZ3RrVFNmNFdOc0lxRFNwaVMyMl94aDg4TU1fSG5yLVV0MkU5bTBuc0tiZVlVYWdsVG9oTm5OeFJpUWpxaUNRSWs?oc=5",
-          "date": "08/12 22:02",
+          "date": "08/12 15:00",
           "source": "Axios",
           "type": "🚀 新品发布",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "谷歌在下个月的新款 iPhone Axios 之前推出了新的 Pixel 产品",
           "regions": [
             "🌍 全球"
           ]
         },
         {
-          "title": "谷歌制造的 Pixel 11 手机壳和 Pixelsnap 配件焕然一新 [图库]",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jWDZIYy0xVDF1R3JmM210c3dxTGd0blMtUXJXV3A2VGN0N3JOYzBqUWRyN05XbXFvd0ZMeXNud0k4dC1xaHJwR0FSUmI5T29MdkpTVkpjUmR0b2pFd0ZUVlQ2ZGw0Sm1rV2xESm10eXlNUFM1d1ZXaXM3N1k?oc=5",
-          "date": "08/12 15:00",
-          "source": "9to5Google",
-          "type": "📰 行业资讯",
-          "summary": "谷歌制造的 Pixel 11 手机壳和 Pixelsnap 配件焕然一新 [图库] 9to5Google",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Pixel 11：谷歌新款旗舰手机的终极指南",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0NNekJSNl9YWnhmUjZwckotVDdTX3ZQMk5hdjUwRnAxa2RhTEJlbUJJVnFaM2FDZ0lLa0hPZVdaOXZQcm1ETGRPWklmalBxdGh2U1ltMFVnbGl4cG5tRUdDM040bU5YdWhGU0NYSG5jZzFsOTNwdDJUNWtCTmFscWtNczBTWlVNYkZRYzZRdHFlaENlaG12ZkxybXVHbzVFRE5qVEZOaw?oc=5",
-          "date": "08/12 15:00",
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2NPQVpYZHRWX3dmdGkyaWRBNVVUZWdFZzR3N3dOclR2bzlxN1o4VUZwbkFuTi1XRjVZeVpYbmlBT21nV3AzWENVT1J1VEpsSUNGc2haRWp3cU5JSmFPSHhDM3JKcm5qWmplN0ZveENNSVQyWVR4cnR6V0FtZEw2T19GeDZWZFBXb2c?oc=5",
+          "date": "08/17 17:49",
           "source": "Tech Advisor",
-          "type": "📋 评测推荐",
-          "summary": "Pixel 11：谷歌新旗舰手机的终极指南技术顾问",
+          "type": "📰 行业资讯",
+          "summary": "谷歌，你忘了 Pixelsnap 技术顾问",
           "regions": [
             "🌍 全球"
           ]
@@ -252,23 +252,23 @@
       ],
       "items": [
         {
-          "title": "“VR 游戏展示”2026 年 8 月回顾：每个 Meta Quest VR 游戏公告",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45MHNwbGIwWjlrRTQ1RExCRTlYVTVkY2tzLUlXeTQwVVVSZjBXNDljU25TTjV2VkpsWUxKUExWOW9URlBpVTQxZHZDUTROZnVxeWFBY2dtUDVGRUtGV3dpM25USHY0VTA?oc=5",
-          "date": "08/15 05:06",
-          "source": "Meta Store",
-          "type": "🚀 新品发布",
-          "summary": "“VR 游戏展示”2026 年 8 月回顾：每个 Meta Quest VR 游戏公告 Meta Store",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Meta Quest 的玩法：2026 年 7 月回顾",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fOGZyTFhzb0lMbXBIN0t3N21kenFYdXFvSHNBd0N0eTdEamhQa2VzdzhXLXNhWmJ2UVEtX0tJQmQ4NmhIMFpRRk9XU3hxZ1EtYzVFcGRTVzBBT0FXRDYtT2FvUnhXSTZ0dzR1ZDk4YWlCXzdrQngydQ?oc=5",
           "date": "07/31 15:00",
           "source": "Meta Store",
           "type": "📰 行业资讯",
           "summary": "Meta Quest 的玩法：2026 年 7 月 Meta Store 回顾",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "“VR 游戏展示”2026 年 8 月回顾：每个 Meta Quest VR 游戏公告",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45MHNwbGIwWjlrRTQ1RExCRTlYVTVkY2tzLUlXeTQwVVVSZjBXNDljU25TTjV2VkpsWUxKUExWOW9URlBpVTQxZHZDUTROZnVxeWFBY2dtUDVGRUtGV3dpM25USHY0VTA?oc=5",
+          "date": "08/15 05:06",
+          "source": "Meta Store",
+          "type": "🚀 新品发布",
+          "summary": "“VR 游戏展示”2026 年 8 月回顾：每个 Meta Quest VR 游戏公告 Meta Store",
           "regions": [
             "🌍 全球"
           ]
@@ -393,12 +393,12 @@
           ]
         },
         {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "title": "2026 年适用于 Windows 笔记本电脑的最佳扩展坞",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hQjJYZktfTFpjNU1YZEdSY0U0NjgzY2JUTms0bFM3bVNUYndueDdObTFpZ2pCVWJqOVR6WjlkTEV4dkZNd1NZVnI1ZGNfRWU0UzI0VFM5YWJWMm1MSHdQMW5ZckRmdVRXTGdUbUduUGkta0VDN2pEazBsbEJrQQ?oc=5",
           "date": "09/12 01:41",
           "source": "PCMag",
           "type": "📋 评测推荐",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "2026 年 Windows 笔记本电脑的最佳扩展坞 PCMag",
           "regions": [
             "🌍 全球"
           ]
