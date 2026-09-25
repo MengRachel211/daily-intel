@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 13:44",
+  "updated": "2026-09-25 13:41",
   "brand": "JSAUX",
   "sections": [
     {
@@ -27,23 +27,23 @@
           ]
         },
         {
+          "title": "All Switch 2 Bundles",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3aWJnNGVUOVB0TkpsMzFDbEV1TmpDWFVfejNrOHlkRUVlbW5McVJEdWpJTndOOUVhV01jUGFHWkpBUTM5NGVMbktpZU9TSTEtdXdIQlpVQzgydWx2WUZ3OTlpU1pnVVphYVl2UF9WZi1YZw?oc=5",
+          "date": "09/24 01:35",
+          "source": "ign.com",
+          "type": "📰 行业资讯",
+          "summary": "All Switch 2 Bundles ign.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "The Legend of Zelda 40th Anniversary celebration revealed in new Nintendo Direct presentation",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc0xTbTFOUTNNSzd2Q1JqeGFrVjIxY3pOa056bWhYdHRlN3Axajg0dG9aOVJfN1dfdXQ2a1JnYnliSkp0Ymo1dXpSTXVCWXZiNFNHSkduSzhmTkZfWVlNdmE4bGNVQmpCbmFvczVGZGVNSnNYUE1IbExHNlBTczRyRFJmUEhGanVKb01yQW9qdFZiUkFheTZtVDkzNXJZWENuUUtYTjNxTkE5M3NzWVBna1FlcDdGTzI4cFRUdTYyeFVkQldIWlZWNURzVQ?oc=5",
           "date": "09/08 15:00",
           "source": "Nintendo",
           "type": "🚀 新品发布",
           "summary": "The Legend of Zelda 40th Anniversary celebration revealed in new Nintendo Direct presentation Nintendo",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01aHoyMS1uRFJja0JvRWt4cXhnQktnbkJlLXE4SDU0Z0RzX1dWMlRZR0N5UGtnY28wYnpzRnp4QXBHb3FJcDFMcmNlemxxOFRWRFgtU1Y3aXJ3ZFZqV1VNZG95cDFlWm1ERDhLclU3WGxOMm8?oc=5",
-          "date": "09/11 15:00",
-          "source": "ign.com",
-          "type": "🚀 新品发布",
-          "summary": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond ign.com",
           "regions": [
             "🌍 全球"
           ]
@@ -75,14 +75,25 @@
       ],
       "items": [
         {
-          "title": "Valve’s Hardware Was Supposed to Change PC Gaming",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlgyUkc1RFpIRm9iLU9EME95VWd1QnhPWmNlMlFOaVNaNng3bnlIZXl6RDNCcHZ4WF8wejRPdXM0aUVieHY3TU1XV2NwSHE4WUNoMWYzV1IyRFc2bDF1Q0o5NE1Mc0FRT3RwTnF3WmtKQ0dJV21LTk1FbDQ4TVZ4ekFTY3FaMWNzUWFjeGR3NXdtdw?oc=5",
-          "date": "09/23 21:15",
-          "source": "IGN India",
-          "type": "🎮 游戏动态",
-          "summary": "Valve’s Hardware Was Supposed to Change PC Gaming IGN India",
+          "title": "Valve Steam Frame: Release Date, Price, Specs & Everything We Know",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9uS19HeURrcXBVUkhWeUY3S0hwLXhua1lwM1RTcDlKMkUxV25jYlIxUFV0aWstbU1pbTF4aGp1aw?oc=5",
+          "date": "09/23 15:00",
+          "source": "vr.org",
+          "type": "🚀 新品发布",
+          "summary": "Valve Steam Frame: Release Date, Price, Specs & Everything We Know vr.org",
           "regions": [
-            "🇮🇳 印度"
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Valve’s Hardware Was Supposed to Change PC Gaming",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3dCdVhwY0gyZ1FPRkh3eF9kWnpqVXR5TklvQ3A2bktadEdiRHpGZVJERFhXX1VqN2I5SG5ValhXUlhBTEpDVkpfM0M4TzRZNGZLN21zY18wWXhKQXYtRkJCQXBhdFRfME1PM1l4MWNYT3g0S3dDUUQ2anhmYWpCbkpHODlNc2pyZnptemdMSG5fZw?oc=5",
+          "date": "09/23 21:15",
+          "source": "IGN Africa",
+          "type": "🎮 游戏动态",
+          "summary": "Valve’s Hardware Was Supposed to Change PC Gaming IGN Africa",
+          "regions": [
+            "🌍 全球"
           ]
         },
         {
@@ -97,23 +108,12 @@
           ]
         },
         {
-          "title": "Valve's First Steam Frame Update Makes the Headset Charge Faster While It Sleeps",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDNuNFFkZ2dOd3VUb1g5Z3BXVFMtZktRS0ZPZFQ1MVc5alpFZU95US1YT2xxZFhXemp0LXdHOURPckhtRHFSdjNJTldBdHdJbXBQWVh1R3NiaTROajZpamloaURZVWhsa3k2aVg0RG1mS194NFU5ZGhZZndUcGx0X3FVMFRkZk9Ba3NOc0lTRmZNNUh1?oc=5",
-          "date": "09/22 02:27",
-          "source": "vr.org",
-          "type": "🎮 游戏动态",
-          "summary": "Valve's First Steam Frame Update Makes the Headset Charge Faster While It Sleeps vr.org",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Monday-morning surprise: Valve Software suddenly launches its wireless VR headset Steam Frame for $1,059",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWU83OFQwMlNpY2hyX1lDWUlJeE5QOHo4T3ozUFhzdWpMbG9CSmVGSmxYUmRGLVNwV01Jam11QW8zbE9MaDh3Z1I5aGJRLU9QcVM1TjQ3V0tvQUI1dXk1VFRLZWpSU2ZSU2VfRzJGMHJwamxBaWlwMlZvV2VPRjBqVGtWUWxjbjQyMHduTzRTLTVnbVBDYmpfWEN0N01neDZEaHdoSl9VVGhpVWt5WC1PY1BZOGJsZmJWMXhjancyR0JKMzdXdnNQTWlremI?oc=5",
           "date": "09/14 15:00",
-          "source": "GeekWire",
+          "source": "geekwire.com",
           "type": "🚀 新品发布",
-          "summary": "Monday-morning surprise: Valve Software suddenly launches its wireless VR headset Steam Frame for $1,059 GeekWire",
+          "summary": "Monday-morning surprise: Valve Software suddenly launches its wireless VR headset Steam Frame for $1,059 geekwire.com",
           "regions": [
             "🌍 全球"
           ]
@@ -134,23 +134,23 @@
       ],
       "items": [
         {
+          "title": "Can Nex Playground really compete with Xbox or PS5?",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
+          "date": "02/06 16:00",
+          "source": "Gadget Flow",
+          "type": "📰 行业资讯",
+          "summary": "Can Nex Playground really compete with Xbox or PS5? Gadget Flow",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "Nex Playground ‘Dances’ Into First Collaboration With Mattel",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWVpWGs1UGg2VXBQdmhtWHVBRF9fSHZRbDd1Y29hM1NCc1VDdkxwSkFCYjBqUGpOeld0R09QZHFOY3R0VzhrNDNSUHRxdGtWdldwUEp4YUtoTTVrc1FEdW1JeFVfM01FcnZ1Vk9oVUViMGVucC0xOS1hWjVCengtTldhVjNVU1JoRy1pcGVkdVF0bjdfTEhBOFVxWmktb251YjUyag?oc=5",
           "date": "12/26 16:00",
           "source": "Gifts & Decorative Accessories",
           "type": "🤝 品牌合作",
           "summary": "Nex Playground ‘Dances’ Into First Collaboration With Mattel Gifts & Decorative Accessories",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Can Nex Playground really compete with Xbox or PS5?",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xT0hEUnNkRTcyNy14enV5VzZMRk9YeUtpQ0ZqQjliS2xwVnYxdEZwcXpHZFNDR1pZWlA5SW9maEZxM1B1M2VxUUYyakdmYmc4SVJJQktRTGlIVTZfaGRManlrRjUzdjBVclE?oc=5",
-          "date": "02/06 16:00",
-          "source": "thegadgetflow.com",
-          "type": "📰 行业资讯",
-          "summary": "Can Nex Playground really compete with Xbox or PS5? thegadgetflow.com",
           "regions": [
             "🌍 全球"
           ]
@@ -204,12 +204,12 @@
           ]
         },
         {
-          "title": "5 Of The Best Anker Accessories For The Google Pixel 10",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQblFkckR0amVBMTRHNXJKQ25SajdrRkpOY1BObldkX2FzcTMwRXFoV2JXRjdOdzZqVnJ2SXNIX2hMdkR6OUtBWmk0ekk2YWJiTmhiWDllUlhXSU5Hei1TXzZ2WGtxam41Rk5NSklCYkFkbjVYSnZ5bkN5TGRRUzcyZkdOSm5YZw?oc=5",
-          "date": "09/05 15:00",
-          "source": "SlashGear",
-          "type": "📋 评测推荐",
-          "summary": "5 Of The Best Anker Accessories For The Google Pixel 10 SlashGear",
+          "title": "Google debuts new Pixel products ahead of next month's new iPhones",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41RWdFSnMwZ3lqWkNLNmx3bmZkTm1PVzlUeEtIdVFBcWIzbUVvNGs2UUwtZ3RrVFNmNFdOc0lxRFNwaVMyMl94aDg4TU1fSG5yLVV0MkU5bTBuc0tiZVlVYWdsVG9oTm5OeFJpUWpxaUNRSWs?oc=5",
+          "date": "08/12 15:00",
+          "source": "Axios",
+          "type": "🚀 新品发布",
+          "summary": "Google debuts new Pixel products ahead of next month's new iPhones Axios",
           "regions": [
             "🌍 全球"
           ]
@@ -218,20 +218,20 @@
           "title": "The Best Google Pixel Phone in 2026",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJdnVmcXZ4cXFncURKa0FDZTFZOFU3YnpRQWZiMlMxZDRLUG92Ql9LaHdIOWkybFFrQXIyUjlja082VEtIcXc1ZjNHOUJCQTdwV0dUcW5NRVJhM0pCVXBNSzRGSkxqanZwTjZydnBZajNrbkYxLXc?oc=5",
           "date": "08/30 15:00",
-          "source": "Business Insider",
+          "source": "businessinsider.com",
           "type": "📋 评测推荐",
-          "summary": "The Best Google Pixel Phone in 2026 Business Insider",
+          "summary": "The Best Google Pixel Phone in 2026 businessinsider.com",
           "regions": [
             "🌍 全球"
           ]
         },
         {
-          "title": "Google debuts new Pixel products ahead of next month's new iPhones",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41RWdFSnMwZ3lqWkNLNmx3bmZkTm1PVzlUeEtIdVFBcWIzbUVvNGs2UUwtZ3RrVFNmNFdOc0lxRFNwaVMyMl94aDg4TU1fSG5yLVV0MkU5bTBuc0tiZVlVYWdsVG9oTm5OeFJpUWpxaUNRSWs?oc=5",
-          "date": "08/12 15:00",
-          "source": "axios.com",
-          "type": "🚀 新品发布",
-          "summary": "Google debuts new Pixel products ahead of next month's new iPhones axios.com",
+          "title": "Google Pixel phones get thin ‘sandstone’ cases from Dbrand’s new ‘MNML’ brand [Gallery]",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pcjJYZlNlSjR3UWFobFRRX3V4TDY5eXN4MnpGOEVJbmZqcUZTcmxVc1NBYng1bEI0QTRaeGsxM0V3dWx3VTBkX1lqUzRDcy1tVkVmTjZoNU5CaUJoblNIb0R6aXEtam9jSFVWQ25IUndmR28?oc=5",
+          "date": "09/09 15:00",
+          "source": "9to5Google",
+          "type": "📰 行业资讯",
+          "summary": "Google Pixel phones get thin ‘sandstone’ cases from Dbrand’s new ‘MNML’ brand [Gallery] 9to5Google",
           "regions": [
             "🌍 全球"
           ]
@@ -251,6 +251,17 @@
         "美国占全球VR设备销量约45%，Amazon US是主战场"
       ],
       "items": [
+        {
+          "title": "New Titles and Updates For Meta VR Glasses and Quest Announced at Meta Connect",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnZidnlLS2xsWWQ4R3RMdGQ2SGM1VWNhUGgwTTNzZUR5dXN2d3NHdGowaUZ6TnVEQ0pmWTg5eEZ0YVFmTHRuUEV3cG1rTkJuUndvNmVHMGFMQU51X2FrOV9DNFNSV2c1b2t5RWJNSm51b1lRRHNWdE9GX08tc29GYkdjNXp6b2s?oc=5",
+          "date": "09/24 08:51",
+          "source": "meta.com",
+          "type": "🚀 新品发布",
+          "summary": "New Titles and Updates For Meta VR Glasses and Quest Announced at Meta Connect meta.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
         {
           "title": "Introducing Meta VR Glasses, A New Era for Virtual Reality",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5ZzFINlR6Sk8tRV9CazNxcENKa2JDb1lVdC0zU3g0bVRPeTlqMXpydjlRWFd3dWo0N1JndjIxN0dIcnl0UjllWHVKRDhHbmRCT2VDc1ZyTjlwRWp0bGQ5NG5IaFRKS3Vsdm9wQVY4MW9ZNDRwR3Qw?oc=5",
@@ -274,23 +285,12 @@
           ]
         },
         {
-          "title": "VR, AR & XR Release Dates 2026: Every Headset, Game, and Accessory Coming Out",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQZ0xCelplVmJaNHp4Vk5tTjdPS3VLTHlwLVZYaHh0SHJCNG1GWEF4V0FhNURCMHFkZlg0QmkxeDNPei1pMXc?oc=5",
-          "date": "09/24 10:25",
-          "source": "vr.org",
-          "type": "🚀 新品发布",
-          "summary": "VR, AR & XR Release Dates 2026: Every Headset, Game, and Accessory Coming Out vr.org",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "What to Play on Meta Quest: July 2026 Recap",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fOGZyTFhzb0lMbXBIN0t3N21kenFYdXFvSHNBd0N0eTdEamhQa2VzdzhXLXNhWmJ2UVEtX0tJQmQ4NmhIMFpRRk9XU3hxZ1EtYzVFcGRTVzBBT0FXRDYtT2FvUnhXSTZ0dzR1ZDk4YWlCXzdrQngydQ?oc=5",
-          "date": "07/31 15:00",
+          "title": "Biggest ‘Beat Saber’ Update Ever Brings Flux, Refreshed Campaign, and More in Spring 2027",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTml2QzhoTjVnYUM3OVRVNXk1NnlLTXM0b1FJVlV5VFZIRzUtaDdlOGNQMWRBWUJKODduU09IOVZtUWdBenRENkdrT29uQVlvYXFzYkJZVlcyZmxEX1JzbXBhd1VCV2daNnVyOF9hRXI1MFRwODhhaUxqMHNQUDFlNWNseHpnWkk?oc=5",
+          "date": "09/24 08:08",
           "source": "meta.com",
-          "type": "📰 行业资讯",
-          "summary": "What to Play on Meta Quest: July 2026 Recap meta.com",
+          "type": "🎮 游戏动态",
+          "summary": "Biggest ‘Beat Saber’ Update Ever Brings Flux, Refreshed Campaign, and More in Spring 2027 meta.com",
           "regions": [
             "🌍 全球"
           ]
@@ -333,23 +333,23 @@
           ]
         },
         {
-          "title": "Best gaming handheld 2026: portable consoles and PCs I'd take on the go",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBazNXcndBTGRNd3JqSDRBaDJ2Mm1NV2ZXUUZPLUx1cGtOZkVWZDlWcFZab1FCaFY5SEg1alktT3g5d0c1bTBBVVlsdVRMVXl4XzdaWXBlVEdwbDhM?oc=5",
-          "date": "07/14 15:00",
-          "source": "GamesRadar+",
-          "type": "🎮 游戏动态",
-          "summary": "Best gaming handheld 2026: portable consoles and PCs I'd take on the go GamesRadar+",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Steam Deck OLED Vs. ROG Ally: Which Gaming Handheld Should You Buy In 2026?",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcE9najd1ZEhBRkpJdGVIM21STUJMdEJjc0YtT3NlVE1KWTJXMzBBSk5SbWdKek9rZEhDRERSUmJaeFJJSEVzREQ2b3M2NWl2ZTRBajFlekJUOGhRcjdmR0dVZnNDc055ek9GS3dfU3A4REdGMEFjam80RzU0Qkh6c2JzV3I?oc=5",
           "date": "08/11 15:00",
           "source": "bgr.com",
           "type": "🎮 游戏动态",
           "summary": "Steam Deck OLED Vs. ROG Ally: Which Gaming Handheld Should You Buy In 2026? bgr.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Best gaming handheld 2026: portable consoles and PCs I'd take on the go",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBazNXcndBTGRNd3JqSDRBaDJ2Mm1NV2ZXUUZPLUx1cGtOZkVWZDlWcFZab1FCaFY5SEg1alktT3g5d0c1bTBBVVlsdVRMVXl4XzdaWXBlVEdwbDhM?oc=5",
+          "date": "07/14 15:00",
+          "source": "GamesRadar+",
+          "type": "🎮 游戏动态",
+          "summary": "Best gaming handheld 2026: portable consoles and PCs I'd take on the go GamesRadar+",
           "regions": [
             "🌍 全球"
           ]
@@ -370,12 +370,23 @@
       ],
       "items": [
         {
+          "title": "PCB Connector Market Forecast to 2035: Miniaturization and High-Speed Data Demand Drive Growth",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlhPVXliSWIyR3U4eU1CaDhDLU1INVljQWl0Sk1kdUEtaFhrZ1VSRXJTekZaSUc5b21xSDgyeENIeG5BQjFMVTBqamJ0TWhLY244QzF3RnBMTVlRR19DcW9BMnVwZWhaaW5laVZWS1d6ZW9KZ2h4X0FsbnRnQW9EVlNkZ25mUGtlVWh5eVpGeTBCLUlNWXVnc0V2djJnbk1sdl9aZkVPV2g5akhyVXhRRm1ZR3BPdGplYV9YUjk1UW4?oc=5",
+          "date": "09/25 01:11",
+          "source": "IndexBox",
+          "type": "📊 市场动态",
+          "summary": "PCB Connector Market Forecast to 2035: Miniaturization and High-Speed Data Demand Drive Growth IndexBox",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "Demand for USB Type C in the USA Forecast and Outlook 2025 to 2035",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1JGVjhvQTBfakdtUHpVd29va1o0MGxrMXIweVlHYTZCVUdqZUNTRVpLajlzZ2hiMm9pNEtLaUtaSEtST00wZE4tZHBXdlJWbU5VVHJJTnJYUHkwQ21Ec0c1UjREc05rR19HYXlGZUVLam1lc2hjUjZEbXRpTFVhWDBR?oc=5",
           "date": "11/20 16:00",
-          "source": "Future Market Insights",
+          "source": "futuremarketinsights.com",
           "type": "📊 市场动态",
-          "summary": "Demand for USB Type C in the USA Forecast and Outlook 2025 to 2035 Future Market Insights",
+          "summary": "Demand for USB Type C in the USA Forecast and Outlook 2025 to 2035 futuremarketinsights.com",
           "regions": [
             "🇺🇸 美国"
           ]
@@ -384,9 +395,9 @@
           "title": "India Docking Station Market Size, Share and Outlook 2034",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1XzJCMUQ4b2dEbURkcWxUdlZGQVJyVEZYbkUwOWc3SUZlOGFVM1ZucFJIc3pWMWxuVldVU0dsRzB0V1Y3TjNSMndpR19BeWw3elZFLTVIS21iTlU4Qlc2RVV3Vl9kdw?oc=5",
           "date": "03/27 05:08",
-          "source": "imarcgroup.com",
+          "source": "IMARC Group",
           "type": "📊 市场动态",
-          "summary": "India Docking Station Market Size, Share and Outlook 2034 imarcgroup.com",
+          "summary": "India Docking Station Market Size, Share and Outlook 2034 IMARC Group",
           "regions": [
             "🇮🇳 印度"
           ]

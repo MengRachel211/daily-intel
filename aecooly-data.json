@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 13:50",
+  "updated": "2026-09-25 13:47",
   "brand": "Aecooly",
   "sections": [
     {
@@ -86,6 +86,17 @@
           ]
         },
         {
+          "title": "Your Own Personal Breeze Is Just $20 Away",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRSnlRTEFuYWJoVzRUM3Y2OTcwd0g4WFpETTdxTHNLUWpDeXhjRVNrWXoyM3pZQm55S3hZa2VsQ2pwbVV5bVZsRzFOY28yUTV4Qm9adzN2aDZ1M1RQRHdjQnphcnI5R1dxQnk2dg?oc=5",
+          "date": "08/06 15:00",
+          "source": "WIRED",
+          "type": "📰 行业资讯",
+          "summary": "Your Own Personal Breeze Is Just $20 Away WIRED",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "7 best handheld fans to keep you cool on the move, tested by experts",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEY4SGYxNUpSYnNiOFVpUk9wVVJCVkRXWWUxWndGd1JLVUVfLVVBdkp6cGZwX3ZMRTZJNE5DS1NMaEM1Nm9PSFhGaDJrb3BRWEZoU0Rrak9EOUFtdEVJZDBSRV9sR2ZKcmlVY3BqWEJ4VlZsRTQwUWVtQ3BqVm5LcEFXYjdvd0xtSmVwb3hDdTgwWC1TZ3ZpdnFR?oc=5",
           "date": "08/13 15:00",
@@ -100,20 +111,9 @@
           "title": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYRkdYb1BOR09uSDM4eW9DRnlTbExfRXpZcGtqLTNWNHJKNVE4NTFLU2pVdGVqeWpOeVlmMmRDTzdlLTladTlIeXZCOHVJR2l2Uk16clF0TlVtRjJUSldqUDI2OHFkZUsybHJZenZfZ2lFVnM?oc=5",
           "date": "08/18 15:00",
-          "source": "travelandleisure.com",
+          "source": "Travel + Leisure",
           "type": "📋 评测推荐",
-          "summary": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler travelandleisure.com",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "The 4 Best Neck Fans, Evaluated and Reviewed",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50NThHU2FtZ19pclIwWVJqc2otV1ltRnZHS2p4ZVBvN3dLN0FjYk12ekZPZmZ2Z3A1WE9tc3ZwYVBJbG4tVzhwaWRtYWpJc3J4VjJCMHFCNkZHOHQ3eUpXWUU0TWdzOHdhYXlBT2ZDUWtlLXgxc0RpaWQwYw?oc=5",
-          "date": "04/16 15:00",
-          "source": "Consumer Reports",
-          "type": "📊 市场动态",
-          "summary": "The 4 Best Neck Fans, Evaluated and Reviewed Consumer Reports",
+          "summary": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler Travel + Leisure",
           "regions": [
             "🌍 全球"
           ]
@@ -132,19 +132,7 @@
         "Shopee：东南亚5月促销节密集，直播+Flash Deal组合效果最佳",
         "Mercado Libre：巴西、墨西哥旺季，与北半球并行，需差异化备货策略"
       ],
-      "items": [
-        {
-          "title": "American Consumers Are Getting Carried Away in Live-Streaming Rooms: Trends & Insights",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtWUsyMVRXT2gtOE5KeTBiazR2MlhINnc4ekFKNVh5b0dXeWZZN1NVUV9MVEVvbWlfNE9pYlNpWE83V1lEV3ByQ0tPTS1tZktQd1VV?oc=5",
-          "date": "07/29 15:00",
-          "source": "eu.36kr.com",
-          "type": "📊 市场动态",
-          "summary": "American Consumers Are Getting Carried Away in Live-Streaming Rooms: Trends & Insights eu.36kr.com",
-          "regions": [
-            "🌍 全球"
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "id": "trend",
@@ -163,9 +151,9 @@
           "title": "The Best Tower Fans That Combat Stagnant Air And High Temps",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGdtYXFhaHcwY1ZDTHZsUUpmcGZFZ2xaNklkM3Zhd3NNMTh0WllYSGoyLUVKNzg2a2ZIZ21pU3JJQmlDVmJfWlZ5UFdvckIybmtOc2dPVGUzYzE4UUNMOXNZeHFQbFdZY2d0cmd2TzR6eThrdjVuOEt0Vk1Pd253b21R?oc=5",
           "date": "07/28 15:00",
-          "source": "forbes.com",
+          "source": "Forbes",
           "type": "📋 评测推荐",
-          "summary": "The Best Tower Fans That Combat Stagnant Air And High Temps forbes.com",
+          "summary": "The Best Tower Fans That Combat Stagnant Air And High Temps Forbes",
           "regions": [
             "🌍 全球"
           ]
@@ -174,20 +162,20 @@
           "title": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYRkdYb1BOR09uSDM4eW9DRnlTbExfRXpZcGtqLTNWNHJKNVE4NTFLU2pVdGVqeWpOeVlmMmRDTzdlLTladTlIeXZCOHVJR2l2Uk16clF0TlVtRjJUSldqUDI2OHFkZUsybHJZenZfZ2lFVnM?oc=5",
           "date": "08/18 15:00",
-          "source": "travelandleisure.com",
+          "source": "Travel + Leisure",
           "type": "📋 评测推荐",
-          "summary": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler travelandleisure.com",
+          "summary": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler Travel + Leisure",
           "regions": [
             "🌍 全球"
           ]
         },
         {
-          "title": "Ranked: The Best Handheld Fans to Help You Through This Heatwave",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lWUZ2RUI0RE1VM20wVHR3T1E4Wi1NMjBOQ1FrNUExSnJxUmhwQTM5ZTNpcUNJSWdzaHYyMFJQaG5NUE1wLUhCU1V3alhuN2E2QXVUTzFNeUp0LWZSaXRHVUQ1eEpxa2NCN0lGWnJjZ2E?oc=5",
-          "date": "07/24 15:00",
-          "source": "TODAY.com",
-          "type": "📋 评测推荐",
-          "summary": "Ranked: The Best Handheld Fans to Help You Through This Heatwave TODAY.com",
+          "title": "It’s Hot Out Here. Brands, It’s Time for Fans",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tX3VBSlR6c2w4YUJpdlNpbUE0OTBkcHh1NGwtNXRPcWdUejlYdldTb1JuVU5sdFlNSlFUWk1rMDUyX2szd2p4SVRhdkxRN2tINW14bC03WXM2dmtNSm95ZVI0dURLMjJtdU9HZWIyWnY0WTlLdmdfRy1TNA?oc=5",
+          "date": "07/02 15:00",
+          "source": "Vogue",
+          "type": "📰 行业资讯",
+          "summary": "It’s Hot Out Here. Brands, It’s Time for Fans Vogue",
           "regions": [
             "🌍 全球"
           ]
