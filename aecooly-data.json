@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01 14:50",
+  "updated": "2026-10-02 14:39",
   "brand": "Aecooly",
   "sections": [
     {
@@ -75,12 +75,23 @@
       ],
       "items": [
         {
+          "title": "Your Own Personal Breeze Is Just $20 Away",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRSnlRTEFuYWJoVzRUM3Y2OTcwd0g4WFpETTdxTHNLUWpDeXhjRVNrWXoyM3pZQm55S3hZa2VsQ2pwbVV5bVZsRzFOY28yUTV4Qm9adzN2aDZ1M1RQRHdjQnphcnI5R1dxQnk2dg?oc=5",
+          "date": "08/06 15:00",
+          "source": "WIRED",
+          "type": "📰 行业资讯",
+          "summary": "Your Own Personal Breeze Is Just $20 Away WIRED",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "On a Sweaty Summer Stroll, These Are the Neck Fans We Love",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBcGNMYW45aXRmaGRvRGF2WFUwcDJxcTZ6VS10a1pJcVhoYVhTb1JRZ1JwVUhua1pPSHRxZVh1M1BHMXZfTXI2RDlhYVhJY0VBdGlySWV0cnh5aGwwaVVjN1NDLXJ4ZFJVZGc?oc=5",
           "date": "07/31 15:00",
-          "source": "nytimes.com",
+          "source": "The New York Times",
           "type": "📰 行业资讯",
-          "summary": "On a Sweaty Summer Stroll, These Are the Neck Fans We Love nytimes.com",
+          "summary": "On a Sweaty Summer Stroll, These Are the Neck Fans We Love The New York Times",
           "regions": [
             "🌍 全球"
           ]
@@ -89,9 +100,9 @@
           "title": "7 best handheld fans to keep you cool on the move, tested by experts",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEY4SGYxNUpSYnNiOFVpUk9wVVJCVkRXWWUxWndGd1JLVUVfLVVBdkp6cGZwX3ZMRTZJNE5DS1NMaEM1Nm9PSFhGaDJrb3BRWEZoU0Rrak9EOUFtdEVJZDBSRV9sR2ZKcmlVY3BqWEJ4VlZsRTQwUWVtQ3BqVm5LcEFXYjdvd0xtSmVwb3hDdTgwWC1TZ3ZpdnFR?oc=5",
           "date": "08/13 15:00",
-          "source": "goodhousekeeping.com",
+          "source": "Good Housekeeping",
           "type": "📋 评测推荐",
-          "summary": "7 best handheld fans to keep you cool on the move, tested by experts goodhousekeeping.com",
+          "summary": "7 best handheld fans to keep you cool on the move, tested by experts Good Housekeeping",
           "regions": [
             "🌍 全球"
           ]
@@ -103,17 +114,6 @@
           "source": "Travel + Leisure",
           "type": "📋 评测推荐",
           "summary": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler Travel + Leisure",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "The 4 Best Neck Fans, Evaluated and Reviewed",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50NThHU2FtZ19pclIwWVJqc2otV1ltRnZHS2p4ZVBvN3dLN0FjYk12ekZPZmZ2Z3A1WE9tc3ZwYVBJbG4tVzhwaWRtYWpJc3J4VjJCMHFCNkZHOHQ3eUpXWUU0TWdzOHdhYXlBT2ZDUWtlLXgxc0RpaWQwYw?oc=5",
-          "date": "04/16 15:00",
-          "source": "Consumer Reports",
-          "type": "📊 市场动态",
-          "summary": "The 4 Best Neck Fans, Evaluated and Reviewed Consumer Reports",
           "regions": [
             "🌍 全球"
           ]
