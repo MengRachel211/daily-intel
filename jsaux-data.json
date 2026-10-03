@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 14:32",
+  "updated": "2026-10-03 13:57",
   "brand": "JSAUX",
   "sections": [
     {
@@ -27,6 +27,17 @@
           ]
         },
         {
+          "title": "All Switch 2 Bundles",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3aWJnNGVUOVB0TkpsMzFDbEV1TmpDWFVfejNrOHlkRUVlbW5McVJEdWpJTndOOUVhV01jUGFHWkpBUTM5NGVMbktpZU9TSTEtdXdIQlpVQzgydWx2WUZ3OTlpU1pnVVphYVl2UF9WZi1YZw?oc=5",
+          "date": "10/02 06:22",
+          "source": "IGN",
+          "type": "📰 行业资讯",
+          "summary": "All Switch 2 Bundles IGN",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "Nintendo Direct reveals Metroid Ravenous, Kirby and the World Beyond, and more games for Nintendo Switch 2 and Nintendo Switch",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNUNBazdudjMwamtZdkNiTWh3b1pGN1VrYmxLZDVrbnJ5RzBBOUxJdkwzTkFtQzJIY0lWT01qdlFnd3V6LVdvVEMzYjE2N2xzdjY4MlBPbFZVYlBKN1kwRGFiQUxzaFlIcFFpc0JMaDlHY2h4aHNRaEE5d0RUR19xTHRRMzNnWjh3Z3dPT0xHd3hyN0NRZlBORjlzMG1EQnRhSHFIU1pnMFQzcWc4SUkyRzU2ekhiLVM4N24weGxrSEFDb2dQQjNkT1VhNXlxWEZ6Z3J0Y3ZsRkxRTmtTbU5uMXRpZGxUOWJVaXAyckVrRWt0QXJhcmd0NFhSX2libXdl?oc=5",
           "date": "09/11 15:00",
@@ -44,17 +55,6 @@
           "source": "Nintendo Life",
           "type": "🎮 游戏动态",
           "summary": "Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026 Nintendo Life",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Your Nintendo Switch 2 launch kit: The best accessories",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xOTBUWGFqRndiXzhaVDVYdnpkelNsX2pKdmdYTld1NEVwSGEydEVGSkZ1c1NjaTBVM3JYbVZ4UzhMRGZabmNTWHF3X3VWVUNZXzRnU3ZLSE5KZXc2VjJTXzdkZDg1d1BUZlZGOXZFTjVYQQ?oc=5",
-          "date": "08/06 15:00",
-          "source": "Techlicious",
-          "type": "🚀 新品发布",
-          "summary": "Your Nintendo Switch 2 launch kit: The best accessories Techlicious",
           "regions": [
             "🌍 全球"
           ]
@@ -86,12 +86,23 @@
           ]
         },
         {
+          "title": "Valve's own guide says Steam Frame adapter streaming is Windows only for now",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmNnVkdNZ0dZRWt1U0tSc0VreTVVTmN2TGVVZEpWeFA0Y1J0R0xtQ3JWTjBNYXBJLW1LQlhLd0hqalJsMS1YTnIzY3VNZEJfaUhYSVE0bDdxMDMzTnFBbzFoUG9KWVRITE9Md2lFamxBWnRaWVV6RzZIT2l3dGlOT3R5bG1xb3Qt?oc=5",
+          "date": "10/02 12:59",
+          "source": "MIXED Reality News",
+          "type": "📋 评测推荐",
+          "summary": "Valve's own guide says Steam Frame adapter streaming is Windows only for now MIXED Reality News",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
           "title": "Monday-morning surprise: Valve Software suddenly launches its wireless VR headset Steam Frame for $1,059",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWU83OFQwMlNpY2hyX1lDWUlJeE5QOHo4T3ozUFhzdWpMbG9CSmVGSmxYUmRGLVNwV01Jam11QW8zbE9MaDh3Z1I5aGJRLU9QcVM1TjQ3V0tvQUI1dXk1VFRLZWpSU2ZSU2VfRzJGMHJwamxBaWlwMlZvV2VPRjBqVGtWUWxjbjQyMHduTzRTLTVnbVBDYmpfWEN0N01neDZEaHdoSl9VVGhpVWt5WC1PY1BZOGJsZmJWMXhjancyR0JKMzdXdnNQTWlremI?oc=5",
           "date": "09/14 15:00",
-          "source": "GeekWire",
+          "source": "geekwire.com",
           "type": "🚀 新品发布",
-          "summary": "Monday-morning surprise: Valve Software suddenly launches its wireless VR headset Steam Frame for $1,059 GeekWire",
+          "summary": "Monday-morning surprise: Valve Software suddenly launches its wireless VR headset Steam Frame for $1,059 geekwire.com",
           "regions": [
             "🌍 全球"
           ]
@@ -103,17 +114,6 @@
           "source": "Northeast Times",
           "type": "📰 行业资讯",
           "summary": "Valve’s Steam Frame Wireless VR Headset Starts at $1,059 With Lottery Reservations Northeast Times",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Meta VR Glasses, Quest 3 & Steam Frame Compared – Specs & Features",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMVNLTXVnVFJuZFlQRkxYQURrb3g3SGpmeXZKU2RsdmRNWEJYVXRmbW5zMVRLdU5JWWVLVm1ZSHBSb1FOazU1cUhzeEZ0MEI0MGtrd0lSWkhDSURlQkNYcVFYNW9USE84SFVNYnhwa0t6Mzg4cy1HWnNVRms?oc=5",
-          "date": "09/29 19:54",
-          "source": "Road to VR",
-          "type": "📋 评测推荐",
-          "summary": "Meta VR Glasses, Quest 3 & Steam Frame Compared – Specs & Features Road to VR",
           "regions": [
             "🌍 全球"
           ]
@@ -133,6 +133,17 @@
         "夏季联名大游上线是推广窗口，借势做Listing流量"
       ],
       "items": [
+        {
+          "title": "Nex Playground Gaming Console Maker Raises More Than $150 Million in New Funding, Niantic’s Jeff Shouger Joins as CFO",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkZKMTNOLXZPd0RSY2Qzd1hWQ1dVSWdQWFFWQm5PUU5xUnFFMV8xQkJMa3ZYZGJMVS03ZEc0NHlYUTZHUy0xR05sYnlrTnAtbzhTN0tETlNab2dKZTZKcU9DQ3c4N3lVQ1A1NE02R3VnVG13WXVSRjM5Qm9mYzBJenJaNFNSZjh2Zk0wR09zSUJ0RjNJTFZxZlJGVXc?oc=5",
+          "date": "09/17 15:00",
+          "source": "Yahoo Finance",
+          "type": "🎮 游戏动态",
+          "summary": "Nex Playground Gaming Console Maker Raises More Than $150 Million in New Funding, Niantic’s Jeff Shouger Joins as CFO Yahoo Finance",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
         {
           "title": "Nex Playground ‘Dances’ Into First Collaboration With Mattel",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWVpWGs1UGg2VXBQdmhtWHVBRF9fSHZRbDd1Y29hM1NCc1VDdkxwSkFCYjBqUGpOeld0R09QZHFOY3R0VzhrNDNSUHRxdGtWdldwUEp4YUtoTTVrc1FEdW1JeFVfM01FcnZ1Vk9oVUViMGVucC0xOS1hWjVCengtTldhVjNVU1JoRy1pcGVkdVF0bjdfTEhBOFVxWmktb251YjUyag?oc=5",
@@ -162,17 +173,6 @@
           "source": "New York Post",
           "type": "📢 促销活动",
           "summary": "29 hottest holiday toys on every kid’s wishlist in 2025, per expert reviewers New York Post",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Nex Playground Unveils New Holiday Game Lineup",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVZkellWNVR3X01GY1VHMzBySDBRYmRNWFdUNDVvcXdHUEFtMTQ5ZEVhOFhfVllTRUs1Qm5aTjJvN0lTaWEzR1kzUE5Dd2x6SWp6QW15ckJwaHhqUXFVTzRaVkJpOEc2YS1xbE1RVm5QSldMalVlcXF3TUIwMk1wLUQ0Y200My1UdnFSZjhGak9rVEFq?oc=5",
-          "date": "10/17 20:10",
-          "source": "License Global",
-          "type": "🚀 新品发布",
-          "summary": "Nex Playground Unveils New Holiday Game Lineup License Global",
           "regions": [
             "🌍 全球"
           ]
@@ -226,12 +226,12 @@
           ]
         },
         {
-          "title": "Pixel 11 Pro XL announced: Price, specs, new features",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45SlI4REc1ZGdobEY4dDdPd3o4QlNJdEZuTHRJWDF5TnVTc192R3FDdEdDakdQUVNOUVZ6YkhKX1o4aXdjbnNXSTM0ZHkybHY1SWxKM0paeTFiSnpGNWIxM3k1TFdBY0wyWHc?oc=5",
-          "date": "08/12 15:00",
-          "source": "Mashable",
+          "title": "Google Pixel 11 release date, price, specs, and must-know features",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNU1zS210MkUxdnRjZkZoRTBXSTF4NGI2dkVHSjBsbUM1MDBtbnNRVXNTT1IwXzZaQXU0TzBVOEpxVEg0S3dieWswS1ZOanY3VURtY1RZOUEyaVpDUFpiVjZGY25aMVJELVJQSFFDM0RMNmdXdGU0dEJHbDYweXBSNg?oc=5",
+          "date": "08/18 15:00",
+          "source": "PhoneArena",
           "type": "🚀 新品发布",
-          "summary": "Pixel 11 Pro XL announced: Price, specs, new features Mashable",
+          "summary": "Google Pixel 11 release date, price, specs, and must-know features PhoneArena",
           "regions": [
             "🌍 全球"
           ]
@@ -263,12 +263,12 @@
           ]
         },
         {
-          "title": "VR, AR & XR Release Dates 2026: Every Headset, Game, and Accessory Coming Out",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQZ0xCelplVmJaNHp4Vk5tTjdPS3VLTHlwLVZYaHh0SHJCNG1GWEF4V0FhNURCMHFkZlg0QmkxeDNPei1pMXc?oc=5",
-          "date": "10/02 04:23",
-          "source": "vr.org",
+          "title": "New Titles and Updates For Meta VR Glasses and Quest Announced at Meta Connect",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnZidnlLS2xsWWQ4R3RMdGQ2SGM1VWNhUGgwTTNzZUR5dXN2d3NHdGowaUZ6TnVEQ0pmWTg5eEZ0YVFmTHRuUEV3cG1rTkJuUndvNmVHMGFMQU51X2FrOV9DNFNSV2c1b2t5RWJNSm51b1lRRHNWdE9GX08tc29GYkdjNXp6b2s?oc=5",
+          "date": "09/23 15:00",
+          "source": "meta.com",
           "type": "🚀 新品发布",
-          "summary": "VR, AR & XR Release Dates 2026: Every Headset, Game, and Accessory Coming Out vr.org",
+          "summary": "New Titles and Updates For Meta VR Glasses and Quest Announced at Meta Connect meta.com",
           "regions": [
             "🌍 全球"
           ]
@@ -285,12 +285,12 @@
           ]
         },
         {
-          "title": "Upcoming VR Headsets 2026: New Releases & What's Coming Next",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UYWdvRDRiLUVScXVrdTZ0V21yRzJFVS0wRWdYd3Q1QmJPbXlTTEc1Y0dhU1BRTFNLQ1lEZWtpYlozbXBPX2ItUXpCb2hFQlVCOEE?oc=5",
-          "date": "09/26 15:00",
+          "title": "VR, AR & XR Release Dates 2026: Every Headset, Game, and Accessory Coming Out",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQZ0xCelplVmJaNHp4Vk5tTjdPS3VLTHlwLVZYaHh0SHJCNG1GWEF4V0FhNURCMHFkZlg0QmkxeDNPei1pMXc?oc=5",
+          "date": "10/01 15:00",
           "source": "vr.org",
           "type": "🚀 新品发布",
-          "summary": "Upcoming VR Headsets 2026: New Releases & What's Coming Next vr.org",
+          "summary": "VR, AR & XR Release Dates 2026: Every Headset, Game, and Accessory Coming Out vr.org",
           "regions": [
             "🌍 全球"
           ]
@@ -373,9 +373,9 @@
           "title": "PCB Connector Market To 2035: Miniaturization and High-Speed Data Demand Drive Growth - News and Statistics",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlhPVXliSWIyR3U4eU1CaDhDLU1INVljQWl0Sk1kdUEtaFhrZ1VSRXJTekZaSUc5b21xSDgyeENIeG5BQjFMVTBqamJ0TWhLY244QzF3RnBMTVlRR19DcW9BMnVwZWhaaW5laVZWS1d6ZW9KZ2h4X0FsbnRnQW9EVlNkZ25mUGtlVWh5eVpGeTBCLUlNWXVnc0V2djJnbk1sdl9aZkVPV2g5akhyVXhRRm1ZR3BPdGplYV9YUjk1UW4?oc=5",
           "date": "09/25 01:11",
-          "source": "IndexBox",
+          "source": "indexbox.io",
           "type": "📊 市场动态",
-          "summary": "PCB Connector Market To 2035: Miniaturization and High-Speed Data Demand Drive Growth - News and Statistics IndexBox",
+          "summary": "PCB Connector Market To 2035: Miniaturization and High-Speed Data Demand Drive Growth - News and Statistics indexbox.io",
           "regions": [
             "🌍 全球"
           ]
@@ -384,9 +384,9 @@
           "title": "India Docking Station Market Size, Share and Outlook 2034",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1XzJCMUQ4b2dEbURkcWxUdlZGQVJyVEZYbkUwOWc3SUZlOGFVM1ZucFJIc3pWMWxuVldVU0dsRzB0V1Y3TjNSMndpR19BeWw3elZFLTVIS21iTlU4Qlc2RVV3Vl9kdw?oc=5",
           "date": "06/17 15:00",
-          "source": "IMARC Group",
+          "source": "imarcgroup.com",
           "type": "📊 市场动态",
-          "summary": "India Docking Station Market Size, Share and Outlook 2034 IMARC Group",
+          "summary": "India Docking Station Market Size, Share and Outlook 2034 imarcgroup.com",
           "regions": [
             "🇮🇳 印度"
           ]
