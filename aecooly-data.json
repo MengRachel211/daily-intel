@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 13:33",
+  "updated": "2026-10-16 13:25",
   "brand": "Aecooly",
   "sections": [
     {
@@ -15,6 +15,17 @@
         "北美、东南亚、中东为三大核心增量市场，优先保障Amazon US/JP及Shopee库存"
       ],
       "items": [
+        {
+          "title": "From £1.15bn in lost output to a £355bn market opportunity: the economics of a hotter Britain",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54VkhHaVBxTG55RjlmT1Braks1VnhXeU9jbnVoTzVRYUZ0NGF2YTNWa1AxVVVyYVRtSC1JQjg0X1Q5NmJsQjh0ZV9yTDVKZUJZYWlzanJJaFJXZjRqdC1aaVhkcC1BaGpvSDVWcEZPTmJGTHVDX01vSw?oc=5",
+          "date": "10/12 18:01",
+          "source": "Barclays Group",
+          "type": "📊 市场动态",
+          "summary": "From £1.15bn in lost output to a £355bn market opportunity: the economics of a hotter Britain Barclays Group",
+          "regions": [
+            "🇬🇧 英国"
+          ]
+        },
         {
           "title": "Desk Fan Market Size, Share | Industry Report [2026-2034]",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhUThBU0VlZXg3U1ZtTU9tdkYwZlExcldoLS1hdUZLRFR1ZWViVG1GTE93OU9mSFdYZ1VOdktKUkNibkZ4My1oS1BVRE16T3lvM0ZuUTNpWHNuenRQaUd4WDBjOFN1MUNCLXN3WUlqMA?oc=5",
@@ -44,17 +55,6 @@
           "source": "The Conversation",
           "type": "📰 行业资讯",
           "summary": "Why handheld fans are not cool for the planet The Conversation",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Irish consumers fuelling low-cost 'fast tech' trend",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1lkd1AwdFB2QUN5TGFpU2hrNWFSZjhVT2RaZW9QNHV6ZV9yU20yaV9qUkxDcld2S0NjLVNRUkJxbFFZQk54dURSUl9IVGFDMlFqSUFzVFI4dV9vbVVrYjJQWGxpcWx4MGZOZTYxeDdyWkQ2OF9DdlBxLU9OWU9YTzZjUjQ?oc=5",
-          "date": "10/12 07:01",
-          "source": "RTE.ie",
-          "type": "📊 市场动态",
-          "summary": "Irish consumers fuelling low-cost 'fast tech' trend RTE.ie",
           "regions": [
             "🌍 全球"
           ]
@@ -170,17 +170,6 @@
           ]
         },
         {
-          "title": "European heat wave brings in cool cash for Asian air-conditioner makers as sales surge",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdERPMnpZYl9ZT0xPb1JvQ2lxMmxpM0hoN3BrTkhKR05nMDlUbGJpSjNJN3d3QVcwRC0tSmEyQUZSQW9Ldk90WjdEZG1EZWxnMjBDZDRBUURLRGF6R3FSOVRFekgxUlFiTjdWZHdsMmNLWE9OTjdQd3lQLXBMdU8wd1FDYXI?oc=5",
-          "date": "06/25 15:00",
-          "source": "CNN",
-          "type": "📢 促销活动",
-          "summary": "European heat wave brings in cool cash for Asian air-conditioner makers as sales surge CNN",
-          "regions": [
-            "🇪🇺 欧洲"
-          ]
-        },
-        {
           "title": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYRkdYb1BOR09uSDM4eW9DRnlTbExfRXpZcGtqLTNWNHJKNVE4NTFLU2pVdGVqeWpOeVlmMmRDTzdlLTladTlIeXZCOHVJR2l2Uk16clF0TlVtRjJUSldqUDI2OHFkZUsybHJZenZfZ2lFVnM?oc=5",
           "date": "08/18 15:00",
@@ -189,6 +178,17 @@
           "summary": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler Travel + Leisure",
           "regions": [
             "🌍 全球"
+          ]
+        },
+        {
+          "title": "European heat wave brings in cool cash for Asian air-conditioner makers as sales surge",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdERPMnpZYl9ZT0xPb1JvQ2lxMmxpM0hoN3BrTkhKR05nMDlUbGJpSjNJN3d3QVcwRC0tSmEyQUZSQW9Ldk90WjdEZG1EZWxnMjBDZDRBUURLRGF6R3FSOVRFekgxUlFiTjdWZHdsMmNLWE9OTjdQd3lQLXBMdU8wd1FDYXI?oc=5",
+          "date": "06/25 15:00",
+          "source": "CNN",
+          "type": "📢 促销活动",
+          "summary": "European heat wave brings in cool cash for Asian air-conditioner makers as sales surge CNN",
+          "regions": [
+            "🇪🇺 欧洲"
           ]
         }
       ]
