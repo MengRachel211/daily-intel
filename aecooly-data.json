@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 13:20",
+  "updated": "2026-10-18 13:24",
   "brand": "Aecooly",
   "sections": [
     {
@@ -170,6 +170,17 @@
           ]
         },
         {
+          "title": "As heatwaves strike, Europeans turn to Chinese air-conditioners",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ERVdsa2J5bHJQUzctVURTckYtczFrMU1jVkt2dUdlNkZEYjFjRlVENlNrZm1TZEVZMUJUV0xLYm1Za3AwYTUzQ3IyWmp5czZ6bEJNZE02U24yUQ?oc=5",
+          "date": "07/16 15:00",
+          "source": "BBC",
+          "type": "📰 行业资讯",
+          "summary": "As heatwaves strike, Europeans turn to Chinese air-conditioners BBC",
+          "regions": [
+            "🇪🇺 欧洲"
+          ]
+        },
+        {
           "title": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYRkdYb1BOR09uSDM4eW9DRnlTbExfRXpZcGtqLTNWNHJKNVE4NTFLU2pVdGVqeWpOeVlmMmRDTzdlLTladTlIeXZCOHVJR2l2Uk16clF0TlVtRjJUSldqUDI2OHFkZUsybHJZenZfZ2lFVnM?oc=5",
           "date": "08/18 15:00",
@@ -178,17 +189,6 @@
           "summary": "We Tested 20 Portable Fans to Find the 10 Best for Every Traveler Travel + Leisure",
           "regions": [
             "🌍 全球"
-          ]
-        },
-        {
-          "title": "European heat wave brings in cool cash for Asian air-conditioner makers as sales surge",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdERPMnpZYl9ZT0xPb1JvQ2lxMmxpM0hoN3BrTkhKR05nMDlUbGJpSjNJN3d3QVcwRC0tSmEyQUZSQW9Ldk90WjdEZG1EZWxnMjBDZDRBUURLRGF6R3FSOVRFekgxUlFiTjdWZHdsMmNLWE9OTjdQd3lQLXBMdU8wd1FDYXI?oc=5",
-          "date": "06/25 15:00",
-          "source": "CNN",
-          "type": "📢 促销活动",
-          "summary": "European heat wave brings in cool cash for Asian air-conditioner makers as sales surge CNN",
-          "regions": [
-            "🇪🇺 欧洲"
           ]
         }
       ]
