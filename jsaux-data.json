@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 15:31",
+  "updated": "2026-11-17 16:44",
   "brand": "JSAUX",
   "sections": [
     {
@@ -73,52 +73,7 @@
         "JSAUX已宣布Steam Machine配件支持计划，需提前布局扩展坞/HDMI线/USB-C线SKU",
         "Steam Frame VR上市后，VR配件可与Quest系列共线开发，降低研发成本"
       ],
-      "items": [
-        {
-          "title": "Valve Steam Frame: Price, How to Buy, Specs & Games",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9uS19HeURrcXBVUkhWeUY3S0hwLXhua1lwM1RTcDlKMkUxV25jYlIxUFV0aWstbU1pbTF4aGp1aw?oc=5",
-          "date": "11/12 16:00",
-          "source": "https://vr.org/",
-          "type": "🎮 游戏动态",
-          "summary": "Valve Steam Frame: Price, How to Buy, Specs & Games https://vr.org/",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Steam Link VR on Steam Frame: 12 Steps, 70 Min [2026]",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lOWpVbkxwd1RWb0NiQk5vUEVwcWhWbHNqMGJLdkpWSlZ2T1FPQW5kdDM2TVdnX3F0NHJleEM5X2dDM0x2d3Jkam9ZZURkbGRGeEdIZ3ZnU0tFUnFmSnE3YVRGZjlONkx5LTJ1MDV5OHgta2VEcEpIQ1Zwc2FGX00?oc=5",
-          "date": "11/10 18:59",
-          "source": "shattered.io",
-          "type": "📰 行业资讯",
-          "summary": "Steam Link VR on Steam Frame: 12 Steps, 70 Min [2026] shattered.io",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Steam Frame Release Date: Launched September 14, 2026, Reservation Dates",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0Tm5zZ3hsS2szZzlGZHR3MFFnOGR1Q1VDNHlwdWhRanJGX29TajFnRVlNMkw1WHp5dEZmZVZ4TkZQQ0dmUGdKemdMN3I3emk1?oc=5",
-          "date": "11/07 16:00",
-          "source": "vr.org",
-          "type": "🚀 新品发布",
-          "summary": "Steam Frame Release Date: Launched September 14, 2026, Reservation Dates vr.org",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Surprise: Valve’s new Steam Machine is here, but the price is the real shocker",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzlNQUlySFg2UXVYOS1fNVN1UTJITmFudmlVakJaNjJTX0hWblFrWXRuWWhvS080U0J0Q1dsTWE5bG9YMFNUM1JCd29DT3RNWEhpdUdqUnNqSFMtdE4zR09OV2RYeUxMQ2NxOC0welM1c0Y3VG53bThxbVF1SUZFd0ZaMFJKMEdjQlRwMDBfeTRrUmlEZFVMUUp1R0VxVWh0YklkSTU2NFBzZw?oc=5",
-          "date": "06/22 15:00",
-          "source": "GeekWire",
-          "type": "📰 行业资讯",
-          "summary": "Surprise: Valve’s new Steam Machine is here, but the price is the real shocker GeekWire",
-          "regions": [
-            "🌍 全球"
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "id": "nex",
@@ -193,23 +148,23 @@
       ],
       "items": [
         {
-          "title": "Google Pixel Tag On Sale Now: 2 Caveats and 1 Saving Grace",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkF1dmxublRzLVJnaXl4Y21pdUl6SkM3N3pkQ0hidVVfVUhUck1wMllfYnpMb05MZnFHTXBYbmRSUUUtOTdNOXZTajhVaHhKYzlZRkZDczFWMVVTcWN6eE5YRjBwa29SNklkTnlrNlBtZzMzUHJpRGRMbEsxSGp2ZVJwbnFaNUpkZl8wRWxMak5EZXB3MUdMZjd1NnBOM250RHptblJHQjRuQQ?oc=5",
-          "date": "11/11 16:00",
-          "source": "Tech Advisor",
-          "type": "📢 促销活动",
-          "summary": "Google Pixel Tag On Sale Now: 2 Caveats and 1 Saving Grace Tech Advisor",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "We’ve Tried Every Pixel Phone Ever Made—Here Are the Best to Buy Right Now",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50MVM2MDlDR0R1VjlBYWhxQ21iZ09nQjQ5dV9xQXVpU0wtMEh3RElpOGlCNU5IR0ZqY0ZXSzNUR0dXV282bGdvd25FcG9TSHZ6ZFJmX1pfOUJHcUp6QVNqR1RB?oc=5",
           "date": "08/27 15:00",
           "source": "WIRED",
           "type": "📋 评测推荐",
           "summary": "We’ve Tried Every Pixel Phone Ever Made—Here Are the Best to Buy Right Now WIRED",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Google Pixel Tag On Sale Now: 2 Caveats and 1 Saving Grace",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkF1dmxublRzLVJnaXl4Y21pdUl6SkM3N3pkQ0hidVVfVUhUck1wMllfYnpMb05MZnFHTXBYbmRSUUUtOTdNOXZTajhVaHhKYzlZRkZDczFWMVVTcWN6eE5YRjBwa29SNklkTnlrNlBtZzMzUHJpRGRMbEsxSGp2ZVJwbnFaNUpkZl8wRWxMak5EZXB3MUdMZjd1NnBOM250RHptblJHQjRuQQ?oc=5",
+          "date": "11/11 16:00",
+          "source": "Tech Advisor",
+          "type": "📢 促销活动",
+          "summary": "Google Pixel Tag On Sale Now: 2 Caveats and 1 Saving Grace Tech Advisor",
           "regions": [
             "🌍 全球"
           ]
@@ -263,34 +218,34 @@
           ]
         },
         {
-          "title": "VR, AR & XR Release Dates 2026: Every Headset, Game, and Accessory Coming Out",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQZ0xCelplVmJaNHp4Vk5tTjdPS3VLTHlwLVZYaHh0SHJCNG1GWEF4V0FhNURCMHFkZlg0QmkxeDNPei1pMXc?oc=5",
-          "date": "11/13 16:00",
-          "source": "https://vr.org/",
-          "type": "🚀 新品发布",
-          "summary": "VR, AR & XR Release Dates 2026: Every Headset, Game, and Accessory Coming Out https://vr.org/",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "Meta Quest 3 Glasses Spacer Test: 12 Steps, 45 Min [2026]",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOFJFM3Mwdi1lSk5iX1lFMGxuRUxhTkRZTXFDTUk3ZDFnaFQteVhPVFZVODVoelBfTkJMOHFXeEhlQWVLb3pud1o3THhqTHVKb1RpWmw5TnpOUlNEQXpocmk4YjFXeEdJZVYwRkt2My1UYklPQlBzLVZ3Rmk?oc=5",
-          "date": "11/12 01:39",
-          "source": "shattered.io",
-          "type": "📋 评测推荐",
-          "summary": "Meta Quest 3 Glasses Spacer Test: 12 Steps, 45 Min [2026] shattered.io",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
           "title": "Meta Partners with Lionsgate to Bring 'The Hunger Games: Sunrise on the Reaping' to Theaters and Meta VR Glasses in 3D",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDlpSVdWQmpGSkhKU3RhYkwycVAwUTlKLU9JZ2haSEJUNnNhckZhc19hZlI2bVp1MWduT3NXeE1Damt3UW9nN1pWYXJja0JWamg2MkE4UlRrVE9qb0ptaktrUllDdzZucFRqZmxXaUs2dW9RSXRxQWgweVE0Zm5TWUtnT0I5Mi1xbzBCcjVremNTNFlucjJ6TE1EU1E3ZG44YmxjbFhMWVVINW1PVGtfMA?oc=5",
           "date": "11/02 16:00",
           "source": "www.meta.com",
           "type": "🎮 游戏动态",
           "summary": "Meta Partners with Lionsgate to Bring 'The Hunger Games: Sunrise on the Reaping' to Theaters and Meta VR Glasses in 3D www.meta.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "New Titles and Updates For Meta VR Glasses and Quest Announced at Meta Connect",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnZidnlLS2xsWWQ4R3RMdGQ2SGM1VWNhUGgwTTNzZUR5dXN2d3NHdGowaUZ6TnVEQ0pmWTg5eEZ0YVFmTHRuUEV3cG1rTkJuUndvNmVHMGFMQU51X2FrOV9DNFNSV2c1b2t5RWJNSm51b1lRRHNWdE9GX08tc29GYkdjNXp6b2s?oc=5",
+          "date": "09/23 15:00",
+          "source": "www.meta.com",
+          "type": "🚀 新品发布",
+          "summary": "New Titles and Updates For Meta VR Glasses and Quest Announced at Meta Connect www.meta.com",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "‘VR Games Showcase’ August 2026 Recap: Every Meta Quest VR Game Announcement",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45MHNwbGIwWjlrRTQ1RExCRTlYVTVkY2tzLUlXeTQwVVVSZjBXNDljU25TTjV2VkpsWUxKUExWOW9URlBpVTQxZHZDUTROZnVxeWFBY2dtUDVGRUtGV3dpM25USHY0VTA?oc=5",
+          "date": "08/14 15:00",
+          "source": "www.meta.com",
+          "type": "🚀 新品发布",
+          "summary": "‘VR Games Showcase’ August 2026 Recap: Every Meta Quest VR Game Announcement www.meta.com",
           "regions": [
             "🌍 全球"
           ]
@@ -310,6 +265,17 @@
         "掌机用户黏性高，保护套+散热底座+充电线三件套是标配组合SKU"
       ],
       "items": [
+        {
+          "title": "Best handheld gaming PC in 2026: my recommendations for the best portable powerhouses",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTczVJcnhKczVBQ0VIMmgyeUI1c01Bb2o1eXZWTlBoZkQxVThCZ2QwaU1TcTBPS0ViaHppQkJNdE1aWTZ2NU14dG9EUWVCaWhORGFsdmtCLUxRUXh3?oc=5",
+          "date": "10/29 15:00",
+          "source": "PC Gamer",
+          "type": "🎮 游戏动态",
+          "summary": "Best handheld gaming PC in 2026: my recommendations for the best portable powerhouses PC Gamer",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
         {
           "title": "ROG XBOX Ally X20 Anniversary Edition Available Now | ROG",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQXVEQjEzTWVhQTBJeV9WV1ZzbnBUUkp3X21oWEtOZWZmUWNQV3ZDOWI3TjZpRGdoX1lHNkhtNzRiLVpBdE1BR3pjelJucTZMNlNsOHI3Wll6d3QtRHRYc1FndmxiNGtCOUdpY1ZOSXM0YXZzYzBsaDhKYnRiOUVEV3AySEpiU2lOaDVmZkdUQ082dzNnbkE?oc=5",
@@ -339,17 +305,6 @@
           "source": "IGN",
           "type": "🎮 游戏动态",
           "summary": "The Best Handheld Gaming PCs: Our Top Reviewed Picks for 2026 IGN",
-          "regions": [
-            "🌍 全球"
-          ]
-        },
-        {
-          "title": "These are the 7 best gaming handhelds in 2026 we've tested to play games anywhere",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGcG5PbkdLRGFqcFFfaXZISUZrWlpQbVRoRDF4eGVDbUtDOEV0NlpRYkNoVjBTQ0JyaHRkblJtVGRHLTlaU29jU3BVZG9wbVdIa1hndlh6RmNMbDFSUHRVUWYzeXl2VThpcXdLWlppYkxDdw?oc=5",
-          "date": "10/16 15:00",
-          "source": "Tom's Guide",
-          "type": "🎮 游戏动态",
-          "summary": "These are the 7 best gaming handhelds in 2026 we've tested to play games anywhere Tom's Guide",
           "regions": [
             "🌍 全球"
           ]
