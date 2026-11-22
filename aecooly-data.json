@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21 16:00",
+  "updated": "2026-11-22 15:46",
   "brand": "Aecooly",
   "sections": [
     {
@@ -73,7 +73,52 @@
         "竞品集中发力颈挂款&桌面款，差异化机会在：超长续航（50h+）、静音（30dB以下）、多合一",
         "TikTok Shop竞品达人投流明显加速，KOC内容种草是性价比最高的反制手段"
       ],
-      "items": []
+      "items": [
+        {
+          "title": "On a Sweaty Summer Stroll, These Are the Neck Fans We Love",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBcGNMYW45aXRmaGRvRGF2WFUwcDJxcTZ6VS10a1pJcVhoYVhTb1JRZ1JwVUhua1pPSHRxZVh1M1BHMXZfTXI2RDlhYVhJY0VBdGlySWV0cnh5aGwwaVVjN1NDLXJ4ZFJVZGc?oc=5",
+          "date": "07/31 15:00",
+          "source": "The New York Times",
+          "type": "📰 行业资讯",
+          "summary": "On a Sweaty Summer Stroll, These Are the Neck Fans We Love The New York Times",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "Dyson HushJet Mini Cool Review: Best Personal Fans for Festivals 2026",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlZNbnFKQms0ZFE0MmJ5bFN1R2J4MUhvVlNZeVZWY3BXYVJhVWRwQmE0Z0djYW8yR2tmRTVrS19MamFYTG15SFVSWlU1dW5ON2dvUm41a2pIZTVpV3FQYjdrRFVtVWEtS0NPNms3cDBEV0pZaG92elBOUTltUUJNcHZEOGM0ekVkaGVFckdPM0x4eldaVDNVVnZudWxYLU1OSktrV3p3Q24?oc=5",
+          "date": "04/14 15:00",
+          "source": "WWD",
+          "type": "📋 评测推荐",
+          "summary": "Dyson HushJet Mini Cool Review: Best Personal Fans for Festivals 2026 WWD",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "The best portable fans of 2026, tested and reviewed, to keep you cool on the go",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX01PNGdva1oxbEgtX2xtcGc0a3B6ZGNqaGd4OGswNjZPQ1BpRUJRaTR3Y1hXb3Vfc3RMWUVGVDFYSU9ocmJkbWVqZXVXc2tSNUlsMU12WmszNUNYX1FNVmhtMTlaa01ZLWFzTTF2ZkVXQ1R0QzNPUllMYVltcHExS015ODhHd21jYzRGcWFjRTYyZw?oc=5",
+          "date": "08/25 15:00",
+          "source": "Yahoo",
+          "type": "📋 评测推荐",
+          "summary": "The best portable fans of 2026, tested and reviewed, to keep you cool on the go Yahoo",
+          "regions": [
+            "🌍 全球"
+          ]
+        },
+        {
+          "title": "We tested 6 portable fans for extreme heat — these are the best ones we tried",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyRFJ3ZnVRMzN6UTlRbjI5YUNlcTM2X2pqaFBzWWZaVGxVa19DQzFBTjh1ay1KNGFnQmNvY3NTanpyVjBKMEp4c2Qzb29SRXZmV1BmRVkyNGRjRGVOeTZERkE0aXVRaDRBc0VWUEtsd0dJd3dCZThERw?oc=5",
+          "date": "07/14 15:00",
+          "source": "NBC News",
+          "type": "📋 评测推荐",
+          "summary": "We tested 6 portable fans for extreme heat — these are the best ones we tried NBC News",
+          "regions": [
+            "🌍 全球"
+          ]
+        }
+      ]
     },
     {
       "id": "platform",
